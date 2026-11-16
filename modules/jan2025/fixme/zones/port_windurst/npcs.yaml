@@ -1,0 +1,109 @@
+npcs:
+  17760508:
+    _jan2025_candidates: [17760508, 17760507]
+    script: Phantom_gems_Box
+    display_name: Phantom gems Box
+    at: [196.13, -8.67, 177.43, 202]
+    render:
+      look: {type: standard, model: 960}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    widescan: true
+    content: tvr
+  17760512:
+    _jan2025_candidates: [17760511]
+    script: NPC[ff]
+    render:
+      look: {type: standard, model: 50}
+  17760516:
+    _jan2025_candidates: [17760515]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17760520:
+    _jan2025_candidates: [17760519]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17760521:
+    _jan2025_candidates: [17760520]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17760522:
+    _jan2025_candidates: [17760521]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17760538:
+    _jan2025_candidates: [17760537]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 112
+  17760539:
+    _jan2025_candidates: [17760538]
+    script: Shanruru
+    display_name: Shanruru
+    at: [-1.299, -6.0, 186.699, 62]
+    render:
+      look: {type: standard, model: 3163}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17760540:
+    _jan2025_candidates: [17760539]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+    status: cutscene_only
+  17760541:
+    _jan2025_candidates: [17760540]
+    script: Pichichi
+    display_name: Pichichi
+    at: [-25.79, -6.0, 193.136]
+    render:
+      look: {type: standard, model: 3162}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17760544:
+    _jan2025_candidates: [17760543]
+    script: Tales_Beginning
+    display_name: Tales' Beginning
+    at: [-211.22, -8.169, 194.804, 185]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+    widescan: true
+    content: tvr

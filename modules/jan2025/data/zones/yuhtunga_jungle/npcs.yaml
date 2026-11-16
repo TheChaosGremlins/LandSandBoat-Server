@@ -1,0 +1,333 @@
+npcs:
+  17281548: null
+  17281549: null
+  17281550: null
+  17281551: null
+  17281552: null
+  17281553: null
+  17281554: null
+  17281555: null
+  17281556: null
+  17281557: null
+  17281558: null
+  17281575: null
+  17281576: null
+  17281577: null
+  17281579: null
+  17281580: null
+  17281581: null
+  17281582: null
+  17281589: null
+  17281607: null
+  17281615: null
+  17281616: null
+  17281625: null
+  17281630: null
+  17281639: null
+  17281640: null
+  17281654: null
+  17281656: null
+  17281661: null
+  17281665: null
+  17281673: null
+  17281674: null
+  17281675: null
+  17281680: null
+  17281682: null
+  17281574:
+    script: Treasure_Casket
+    display_name: Treasure Casket
+    render: {entity_flags: null, name_vis: 4, moving: 7}
+  17281578:
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17281590:
+    script: qm1
+    at: [357.448, 3.999, 217.592, 240]
+    render: {moving: null}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+  17281591:
+    widescan: null
+    script: qm2
+    display_name: ???
+    at: [362.586, 3.999, 220.106, 236]
+    render:
+      entity_flags: null
+      animation_sub: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      moving: 1
+    status: normal
+  17281592:
+    script: Ildy-Goldy
+    display_name: Ildy-Goldy
+    at: [403.552, 21.469, 249.278, 85]
+    render:
+      look: {model: null, type: equipped, race: 5, face: 8, head: 4125, body: 8232, hands: 12304, legs: 16397, feet: 20493, main: 24576, sub: 28672}
+      entity_flags: 29
+      animation_sub: 1
+  17281593:
+    script: '1'
+    display_name: '1'
+    at: [450.573, 19.395, 259.278, 137]
+  17281594:
+    script: '2'
+    display_name: '2'
+    at: [451.246, 19.336, 258.129, 142]
+  17281595:
+    script: '3'
+    display_name: '3'
+    at: [453.352, 19.135, 258.622, 131]
+  17281596:
+    script: '4'
+    display_name: '4'
+    at: [453.853, 19.052, 257.665, 127]
+  17281597:
+    script: '5'
+    display_name: '5'
+    at: [453.368, 19.12, 258.964, 119]
+    render:
+      moving: null
+      look: {model: 273}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17281599:
+    speed: null
+    animation_speed: null
+    script: EFFECTER
+    display_name: EFFECTER
+    at: [-30.873, -57.0, 285.545, 197]
+    render: {entity_flags: 2051, moving: 32769}
+    status: normal
+  17281600:
+    script: Talking_Doll
+    display_name: Talking Doll
+    at: [-252.162, -5.319, -307.011, 113]
+    render:
+      entity_flags: null
+      name_prefix: null
+      moving: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+  17281603:
+    script: Zorchorevi_RK
+    display_name: Zorchorevi, R.K.
+    at: [-242.487, 0.0, -402.772, 191]
+    render:
+      look: {model: null, type: equipped, race: 3, face: 15, head: 4109, body: 8204, hands: 12290, legs: 16396, feet: 20492, main: 24651, sub: 28699}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 22
+    widescan: true
+  17281610:
+    status: null
+    script: Mupia_RK
+    display_name: Mupia, R.K.
+    at: [-241.334, 0.0, 478.602, 255]
+    render:
+      animation_sub: null
+      look: {race: 4, face: 15, head: 4102, body: 8198, hands: 12294, legs: 16396, feet: 20486, main: 24781}
+      moving: 1
+  17281611:
+    script: Robino-Mobino
+    display_name: Robino-Mobino
+    at: [-245.854, 0.137, -404.282, 209]
+    render:
+      look: {model: null, type: equipped, race: 5, face: 10, head: 4114, body: 8216, hands: 12303, legs: 16391, feet: 20497, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 8
+    status: normal
+    widescan: true
+  17281624:
+    script: Moogle
+    display_name: Moogle
+    render:
+      moving: null
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+  17281626:
+    script: Cermet_Headstone
+    display_name: Cermet Headstone
+    at: [493.915, 19.658, 303.495, 215]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 52}
+      moving: 32769
+    status: normal
+  17281627: {script: OpoopoA, display_name: OpoopoA}
+  17281628: {script: OpoopoB, display_name: OpoopoB}
+  17281629:
+    script: OpoopoC
+    display_name: OpoopoC
+    render:
+      look: {model: 416}
+      entity_flags: 27
+      name_prefix: 32
+    widescan: true
+  17281641:
+    status: null
+    speed: null
+    animation_speed: null
+    script: Peddlestox
+    display_name: Peddlestox
+    at: [-103.286, 0.601, 434.866, 171]
+    render:
+      look: {model: 503}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 22
+  17281643:
+    at: null
+    script: Casket
+    display_name: Casket
+    render:
+      moving: null
+      look: {model: 960}
+      entity_flags: 1
+    status: cutscene_only
+    widescan: true
+  17281644:
+    script: qm3
+    at: [83.726, -1.212, 448.329]
+  17281645:
+    script: qm4
+    at: [-114.254, -3.981, -125.471]
+  17281646:
+    script: qm5
+    at: [-300.823, 6.558, 9.208]
+  17281647:
+    script: qm6
+    at: [-539.311, -0.168, 203.151]
+  17281648:
+    script: qm7
+    at: [-577.734, -0.706, -82.563]
+  17281649:
+    script: qm8
+    at: [-361.835, 15.695, -399.517]
+  17281650:
+    script: qm9
+    at: [-294.827, -1.53, -453.237]
+  17281651:
+    widescan: null
+    script: qm10
+    display_name: ???
+    status: normal
+    at: [369.795, 2.478, 201.805]
+    render:
+      name_prefix: null
+      look: {model: 52}
+      entity_flags: 131
+      moving: 1
+    speed: 40
+    animation_speed: 40
+  17281653:
+    script: Ramblix
+    display_name: Ramblix
+    at: [-220.259, -0.016, 498.796, 133]
+    render:
+      look: {model: 85}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17281655:
+    script: Marilleune
+    display_name: Marilleune
+    at: [-340.271, 15.945, -472.734, 202]
+    render:
+      look: {model: null, type: equipped, race: 4, face: 6, head: 4117, body: 8208, hands: 12298, legs: 16405, feet: 20504, main: 24576, sub: 28672}
+      animation_sub: 1
+    widescan: true
+  17281657:
+    content: null
+    script: LuckRune
+    display_name: LuckRune
+    at: [-95.486, 11.188, 418.153, 77]
+    render:
+      name_vis: null
+      look: {model: 52}
+      moving: 1
+  17281662:
+    script: Field_Parchment
+    display_name: Field Parchment
+    at: [-452.0, -0.8, -300.0, 224]
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 52}
+      moving: 1
+    content: field_manuals
+  17281666:
+    status: null
+    speed: null
+    animation_speed: null
+    script: Mogball-Local
+    display_name: Mogball-Local
+    render:
+      entity_flags: null
+      animation_sub: null
+      name_vis: null
+      look: {model: 817}
+      moving: 1
+  17281667:
+    at: null
+    content: null
+    script: Mog-Tablet
+    display_name: Mog-Tablet
+    render:
+      name_prefix: null
+      look: {model: 2295}
+      entity_flags: 387
+      name_vis: 4
+      moving: 6
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+  17281676:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [-239.5, 0.0, -404.0, 64]
+    render:
+      entity_flags: null
+      look: {model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 1
+    status: normal
+    widescan: true
+    content: survival_guide
+  17281677:
+    display_name: null
+    status: null
+    widescan: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {model: 52}
+      entity_flags: 2051
+  17281679:
+    script: Siren
+    display_name: Siren
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2451}
+  17281681:
+    script: Zeid
+    display_name: Zeid
+    render:
+      look: {model: 830}
+    widescan: true

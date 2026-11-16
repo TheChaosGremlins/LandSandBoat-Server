@@ -1,0 +1,268 @@
+spawns:
+  16973994: null
+  16973995: null
+  16973996: null
+  16973997: null
+  16973998: null
+  16973999: null
+  16974000: null
+  16974001: null
+  16974002: null
+  16974003: null
+  16974004: null
+  16974005: null
+  16974006: null
+  16974007: null
+  16974008: null
+  16974009: null
+  16974010: null
+  16974011: null
+  16974012: null
+  16974013: null
+  16974014: null
+  16974015: null
+  16974016: null
+  16974017: null
+  16974018: null
+  16974019: null
+  16974020: null
+  16974021: null
+  16974022: null
+  16974023: null
+  16974024: null
+  16974025: null
+  16974026: null
+  16974027: null
+  16974028: null
+  16974029: null
+  16974030: null
+  16974031: null
+  16974032: null
+  16974033: null
+  16974034: null
+  16974035: null
+  16974036: null
+  16974037: null
+  16974038: null
+  16974039: null
+  16974040: null
+  16974041: null
+  16974042: null
+  16974043: null
+  16974044: null
+  16974045: null
+  16974046: null
+  16974047: null
+  16974048: null
+  16974049: null
+  16974050: null
+  16974051: null
+  16974052: null
+  16974053: null
+  16974054: null
+  16974055: null
+  16974056: null
+  16974057: null
+  16974058: null
+  16974059: null
+  16974060: null
+  16974061: null
+  16974062: null
+  16974063: null
+  16974064: null
+  16974065: null
+  16974066: null
+  16974067: null
+  16974068: null
+  16974069: null
+  16974070: null
+  16974071: null
+  16974072: null
+  16974073: null
+  16974074: null
+  16974075: null
+  16974076: null
+  16974077: null
+  16974078: null
+  16974079: null
+  16974080: null
+  16974081: null
+  16974082: null
+  16974083: null
+  16974084: null
+  16974085: null
+  16974086: null
+  16974087: null
+  16974088: null
+  16974089: null
+  16974090: null
+  16974091: null
+  16974092: null
+  16974093: null
+  16974094: null
+  16974095: null
+  16974096: null
+  16974097: null
+  16974098: null
+  16974099: null
+  16974100: null
+  16974101: null
+  16974102: null
+  16974103: null
+  16974104: null
+  16974105: null
+  16974106: null
+  16974107: null
+  16974108: null
+  16974109: null
+  16974110: null
+  16974111: null
+  16974112: null
+  16974113: null
+  16974114: null
+  16974115: null
+  16974116: null
+  16974117: null
+  16974118: null
+  16974119: null
+  16974120: null
+  16974121: null
+  16974122: null
+  16974123: null
+  16974124: null
+  16974125: null
+  16974126: null
+  16974140: null
+  16974141: null
+  16974142: null
+  16974143: null
+  16974144: null
+  16974145: null
+  16974146: null
+  16974147: null
+  16974148: null
+  16974149: null
+  16974150: null
+  16974151: null
+  16974152: null
+  16974153: null
+  16974154: null
+  16974155: null
+  16974156: null
+  16974157: null
+  16974158: null
+  16974159: null
+  16974160: null
+  16974161: null
+  16974162: null
+  16974163: null
+  16974164: null
+  16974165: null
+  16974166: null
+  16974167: null
+  16974168: null
+  16974169: null
+  16974170: null
+  16974171: null
+  16974172: null
+  16974173: null
+  16974174: null
+  16974175: null
+  16974176: null
+  16974177: null
+  16974178: null
+  16974179: null
+  16974180: null
+  16974181: null
+  16974182: null
+  16974183: null
+  16974184: null
+  16974185: null
+  16974186: null
+  16974187: null
+  16974188: null
+  16974189: null
+  16974190: null
+  16974191: null
+  16974192: null
+  16974193: null
+  16974194: null
+  16974195: null
+  16974196: null
+  16974197: null
+  16974198: null
+  16974199: null
+  16974200: null
+  16974201: null
+  16974202: null
+  16974203: null
+  16974204: null
+  16974205: null
+  16974206: null
+  16974207: null
+  16974208: null
+  16974209: null
+  16974210: null
+  16974211: null
+  16974212: null
+  16974213: null
+  16974214: null
+  16974215: null
+  16974216: null
+  16974217: null
+  16974218: null
+  16974219: null
+  16974220: null
+  16974221: null
+  16974127:
+    level: null
+    template: Bastion_Gate
+    at: [-60.75, -0.5, 40.0, 128]
+  16974128:
+    level: null
+    template: Bastion_Gate
+    at: [-40.0, -0.5, 60.75, 192]
+  16974129:
+    level: null
+    template: City_Gate
+    at: [40.0, -0.5, 92.0, 192]
+  16974130:
+    level: null
+    template: City_Gate
+    at: [40.0, -0.5, 12.0, 192]
+  16974131:
+    level: null
+    template: City_Gate
+    at: [-12.0, -0.5, -40.0]
+  16974132:
+    level: null
+    template: City_Gate
+    at: [-40.0, -0.5, -12.0, 64]
+  16974133:
+    level: null
+    template: City_Gate
+    at: [-12.0, -0.5, 40.0]
+  16974134:
+    level: null
+    template: City_Gate
+    at: [-7.0, -6.5, 56.0]
+  16974135:
+    template: General_Rughadjeen
+    at: [60.0, -0.5, 40.0, 128]
+    level: [1, 1]
+  16974136:
+    template: General_Gadalar
+    at: [-40.0, -0.899, -115.0, 192]
+    level: [1, 1]
+  16974137:
+    template: General_Najelith
+    at: [41.5, -6.5, -30.1, 128]
+    level: [1, 1]
+  16974138:
+    template: General_Zazarg
+    at: [-30.0, -6.5, -41.5, 192]
+    level: [1, 1]
+  16974139:
+    template: General_Mihli
+    at: [37.926, -0.3, 136.746, 220]
+    level: [1, 1]

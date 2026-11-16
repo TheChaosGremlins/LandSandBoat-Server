@@ -1,0 +1,24 @@
+npcs:
+  17449406: null
+  17449407: null
+  17449416: null
+  17449408: {script: 'NPC[1be]'}
+  17449409: {script: 'NPC[1bf]'}
+  17449410: {script: 'NPC[1c0]'}
+  17449411: {script: 'NPC[1c1]'}
+  17449412: {script: 'NPC[1c2]'}
+  17449413: {script: 'NPC[1c3]'}
+  17449415:
+    script: NPC[1c5]
+    render: {entity_flags: null}
+  17449417:
+    script: NPC[1c7]
+    render: {name_vis: null, entity_flags: 1}
+  17449418:
+    script: NPC[1c8]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40

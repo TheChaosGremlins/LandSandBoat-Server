@@ -1,0 +1,6 @@
+npcs:
+  17829950: null
+  17829952:
+    script: NPC[3e]
+    render:
+      look: {type: standard, model: 50}

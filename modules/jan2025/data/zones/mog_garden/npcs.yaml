@@ -1,0 +1,85 @@
+npcs:
+  17924229: null
+  17924231: null
+  17924232: null
+  17924233: null
+  17924234: null
+  17924235: null
+  17924238: null
+  17924240: null
+  17924241: null
+  17924242: null
+  17924243: null
+  17924244: null
+  17924245: null
+  17924246: null
+  17924247: null
+  17924248: null
+  17924249: null
+  17924250: null
+  17924251: null
+  17924252: null
+  17924253: null
+  17924254: null
+  17924255: null
+  17924256: null
+  17924257: null
+  17924258: null
+  17924259: null
+  17924260: null
+  17924261: null
+  17924262: null
+  17924263: null
+  17924264: null
+  17924265: null
+  17924266: null
+  17924267: null
+  17924268: null
+  17924269: null
+  17924270: null
+  17924271: null
+  17924272: null
+  17924273: null
+  17924274: null
+  17924275: null
+  17924276: null
+  17924277: null
+  17924278: null
+  17924279: null
+  17924280: null
+  17924281: null
+  17924282: null
+  17924283: null
+  17924230:
+    script: Chacharoon
+    display_name: Chacharoon
+    at: [355.49, -3.04, -547.76, 59]
+    render:
+      name_vis: null
+      look: {model: 2911}
+      entity_flags: 27
+      moving: 7
+    widescan: true
+  17924236:
+    script: Ephemeral_Moogle_Garden
+    display_name: Ephemeral Moogle
+    at: [-23.42, 1.5, -21.85, 229]
+    render:
+      entity_flags: null
+      animation_sub: null
+      name_prefix: null
+      look: {model: 82}
+      name_vis: 128
+      moving: 8
+  17924237:
+    display_name: null
+    at: null
+    widescan: null
+    script: blank
+    render:
+      animation_sub: null
+      name_prefix: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+    status: cutscene_only

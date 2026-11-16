@@ -1,0 +1,420 @@
+npcs:
+  17756328: null
+  17756350: null
+  17756356: null
+  17756386: null
+  17756399: null
+  17756400: null
+  17756401: null
+  17756402: null
+  17756403: null
+  17756404: null
+  17756405: null
+  17756406: null
+  17756407: null
+  17756408: null
+  17756409: null
+  17756410: null
+  17756411: null
+  17756412: null
+  17756413: null
+  17756414: null
+  17756415: null
+  17756416: null
+  17756417: null
+  17756418: null
+  17756419: null
+  17756420: null
+  17756421: null
+  17756422: null
+  17756423: null
+  17756424: null
+  17756425: null
+  17756426: null
+  17756427: null
+  17756428: null
+  17756429: null
+  17756430: null
+  17756431: null
+  17756436: null
+  17756437: null
+  17756438: null
+  17756439: null
+  17756440: null
+  17756441: null
+  17756442: null
+  17756443: null
+  17756444: null
+  17756445: null
+  17756446: null
+  17756447: null
+  17756448: null
+  17756449: null
+  17756450: null
+  17756451: null
+  17756452: null
+  17756453: null
+  17756454: null
+  17756455: null
+  17756456: null
+  17756457: null
+  17756458: null
+  17756459: null
+  17756460: null
+  17756461: null
+  17756466: null
+  17756467: null
+  17756468: null
+  17756469: null
+  17756472: null
+  17756475: null
+  17756479: null
+  17756480: null
+  17756481: null
+  17756329: {display_name: null, speed: null, animation_speed: null, script: blank}
+  17756330: {script: qm5, display_name: '???', speed: 40, animation_speed: 40}
+  17756333:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 2051
+  17756334:
+    script: Shantotto
+    display_name: Shantotto
+    render:
+      look: {race: 6, face: 6, head: 4096, body: 8393, hands: 12489, legs: 16585, feet: 20681}
+  17756335: {script: '1', display_name: '1'}
+  17756336: {script: '2', display_name: '2'}
+  17756337: {script: '3', display_name: '3'}
+  17756338: {script: '4', display_name: '4'}
+  17756339: {script: '5', display_name: '5'}
+  17756340: {script: '6', display_name: '6'}
+  17756341: {script: '7', display_name: '7'}
+  17756342: {script: '8', display_name: '8'}
+  17756343: {script: '9', display_name: '9'}
+  17756344:
+    at: null
+    status: null
+    content: null
+    script: '10'
+    display_name: '10'
+    render:
+      moving: null
+      look: {race: 5, face: 29, head: 4115, body: 8211, hands: 12307, legs: 16403, feet: 20499}
+      entity_flags: 2075
+      name_prefix: 32
+  17756351:
+    script: Synergy_Enthusiast
+    display_name: Synergy Enthusiast
+    at: [29.5, -1.4, -76.1, 192]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: null, type: equipped, race: 6, face: 7, head: 4215, body: 8312, hands: 12298, legs: 16394, feet: 20490, main: 24576, sub: 28672}
+      moving: 1
+    content: wotg
+  17756352:
+    script: Arbitrix
+    display_name: Arbitrix
+    at: [-215.5, 0.0, -147.333, 194]
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 85}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 32769
+  17756353:
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    at: [-214.3, 0.0, -147.65, 194]
+    render:
+      look: {model: 962}
+      animation_sub: 4
+      name_vis: 36
+      moving: 1
+    status: normal
+    widescan: true
+    content: daily_tally
+  17756354:
+    display_name: null
+    at: null
+    widescan: null
+    script: blank
+    render:
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+  17756357:
+    status: null
+    speed: null
+    animation_speed: null
+    script: qm6
+    display_name: ???
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 82}
+      entity_flags: 2075
+      moving: 32768
+  17756358:
+    script: Mumor
+    display_name: Mumor
+    render:
+      look: {race: 2, face: 14, head: 4307, body: 8417, hands: 12513, legs: 16609, feet: 20705, main: 24949}
+  17756359:
+    script: Uka_Totlihn
+    display_name: Uka Totlihn
+    render:
+      look: {model: null, type: equipped, race: 7, face: 12, head: 4341, body: 8497, hands: 12453, legs: 16689, feet: 20511, main: 24935, sub: 28672}
+      entity_flags: 153
+      name_prefix: 32
+    status: status_5
+    speed: 40
+    animation_speed: 40
+  17756360:
+    speed: null
+    animation_speed: null
+    script: Diva
+    display_name: Diva
+    render:
+      name_prefix: null
+      look: {model: 2362}
+      entity_flags: 2585
+    status: status_4
+  17756361:
+    script: Ullegore
+    display_name: Ullegore
+    render:
+      look: {model: 1364}
+      entity_flags: 2203
+      name_prefix: 32
+    status: status_5
+    speed: 40
+    animation_speed: 40
+  17756362:
+    display_name: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+      entity_flags: 2051
+  17756363:
+    script: Foudeel
+    display_name: Foudeel
+    render:
+      look: {face: 5, body: 8330, hands: 12426, legs: 16522, feet: 20618}
+  17756364:
+    script: Bashraf
+    display_name: Bashraf
+    render:
+      look: {face: 2, body: 8198, hands: 12294, legs: 16390, feet: 20486}
+  17756365:
+    script: Wahboud
+    display_name: Wahboud
+    render:
+      look: {race: 1, face: 0, body: 8208, hands: 12304, legs: 16400, feet: 20496}
+  17756366:
+    script: Tango
+    display_name: Tango
+    render:
+      look: {race: 4, face: 6, head: 4096, body: 8417, hands: 12513, legs: 16387, feet: 20483}
+  17756367:
+    script: Bongo
+    display_name: Bongo
+    render:
+      look: {model: null, type: equipped, race: 5, face: 0, head: 4215, body: 8422, hands: 12518, legs: 16619, feet: 20715, main: 24576, sub: 28672}
+  17756368:
+    script: Fandango
+    display_name: Fandango
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 153}
+      entity_flags: 2075
+      name_vis: 64
+  17756369:
+    widescan: null
+    script: Wahboud
+    display_name: Wahboud
+    render:
+      name_vis: null
+      look: {race: 1, face: 0, head: 4096, body: 8208, hands: 12304, legs: 16400, feet: 20496, main: 24576}
+      entity_flags: 27
+    status: status_4
+  17756371:
+    script: Mumor
+    display_name: Mumor
+    render:
+      look: {model: null, type: equipped, race: 2, face: 14, head: 4401, body: 8561, hands: 12288, legs: 16416, feet: 20784, main: 25284, sub: 28672}
+      entity_flags: 2073
+      name_prefix: 32
+    widescan: true
+  17756372:
+    at: null
+    script: blank
+    render:
+      name_prefix: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 120
+    status: cutscene_only
+  17756373:
+    script: Fireworks
+    at: [-130.382, -9.345, 317.519, 194]
+    render:
+      name_vis: null
+      look: {model: 327}
+      name_prefix: 32
+  17756385:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    script: blank
+    render:
+      look: {model: 2365}
+      entity_flags: 2075
+      name_vis: 112
+  17756387:
+    display_name: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    at: [-26.51, -2.246, -51.839]
+    render:
+      look: {model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+  17756397:
+    status: null
+    script: blank
+    at: [-124.294, -5.0, 137.167]
+    render:
+      door_id: null
+      animation: null
+      look: {type: standard, model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32782
+  17756398:
+    status: null
+    script: NPC[11a]
+    at: [40.0, -3.0, -62.0]
+    render:
+      door_id: null
+      entity_flags: null
+      animation: null
+      name_prefix: null
+      look: {type: standard, model: 50}
+      moving: 1
+  17756462:
+    script: Abenzio
+    display_name: Abenzio
+    render:
+      look: {model: 296}
+  17756463:
+    script: Bryher
+    display_name: Bryher
+    render:
+      look: {model: 380}
+  17756464:
+    script: Camlin
+    display_name: Camlin
+    render:
+      look: {model: 372}
+  17756465:
+    script: Darach
+    display_name: Darach
+    render:
+      look: {model: 395}
+  17756470:
+    script: Greeter_Moogle
+    display_name: Greeter Moogle
+    at: [-203.0, -0.276, -139.0, 127]
+    render:
+      look: {model: 2419}
+      moving: 14
+    status: normal
+    widescan: true
+  17756471: {script: Achieve_Master, display_name: Achieve Master, content: soa}
+  17756473:
+    script: Unity_Master
+    display_name: Unity Master
+    render: {name_vis: 96}
+    content: soa
+  17756474:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {model: 52}
+      entity_flags: 2051
+  17756476:
+    script: Lion
+    display_name: Lion
+    render:
+      look: {model: 60}
+  17756477:
+    script: Zeid
+    display_name: Zeid
+    render:
+      look: {model: 830}
+    widescan: true
+  17756478:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      look: {model: 2450}
+  17756482:
+    script: Balamor
+    display_name: Balamor
+    render:
+      look: {model: 2742}
+    widescan: true
+  17756483:
+    script: qm7
+    display_name: ???
+    render:
+      look: {model: 1542}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17756485:
+    display_name: null
+    status: null
+    widescan: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 2051
+  17756493:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {model: null, type: equipped, race: 1, face: 0, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    widescan: true
+  17756496:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 52}
+  17756497:
+    script: Tenzen
+    display_name: Tenzen
+    render:
+      look: {model: 1442}
+    widescan: true

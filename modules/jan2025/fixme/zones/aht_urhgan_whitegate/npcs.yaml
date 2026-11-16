@@ -1,0 +1,138 @@
+npcs:
+  16982062:
+    _jan2025_candidates: [16982062, 16982061]
+    script: _1ea
+    display_name: Door_1ea
+    at: [-20.0, -2.0, -95.18]
+    render:
+      look: {type: door}
+      door_id: 1634021727
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+    content: toau
+  16982294:
+    _jan2025_candidates: [16982294]
+    script: qm1
+    display_name: ???
+    render:
+      look: {type: equipped, race: 1, face: 9, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951, sub: 28672}
+      entity_flags: 29
+      name_prefix: 32
+    status: cutscene_only
+  16982295:
+    _jan2025_candidates: [16982295]
+    script: qm2
+    display_name: ???
+    render:
+      look: {type: equipped, race: 1, face: 14, head: 4215, body: 8312, hands: 12425, legs: 16555, feet: 20617, main: 24809, sub: 28672}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+  16982296:
+    _jan2025_candidates: [16982296]
+    script: qm3
+    display_name: ???
+    render:
+      look: {type: equipped, race: 1, face: 12, head: 4215, body: 8312, hands: 12425, legs: 16555, feet: 20617, main: 24809, sub: 28672}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+  16982304:
+    _jan2025_candidates: [16982304]
+    script: qm4
+    display_name: ???
+    render:
+      look: {type: equipped, race: 3, face: 14, head: 4215, body: 8312, hands: 12425, legs: 16555, feet: 20617, main: 24809, sub: 28672}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+  16982654:
+    _jan2025_candidates: [16982654, 16982285]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 112
+  16982655:
+    _jan2025_candidates: [16982655, 16982286]
+    script: Wharudu
+    display_name: Wharudu
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951, sub: 28672}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16982656:
+    _jan2025_candidates: [16982656, 16982287]
+    script: Memorian
+    display_name: Memorian
+    render:
+      look: {type: standard, model: 3165}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16982657:
+    _jan2025_candidates: [16982657, 16982288]
+    script: Uran-Mafran
+    display_name: Uran-Mafran
+    render:
+      look: {type: equipped, race: 5, face: 4, head: 4096, body: 8238, hands: 12334, legs: 16430, feet: 20526, main: 24576, sub: 28672, ranged: 32785}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16982658:
+    _jan2025_candidates: [16982658, 16982289]
+    script: Talking_Doll
+    display_name: Talking Doll
+    render:
+      look: {type: standard, model: 970}
+      entity_flags: 2075
+      animation_sub: 1
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16982659:
+    _jan2025_candidates: [16982659, 16982290]
+    script: Wawaroon
+    display_name: Wawaroon
+    render:
+      look: {type: standard, model: 1736}
+      entity_flags: 2073
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16982660:
+    _jan2025_candidates: [16982660, 16982291]
+    script: Vavaroon
+    display_name: Vavaroon
+    render:
+      look: {type: standard, model: 1736}
+      entity_flags: 2073
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16982661:
+    _jan2025_candidates: [16982661, 16982292]
+    script: Gogoroon
+    display_name: Gogoroon
+    render:
+      look: {type: standard, model: 1736}
+      entity_flags: 2073
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16982662:
+    _jan2025_candidates: [16982662, 16982293]
+    script: Missabikong
+    display_name: Missabikong
+    render:
+      look: {type: standard, model: 3609}
+      entity_flags: 2077
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true

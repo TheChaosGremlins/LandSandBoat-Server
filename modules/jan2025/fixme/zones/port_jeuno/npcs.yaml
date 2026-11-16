@@ -1,0 +1,74 @@
+npcs:
+  17784990:
+    _jan2025_candidates: [17784990, 17784987]
+    script: Shamis_Coffer
+    display_name: Shami's Coffer
+    at: [-57.0, 0.0, 9.75, 64]
+    render:
+      look: {type: standard, model: 969}
+      moving: 1
+    widescan: true
+  17784991:
+    _jan2025_candidates: [17784991, 17784988]
+    script: Shamis_Crate
+    display_name: Shami's Crate
+    at: [-55.5, 0.0, 9.75, 64]
+    render:
+      look: {type: standard, model: 968}
+      moving: 1
+    widescan: true
+  17784992:
+    _jan2025_candidates: [17784992, 17784989]
+    script: Shamis_Chest
+    display_name: Shami's Chest
+    at: [-58.5, 0.0, 9.75, 64]
+    render:
+      look: {type: standard, model: 966}
+      moving: 1
+    widescan: true
+  17784994:
+    _jan2025_candidates: [17784991]
+    script: NPC[a2]
+    render:
+      look: {type: standard, model: 50}
+  17785000:
+    _jan2025_candidates: [17784997]
+    script: blank
+    render:
+      look: {type: standard, model: 2450}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17785001:
+    _jan2025_candidates: [17784998]
+    script: blank
+    render:
+      look: {type: standard, model: 326}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17785010:
+    _jan2025_candidates: [17785007]
+    script: blank
+    at: [-154.454, -1.0, 6.826, 48]
+    render:
+      look: {type: standard, model: 2478}
+      entity_flags: 2051
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+  17785011:
+    _jan2025_candidates: [17785008]
+    script: Tales_Beginning
+    display_name: Tales' Beginning
+    at: [-154.454, -1.0, 6.826, 48]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+    widescan: true
+    content: tvr

@@ -1,0 +1,22 @@
+npcs:
+  17641516: null
+  17641523: null
+  17641517:
+    speed: null
+    animation_speed: null
+    script: NPC[2c]
+    render:
+      name_vis: null
+      look: {model: 50}
+      entity_flags: 1
+  17641518:
+    script: NPC[2d]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17641524: {script: 'NPC[33]'}
+  17641525: {script: 'NPC[34]'}
+  17641526: {script: 'NPC[35]'}

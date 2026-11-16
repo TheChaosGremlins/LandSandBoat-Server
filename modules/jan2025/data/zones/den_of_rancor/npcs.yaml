@@ -1,0 +1,76 @@
+npcs:
+  17433010: null
+  17433011: null
+  17433014: null
+  17433044: null
+  17433012:
+    display_name: null
+    at: null
+    status: null
+    script: NPC[1b2]
+    render:
+      moving: null
+      look: {model: 50}
+  17433013:
+    display_name: null
+    at: null
+    status: null
+    script: NPC[1b3]
+    render:
+      moving: null
+      look: {model: 50}
+  17433015:
+    content: null
+    script: qm_hakutaku
+    at: [26.024, 23.037, -309.989]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}
+  17433016:
+    content: null
+    script: qm_mokumokuren
+    at: [117.899, 35.892, -280.779]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}
+  17433017:
+    script: qm_shiny_1
+    at: [130.766, 16.0, -320.017, 135]
+  17433018:
+    script: qm_shiny_3
+    at: [178.235, 17.308, -239.845, 228]
+  17433019:
+    script: qm_shiny_4
+    at: [-41.245, 17.293, -180.431, 149]
+  17433020:
+    script: qm_shiny_5
+    at: [117.84, 16.0, -159.482, 149]
+  17433021:
+    script: qm_shiny_6
+    at: [-26.461, 14.199, -223.929, 255]
+  17433022:
+    script: qm_shiny_7
+    at: [37.884, 15.999, -40.323, 119]
+  17433023:
+    script: qm_shiny_8
+    at: [-21.177, 36.999, -360.999, 202]
+  17433045:
+    speed: null
+    animation_speed: null
+    script: NPC[1d4]
+    render:
+      name_vis: null
+      look: {model: 50}
+      entity_flags: 1
+  17433046:
+    script: NPC[1d5]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40

@@ -1,0 +1,667 @@
+npcs:
+  17256954:
+    _jan2025_candidates: [17256954, 17256955]
+    script: Goblin_Rider
+    display_name: Goblin Rider
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17256955:
+    _jan2025_candidates: [17256955, 17256956]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256956:
+    _jan2025_candidates: [17256956, 17256957]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256957:
+    _jan2025_candidates: [17256957, 17256958]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256958:
+    _jan2025_candidates: [17256958, 17256959]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256959:
+    _jan2025_candidates: [17256959, 17256960]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256960:
+    _jan2025_candidates: [17256960, 17256961]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256961:
+    _jan2025_candidates: [17256961, 17256962]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256962:
+    _jan2025_candidates: [17256962, 17256963]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256966:
+    _jan2025_candidates: [17256966, 17256967]
+    script: Goblin_Rider
+    display_name: Goblin Rider
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17256967:
+    _jan2025_candidates: [17256967, 17256968]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256968:
+    _jan2025_candidates: [17256968, 17256969]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256969:
+    _jan2025_candidates: [17256969, 17256970]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256970:
+    _jan2025_candidates: [17256970, 17256971]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256971:
+    _jan2025_candidates: [17256971, 17256972]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256972:
+    _jan2025_candidates: [17256972, 17256973]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256973:
+    _jan2025_candidates: [17256973, 17256974]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256974:
+    _jan2025_candidates: [17256974, 17256975]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256978:
+    _jan2025_candidates: [17256978, 17256979]
+    script: Goblin_Rider
+    display_name: Goblin Rider
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17256979:
+    _jan2025_candidates: [17256979, 17256980]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256980:
+    _jan2025_candidates: [17256980, 17256981]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256981:
+    _jan2025_candidates: [17256981, 17256982]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256982:
+    _jan2025_candidates: [17256982, 17256983]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256983:
+    _jan2025_candidates: [17256983, 17256984]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256984:
+    _jan2025_candidates: [17256984, 17256985]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256985:
+    _jan2025_candidates: [17256985, 17256986]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256986:
+    _jan2025_candidates: [17256986, 17256987]
+    script: Overturned_Soil
+    display_name: Overturned Soil
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+    widescan: true
+  17256999:
+    _jan2025_candidates: [17256999, 17257000]
+    script: Mirthful_Ixion
+    display_name: Mirthful Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17257000:
+    _jan2025_candidates: [17257000, 17257001]
+    script: Elated_Ixion
+    display_name: Elated Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17257001:
+    _jan2025_candidates: [17257001, 17257002]
+    script: Euphoric_Ixion
+    display_name: Euphoric Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17257002:
+    _jan2025_candidates: [17257002, 17257003]
+    script: Exultant_Ixion
+    display_name: Exultant Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17257003:
+    _jan2025_candidates: [17257003, 17257004]
+    script: NPC[22b]
+    render:
+      look: {type: standard, model: 50}
+  17257004:
+    _jan2025_candidates: [17257004, 17257005]
+    script: NPC[22c]
+    render:
+      look: {type: standard, model: 50}
+  17257005:
+    _jan2025_candidates: [17257005, 17257006]
+    script: qm1
+    display_name: ???
+    at: [102.632, 40.039, 315.188]
+    render:
+      look: {type: standard, model: 52}
+      moving: 7
+    status: normal
+  17257023:
+    _jan2025_candidates: [17257023, 17257024]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      animation_sub: 4
+      name_vis: 4
+      moving: 1
+  17257025:
+    _jan2025_candidates: [17257026]
+    script: NPC[241]
+    render:
+      look: {type: standard, model: 50}
+  17257028:
+    _jan2025_candidates: [17257029]
+    script: NPC[244]
+    at: [0.0, -0.5, 0.0]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17257029:
+    _jan2025_candidates: [17257030]
+    script: NPC[245]
+    at: [0.0, -0.5, 0.0]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17257030:
+    _jan2025_candidates: [17257031]
+    script: NPC[246]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17257033:
+    _jan2025_candidates: [17257034, 17257033]
+    script: Signpost
+    display_name: Signpost
+    at: [-173.257, 16.604, 74.571]
+    render:
+      look: {type: standard, model: 52}
+      moving: 32769
+    status: normal
+    widescan: true
+  17257044:
+    _jan2025_candidates: [17257045, 17257052]
+    script: NPC[254]
+    render:
+      look: {type: standard, model: 50}
+  17257054:
+    _jan2025_candidates: [17257055, 17257054]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 2051
+      moving: 1
+  17257055:
+    _jan2025_candidates: [17257056, 17257055]
+    script: Excavation_Point
+    display_name: Excavation Point
+    at: [-264.608, 15.604, -540.262]
+    render:
+      look: {type: standard, model: 2424}
+      moving: 32774
+    status: normal
+    widescan: true
+  17257062:
+    _jan2025_candidates: [17257063, 17257064]
+    script: blank
+    at: [101.999, 39.999, 359.587, 141]
+    render:
+      look: {type: standard, model: 86}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 7
+    status: normal
+  17257077:
+    _jan2025_candidates: [17257077, 17257078]
+    script: Cavernous_Maw
+    display_name: Cavernous Maw
+    at: [-28.597, 46.056, -685.754, 192]
+    render:
+      look: {type: standard, model: 2325}
+      name_vis: 96
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    widescan: true
+    content: abyssea
+  17257079:
+    _jan2025_candidates: [17257080, 17257079]
+    script: Field_Manual
+    display_name: Field Manual
+    at: [-88.305, 46.963, -720.889, 126]
+    render:
+      look: {type: standard, model: 2290}
+      name_vis: 32
+      moving: 1
+    status: normal
+    widescan: true
+    content: field_manuals
+  17257083:
+    _jan2025_candidates: [17257084]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [80.79, -8.0, -242.0]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17257084:
+    _jan2025_candidates: [17257085]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [-442.38, -39.94, -153.81]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17257085:
+    _jan2025_candidates: [17257086]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [76.04, 8.0, 39.74]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17257088:
+    _jan2025_candidates: [17257089, 17257088]
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [205.0, 15.746, -680.0]
+    render:
+      look: {type: standard, model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    status: normal
+    widescan: true
+    content: voidwatch
+  17257094:
+    _jan2025_candidates: [17257094, 17257095]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17257095:
+    _jan2025_candidates: [17257095, 17257096]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17257097:
+    _jan2025_candidates: [17257098]
+    script: qm3
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17257098:
+    _jan2025_candidates: [17257099]
+    script: qm4
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17257099:
+    _jan2025_candidates: [17257100]
+    script: qm5
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17257100:
+    _jan2025_candidates: [17257101]
+    script: qm6
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17257101:
+    _jan2025_candidates: [17257102]
+    script: qm7
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17257103:
+    _jan2025_candidates: [17257104, 17257103]
+    script: Smile_Helper
+    display_name: Smile Helper
+    at: [74.644, 39.324, 252.378, 177]
+    render:
+      look: {type: equipped, race: 5, face: 0, head: 4152, body: 8297, hands: 12288, legs: 16487, feet: 20584, main: 24576, sub: 28672}
+      animation_sub: 1
+      moving: 1
+    widescan: true
+  17257118:
+    _jan2025_candidates: [17257119, 17257118]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17257120:
+    _jan2025_candidates: [17257120, 17257121]
+    script: blank
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17257124:
+    _jan2025_candidates: [17257125]
+    script: NPC[2a4]
+    render:
+      look: {type: standard, model: 50}
+    speed: 40
+    animation_speed: 40
+  17257125:
+    _jan2025_candidates: [17257126]
+    script: NPC[2a5]
+    render:
+      look: {type: standard, model: 50}
+    speed: 40
+    animation_speed: 40
+  17257128:
+    _jan2025_candidates: [17257129]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257131:
+    _jan2025_candidates: [17257132]
+    script: blank
+    render:
+      look: {type: standard, model: 2450}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17257132:
+    _jan2025_candidates: [17257133]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257133:
+    _jan2025_candidates: [17257134]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257134:
+    _jan2025_candidates: [17257135]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257137:
+    _jan2025_candidates: [17257138]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17257138:
+    _jan2025_candidates: [17257139]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17257139:
+    _jan2025_candidates: [17257140]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257140:
+    _jan2025_candidates: [17257141]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 2, face: 2, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257141:
+    _jan2025_candidates: [17257142]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 3, face: 2, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257142:
+    _jan2025_candidates: [17257143]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 4, face: 4, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257143:
+    _jan2025_candidates: [17257144]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 5, face: 1, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257144:
+    _jan2025_candidates: [17257145]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 6, face: 6, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257145:
+    _jan2025_candidates: [17257146]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 7, face: 4, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257146:
+    _jan2025_candidates: [17257147]
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {type: equipped, race: 8, face: 6, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17257147:
+    _jan2025_candidates: [17257148]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+  17257148:
+    _jan2025_candidates: [17257149]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+  17257149:
+    _jan2025_candidates: [17257150]
+    script: qm8
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051

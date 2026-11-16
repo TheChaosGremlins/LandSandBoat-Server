@@ -1,0 +1,487 @@
+npcs:
+  17072282: null
+  17072284: null
+  17072286: null
+  17072287: null
+  17072289: null
+  17072292: null
+  17072293: null
+  17072334: null
+  17072335: null
+  17072354: null
+  17072355: null
+  17072375: null
+  17072378: null
+  17072381: null
+  17072382: null
+  17072383: null
+  17072384: null
+  17072388: null
+  17072390: null
+  17072391: null
+  17072279:
+    script: qm_cheese_hoarder_gigiroon
+    at: [-184.6, -8.398, 20.0]
+  17072280:
+    script: qm_armed_gears
+    at: [-19.957, -4.0, -182.656]
+  17072281:
+    content: null
+    script: qm_wulgaru
+    at: [-20.081, -3.949, 206.628]
+  17072283: {script: Achieve_Master, display_name: Achieve Master, content: soa}
+  17072285: {script: Unity_Master, display_name: Unity Master, content: soa}
+  17072290:
+    speed: null
+    animation_speed: null
+    script: NPC[a1]
+    render:
+      entity_flags: null
+      look: {model: 50}
+      name_vis: 4
+  17072291:
+    script: NPC[a2]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17072302:
+    script: _202
+    at: [60.0, -2.0, 800.0]
+    render: {door_id: 842019423}
+  17072303:
+    script: _203
+    at: [-280.0, -2.0, 460.0]
+    render: {door_id: 858796639}
+  17072304:
+    script: _204
+    at: [-500.0, -2.0, 680.0]
+    render: {door_id: 875573855}
+  17072305:
+    script: _205
+    at: [-280.0, -2.0, 180.0]
+    render: {door_id: 892351071}
+  17072306:
+    script: _206
+    at: [-640.0, -2.0, -100.0]
+    render: {door_id: 909128287}
+  17072307:
+    script: _207
+    at: [-640.0, -2.0, -460.0]
+    render: {door_id: 925905503}
+  17072308:
+    script: _208
+    at: [-160.0, -2.0, -580.0]
+    render: {door_id: 942682719}
+  17072309:
+    script: _209
+    at: [140.0, -2.0, -600.0]
+    render: {door_id: 959459935}
+  17072310:
+    script: _20a
+    at: [400.0, -2.0, -580.0]
+    render: {door_id: 1630548575}
+  17072311:
+    script: _20b
+    at: [560.0, -2.0, -260.0]
+    render: {door_id: 1647325791}
+  17072312:
+    script: _20c
+    at: [180.0, -2.0, 80.0]
+    render: {door_id: 1664103007}
+  17072313:
+    script: _20d
+    at: [180.0, -2.0, -40.0]
+    render: {door_id: 1680880223}
+  17072314:
+    script: _20e
+    at: [140.0, -2.0, 120.0]
+    render: {door_id: 1697657439}
+  17072315:
+    script: _20f
+    at: [60.0, -6.0, 80.0]
+    render: {door_id: 1714434655}
+  17072316:
+    script: _20g
+    at: [-20.0, -6.0, 160.0]
+    render: {door_id: 1731211871}
+  17072317:
+    script: _20h
+    at: [-80.0, -10.0, 100.0]
+    render: {door_id: 1747989087}
+  17072318:
+    script: _20i
+    at: [-80.0, -10.0, -60.0]
+    render: {door_id: 1764766303}
+  17072319:
+    script: _20j
+    at: [-20.0, -6.0, -120.0]
+    render: {door_id: 1781543519}
+  17072320:
+    content: null
+    script: _20k
+    at: [60.0, -6.0, -40.0]
+    render: {door_id: 1798320735}
+    widescan: true
+  17072321:
+    content: null
+    script: _20l
+    at: [140.0, -2.0, -80.0]
+    render: {door_id: 1815097951}
+    widescan: true
+  17072322:
+    display_name: null
+    widescan: null
+    script: _20n
+    at: [580.0, -2.0, 440.0]
+    render: {door_id: 1848652383, entity_flags: 6147}
+    content: toau
+  17072323:
+    widescan: null
+    script: _20t
+    display_name: Gilded Gateway
+    at: [580.0, -2.0, 440.0]
+    render: {door_id: 1949315679}
+    content: toau
+  17072324:
+    script: _20o
+    at: [-580.0, -2.0, -160.0]
+    render: {door_id: 1865429599}
+  17072325:
+    script: _20u
+    at: [-580.0, -2.0, -160.0]
+    render: {door_id: 1966092895}
+  17072326:
+    script: _20p
+    at: [-580.0, -2.0, -400.0]
+    render: {door_id: 1882206815}
+  17072327:
+    script: _20v
+    at: [-580.0, -2.0, -400.0]
+    render: {door_id: 1982870111}
+  17072328:
+    script: _20q
+    at: [620.0, -2.0, -200.0]
+    render: {door_id: 1898984031}
+  17072329:
+    content: null
+    script: _20w
+    at: [620.0, -2.0, -200.0]
+    render: {door_id: 1999647327}
+    widescan: true
+  17072330:
+    script: _20m
+    display_name: Runic Seal
+    at: [123.5, -2.5, 20.0]
+    render: {door_id: 1831875167, entity_flags: 4099}
+  17072331:
+    display_name: null
+    status: null
+    widescan: null
+    script: blank
+    at: [123.5, -3.5, 20.0]
+    render:
+      door_id: null
+      animation: null
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 40
+  17072332:
+    script: Runic_Portal
+    display_name: Runic Portal
+    at: [206.5, -1.22, 33.5]
+    render:
+      door_id: null
+      entity_flags: null
+      animation: null
+      look: {type: standard, model: 52}
+      moving: 32769
+    widescan: true
+  17072333:
+    script: Runic_Portal
+    display_name: Runic Portal
+    at: [206.5, -1.22, 6.5]
+    render: {entity_flags: null, name_vis: null, moving: 32769}
+    status: normal
+    widescan: true
+    content: toau
+  17072336:
+    display_name: null
+    script: blank
+    render:
+      look: {model: null, type: equipped, race: 0, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 2075
+      name_prefix: 32
+  17072339:
+    script: Yasfel
+    display_name: Yasfel
+    render:
+      look: {race: 1, face: 13, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951}
+      entity_flags: 27
+    status: cutscene_only
+    widescan: true
+    content: toau
+  17072341:
+    display_name: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1775}
+  17072343:
+    script: Nashmeira
+    display_name: Nashmeira
+    render:
+      look: {model: 1592}
+      entity_flags: 25
+    widescan: true
+  17072344:
+    script: Nashmeira
+    display_name: Nashmeira
+    render:
+      look: {model: 1592}
+      entity_flags: 25
+    widescan: true
+  17072345:
+    script: Razfahd
+    display_name: Razfahd
+    render:
+      look: {model: 1589}
+      entity_flags: 29
+    content: toau
+  17072346:
+    script: Ghatsad
+    display_name: Ghatsad
+    render:
+      look: {model: 1540}
+  17072347:
+    script: Raubahn
+    display_name: Raubahn
+    render:
+      look: {model: null, type: equipped, race: 1, face: 9, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951, sub: 28672}
+  17072348:
+    script: Amnaf
+    display_name: Amnaf
+    render:
+      look: {model: null, type: equipped, race: 2, face: 11, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24960, sub: 28672}
+  17072349:
+    content: null
+    script: Amnaf
+    display_name: Amnaf
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1776}
+      entity_flags: 27
+  17072350:
+    script: Naja_Salaheem
+    display_name: Naja Salaheem
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1534}
+    content: toau
+  17072351:
+    script: Luzaf
+    display_name: Luzaf
+    render:
+      look: {model: 1548}
+      entity_flags: 29
+    content: toau
+  17072352:
+    content: null
+    script: Odin
+    display_name: Odin
+    render:
+      look: {model: 1829}
+      entity_flags: 27
+  17072353:
+    content: null
+    script: Alexander
+    display_name: Alexander
+    render:
+      look: {model: 1834}
+      entity_flags: 27
+  17072361:
+    at: null
+    script: Odin
+    display_name: Odin
+    render: {animation: null, moving: null, entity_flags: 27, name_prefix: 32}
+    status: cutscene_only
+    widescan: true
+  17072362:
+    at: null
+    script: Odin
+    display_name: Odin
+    render:
+      moving: null
+      look: {model: 1830}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17072363:
+    display_name: null
+    widescan: null
+    script: blank
+    at: [206.536, 0.05, 20.053, 128]
+    render:
+      look: {model: 1507}
+      entity_flags: 2075
+      moving: 14
+    status: normal
+  17072364:
+    script: Balrahn_Eidolon
+    display_name: Balrahn Eidolon
+    render:
+      look: {model: null, type: equipped, race: 1, face: 29, head: 4295, body: 8387, hands: 12483, legs: 16579, feet: 20675, main: 24576, sub: 28672}
+    content: toau
+  17072365:
+    script: Ramblix
+    display_name: Ramblix
+    at: [343.021, -3.999, -623.027, 161]
+    render:
+      moving: null
+      look: {model: 85}
+      entity_flags: 27
+    status: cutscene_only
+    widescan: true
+    content: toau
+  17072366:
+    widescan: null
+    script: Goblin_Footprint
+    display_name: Goblin Footprint
+    at: [343.021, -3.999, -623.027, 161]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      moving: 1
+    status: normal
+  17072367:
+    display_name: null
+    widescan: null
+    content: null
+    script: blank_transformations
+    at: [-529.704, 0.0, 649.682, 33]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 52}
+      moving: 1
+    status: normal
+  17072368:
+    at: null
+    content: null
+    script: Ghatsad
+    display_name: Ghatsad
+    render:
+      moving: null
+      look: {model: null, type: equipped, race: 8, face: 3, head: 4221, body: 8317, hands: 12288, legs: 16399, feet: 20495, main: 24576, sub: 28672}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17072369:
+    at: null
+    script: Abda-Lurabda
+    display_name: Abda-Lurabda
+    render:
+      moving: null
+      look: {model: null, type: equipped, race: 5, face: 4, head: 4221, body: 8317, hands: 12288, legs: 16399, feet: 20495, main: 24576, sub: 28672}
+      entity_flags: 25
+      animation_sub: 1
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+    content: toau
+  17072370:
+    script: Rishfee
+    display_name: Rishfee
+    render:
+      look: {race: 1, face: 6, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951}
+      entity_flags: 27
+    content: toau
+  17072371:
+    content: null
+    script: Amnaf
+    display_name: Amnaf
+    render:
+      animation_sub: null
+      look: {race: 2, face: 11, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951}
+  17072372:
+    script: Shahayl
+    display_name: Shahayl
+    at: [145.787, 0.0, 31.166, 10]
+    render:
+      look: {face: 12}
+      moving: 8
+    status: normal
+  17072373:
+    display_name: null
+    status: null
+    widescan: null
+    script: blank
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      animation_sub: 1
+  17072374:
+    at: null
+    status: null
+    script: Gessho
+    display_name: Gessho
+    render:
+      moving: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1536}
+      entity_flags: 2075
+  17072376:
+    script: Mnejing
+    display_name: Mnejing
+    render:
+      look: {model: 1549}
+      entity_flags: 27
+      animation_sub: 2
+    status: cutscene_only
+  17072377:
+    script: Ovjang
+    display_name: Ovjang
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1543}
+      entity_flags: 27
+      animation_sub: 2
+  17072379:
+    display_name: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      animation_sub: null
+      name_prefix: null
+      look: {model: 960}
+      entity_flags: 2051
+  17072380:
+    display_name: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      animation_sub: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 25
+  17072386:
+    script: Alexander
+    display_name: Alexander
+    render:
+      look: {model: 1835}
+  17072387:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      look: {model: 2450}
+  17072389:
+    script: Volto_Oscuro
+    display_name: Volto Oscuro
+    render:
+      look: {model: null, type: equipped, race: 7, face: 4, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+    widescan: true

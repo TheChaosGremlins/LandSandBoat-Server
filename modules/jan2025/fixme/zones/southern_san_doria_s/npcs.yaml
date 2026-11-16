@@ -1,0 +1,64 @@
+npcs:
+  17105307:
+    _jan2025_candidates: [17105308, 17105307]
+    script: NPC[19b]
+    render:
+      look: {type: standard, model: 50}
+    speed: 40
+    animation_speed: 40
+  17105309:
+    _jan2025_candidates: [17105310, 17105309]
+    script: NPC[19d]
+    at: [0.0, 1.5, 0.0]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+    speed: 40
+    animation_speed: 40
+  17105312:
+    _jan2025_candidates: [17105313, 17105312]
+    script: NPC[1a0]
+    render:
+      look: {type: standard, model: 50}
+    speed: 40
+    animation_speed: 40
+  17105699:
+    _jan2025_candidates: [17105699, 17105700]
+    script: NPC[323]
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+    speed: 40
+    animation_speed: 40
+  17105702:
+    _jan2025_candidates: [17105703, 17105704]
+    script: ???
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17105706:
+    _jan2025_candidates: [17105707]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 112
+  17105707:
+    _jan2025_candidates: [17105708]
+    script: blank
+    render:
+      look: {type: standard, model: 3154}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+  17105708:
+    _jan2025_candidates: [17105709]
+    script: qm1
+    display_name: ???
+    at: [-179.923, -11.709, 66.358, 94]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only

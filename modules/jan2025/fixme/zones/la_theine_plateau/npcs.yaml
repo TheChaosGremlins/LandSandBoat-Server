@@ -1,0 +1,404 @@
+npcs:
+  17195581:
+    _jan2025_candidates: [17195581, 17195597]
+    script: qm1
+    display_name: ???
+    at: [345.677, 24.101, -31.757]
+    render:
+      look: {type: standard, model: 52}
+      moving: 7
+    status: normal
+  17195582:
+    _jan2025_candidates: [17195582, 17195598]
+    script: FallenEgg
+    display_name: Fallen Egg
+    at: [618.911, 26.993, 118.408]
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+    status: normal
+    widescan: true
+  17195599:
+    _jan2025_candidates: [17195599, 17195600]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      animation_sub: 4
+      name_vis: 4
+      moving: 1
+  17195601:
+    _jan2025_candidates: [17195602]
+    script: NPC[251]
+    render:
+      look: {type: standard, model: 50}
+  17195612:
+    _jan2025_candidates: [17195613]
+    script: Tayula
+    display_name: Tayula
+    at: [-311.671, 51.448, 179.665, 190]
+    render:
+      look: {type: equipped, race: 4, face: 3, head: 4122, body: 8220, hands: 12314, legs: 16412, feet: 20506, main: 24576, sub: 28672}
+      entity_flags: 4194331
+      animation_sub: 1
+      name_prefix: 32
+      moving: 448
+    status: normal
+    speed: 13
+    widescan: true
+  17195643:
+    _jan2025_candidates: [17195644]
+    script: Coumaine
+    display_name: Coumaine
+    at: [453.782, 24.231, 20.254, 197]
+    render:
+      look: {type: equipped, race: 4, face: 2, head: 4117, body: 8200, hands: 12298, legs: 16405, feet: 20504, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 1
+    status: normal
+    widescan: true
+  17195644:
+    _jan2025_candidates: [17195645]
+    script: blank
+    at: [452.307, 24.119, 20.277, 200]
+    render:
+      look: {type: standard, model: 86}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 21
+    status: normal
+  17195679:
+    _jan2025_candidates: [17195680, 17195679]
+    script: Chocobo_Tracks
+    display_name: Chocobo Tracks
+    at: [-556.742, 0.0, 523.814, 249]
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+    status: normal
+    widescan: true
+    content: toau
+  17195682:
+    _jan2025_candidates: [17195683, 17195682]
+    script: Field_Manual
+    display_name: Field Manual
+    at: [-576.994, -4.033, 661.371, 148]
+    render:
+      look: {type: standard, model: 2290}
+      name_vis: 32
+      moving: 7
+    status: normal
+    widescan: true
+    content: field_manuals
+  17195685:
+    _jan2025_candidates: [17195686]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [-122.88, -8.0, -43.55]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17195686:
+    _jan2025_candidates: [17195687]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [-268.68, -15.64, -161.21]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17195687:
+    _jan2025_candidates: [17195688]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [119.31, 8.0, -158.75]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17195689:
+    _jan2025_candidates: [17195690, 17195689]
+    script: Mog-Tablet
+    display_name: Mog-Tablet
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17195690:
+    _jan2025_candidates: [17195691, 17195690]
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [640.0, 32.0, 1.0]
+    render:
+      look: {type: standard, model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    status: normal
+    widescan: true
+    content: voidwatch
+  17195699:
+    _jan2025_candidates: [17195700]
+    script: ???
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17195700:
+    _jan2025_candidates: [17195701]
+    script: ???
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17195701:
+    _jan2025_candidates: [17195702]
+    script: ???
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17195702:
+    _jan2025_candidates: [17195703]
+    script: ???
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17195703:
+    _jan2025_candidates: [17195704]
+    script: ???
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17195705:
+    _jan2025_candidates: [17195706, 17195705]
+    script: Smile_Helper
+    display_name: Smile Helper
+    at: [77.875, 18.938, -312.992, 184]
+    render:
+      look: {type: equipped, race: 5, face: 0, head: 4152, body: 8297, hands: 12288, legs: 16487, feet: 20584, main: 24576, sub: 28672}
+      animation_sub: 1
+      moving: 1
+    widescan: true
+  17195720:
+    _jan2025_candidates: [17195721, 17195720]
+    script: ???
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17195721:
+    _jan2025_candidates: [17195722, 17195721]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17195724:
+    _jan2025_candidates: [17195724, 17195725]
+    script: Geomagnetic_Fount
+    display_name: Geomagnetic Fount
+    at: [-10.523, 51.987, -362.174]
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+    status: normal
+    widescan: true
+    content: soa
+  17195734:
+    _jan2025_candidates: [17195735]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195738:
+    _jan2025_candidates: [17195739]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195739:
+    _jan2025_candidates: [17195740]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195740:
+    _jan2025_candidates: [17195741]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195770:
+    _jan2025_candidates: [17195771]
+    script: Moogle_Meeting
+    display_name: Moogle Meeting
+    at: [-84.984, 54.699, -400.248]
+    render:
+      look: {type: standard, model: 2326}
+      name_vis: 112
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    widescan: true
+    content: tvr
+  17195771:
+    _jan2025_candidates: [17195772]
+    script: Layer_Reserve
+    display_name: Layer Reserve
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 112
+      moving: 1
+    widescan: true
+  17195772:
+    _jan2025_candidates: [17195773]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 112
+  17195773:
+    _jan2025_candidates: [17195774]
+    script: Kupofried
+    display_name: Kupofried
+    render:
+      look: {type: standard, model: 2452}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195774:
+    _jan2025_candidates: [17195775]
+    script: Moogle
+    display_name: Moogle
+    render:
+      look: {type: standard, model: 2361}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195775:
+    _jan2025_candidates: [17195776]
+    script: Nomad_Moogle
+    display_name: Nomad Moogle
+    render:
+      look: {type: standard, model: 981}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195776:
+    _jan2025_candidates: [17195777]
+    script: Nomad_Moogle
+    display_name: Nomad Moogle
+    render:
+      look: {type: standard, model: 981}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195777:
+    _jan2025_candidates: [17195778]
+    script: Spikehelm_Argok
+    display_name: Spikehelm Argok
+    render:
+      look: {type: standard, model: 3660}
+      entity_flags: 2077
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195778:
+    _jan2025_candidates: [17195779]
+    script: Tethys
+    display_name: Tethys
+    render:
+      look: {type: standard, model: 3640}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195779:
+    _jan2025_candidates: [17195780]
+    script: Antican_Curule_Aedilis
+    display_name: Antican Curule Aedilis
+    render:
+      look: {type: standard, model: 1281}
+      entity_flags: 2077
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195780:
+    _jan2025_candidates: [17195781]
+    script: Garmatur_the_Merciless
+    display_name: Garmatur the Merciless
+    render:
+      look: {type: automaton, model: 1710}
+      entity_flags: 2077
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195781:
+    _jan2025_candidates: [17195782]
+    script: Duke_Alloces
+    display_name: Duke Alloces
+    render:
+      look: {type: standard, model: 3634}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17195782:
+    _jan2025_candidates: [17195783]
+    script: blank
+    render:
+      look: {type: standard, model: 2219}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+  17195783:
+    _jan2025_candidates: [17195784]
+    script: blank
+    render:
+      look: {type: standard, model: 2220}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+  17195784:
+    _jan2025_candidates: [17195785]
+    script: Garazu-Horeizu
+    display_name: Garazu-Horeizu
+    render:
+      look: {type: equipped, race: 5, face: 24, head: 4096, body: 8665, hands: 12389, legs: 16857, feet: 20581, main: 25464, sub: 28672}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true

@@ -1,0 +1,52 @@
+npcs:
+  16982063: null
+  16982654: null
+  16982655: null
+  16982656: null
+  16982657: null
+  16982658: null
+  16982659: null
+  16982660: null
+  16982661: null
+  16982662: null
+  16982663: null
+  16982664: null
+  16982665: null
+  16982666: null
+  16982062:
+    script: _1ec
+    display_name: Door_1ec
+    at: [0.349, -2.0, 104.819]
+    render: {door_id: 1667576159}
+  16982294:
+    display_name: null
+    status: null
+    script: blank
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+  16982295:
+    display_name: null
+    status: null
+    script: blank
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+  16982296:
+    display_name: null
+    status: null
+    script: blank
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+  16982304:
+    display_name: null
+    status: null
+    script: blank
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}

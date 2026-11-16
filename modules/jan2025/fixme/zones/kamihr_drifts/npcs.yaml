@@ -1,0 +1,20 @@
+npcs:
+  17871120:
+    _jan2025_candidates: [17871121, 17871120]
+    script: NPC[110]
+    render:
+      look: {type: standard, model: 50}
+  17871147:
+    _jan2025_candidates: [17871148, 17871147]
+    script: NPC[12b]
+    render:
+      look: {type: standard, model: 2779}
+      entity_flags: 2075
+      name_vis: 104
+      name_prefix: 34
+      moving: 1
+  17871200:
+    _jan2025_candidates: [17871200]
+    script: NPC[160]
+    render:
+      look: {type: standard, model: 50}

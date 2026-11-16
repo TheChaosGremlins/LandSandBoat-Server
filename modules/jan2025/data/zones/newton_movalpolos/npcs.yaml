@@ -1,0 +1,10 @@
+npcs:
+  16826577: null
+  16826581: null
+  16826582: null
+  16826580:
+    script: NPC[d1]
+    render: {entity_flags: null}
+  16826583:
+    script: NPC[d4]
+    render: {entity_flags: 1}

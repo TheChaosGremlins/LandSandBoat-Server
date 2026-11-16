@@ -1,0 +1,17 @@
+npcs:
+  17043929:
+    _jan2025_candidates: [17043930, 17043929]
+    script: NPC[1d9]
+    render:
+      look: {type: standard, model: 50}
+  17043956:
+    _jan2025_candidates: [17043957, 17043956]
+    script: _1tt
+    at: [69.315, 44.4, 170.276]
+    render:
+      look: {type: door}
+      door_id: 1953771871
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal

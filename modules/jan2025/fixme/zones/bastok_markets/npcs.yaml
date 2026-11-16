@@ -1,0 +1,959 @@
+npcs:
+  17740024:
+    _jan2025_candidates: [17740024, 17740039]
+    at: [-348.3, -10.0, -162.3]
+    render:
+      look: {type: ship}
+      door_id: 3586
+      entity_flags: 2051
+      animation: animation_55
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740025:
+    _jan2025_candidates: [17740025, 17740040]
+    script: blank
+    at: [-306.11, -15.85, -162.54, 232]
+    render:
+      look: {type: standard, model: 2331}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740026:
+    _jan2025_candidates: [17740026, 17740041]
+    script: blank
+    at: [-296.34, -12.37, -135.0, 96]
+    render:
+      look: {type: standard, model: 2294}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740027:
+    _jan2025_candidates: [17740027, 17740042]
+    script: blank
+    at: [-293.048, -10.0, -102.558, 70]
+    render:
+      look: {type: standard, model: 57}
+      entity_flags: 2051
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740028:
+    _jan2025_candidates: [17740028, 17740043]
+    script: blank
+    at: [-218.75, -6.7, -94.6, 106]
+    render:
+      look: {type: standard, model: 2800}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740029:
+    _jan2025_candidates: [17740029, 17740044]
+    script: n
+    at: [-179.4, 2.0, -116.8, 64]
+    render:
+      look: {type: ship}
+      door_id: 110
+      entity_flags: 2051
+      animation: animation_55
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740030:
+    _jan2025_candidates: [17740030, 17740045]
+    script: blank
+    at: [-157.38, -6.015, -118.26, 192]
+    render:
+      look: {type: standard, model: 2808}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740031:
+    _jan2025_candidates: [17740031, 17740046]
+    at: [-31.1, -7.71, -76.7, 192]
+    render:
+      look: {type: ship}
+      door_id: 3667
+      entity_flags: 2051
+      animation: animation_55
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740032:
+    _jan2025_candidates: [17740032, 17740047]
+    script: blank
+    at: [-122.4, -1.84, -85.6]
+    render:
+      look: {type: standard, model: 2412}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740033:
+    _jan2025_candidates: [17740033, 17740048]
+    at: [-201.85, -7.71, -57.71, 4]
+    render:
+      look: {type: ship}
+      door_id: 3592
+      entity_flags: 2051
+      animation: animation_55
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740034:
+    _jan2025_candidates: [17740034, 17740049]
+    at: [-323.85, -17.5, -68.0, 64]
+    render:
+      look: {type: ship}
+      door_id: 346
+      entity_flags: 2051
+      animation: animation_55
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740035:
+    _jan2025_candidates: [17740035, 17740050]
+    script: blank
+    at: [-237.0, -12.0, -42.5, 160]
+    render:
+      look: {type: standard, model: 2311}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740036:
+    _jan2025_candidates: [17740036, 17740051]
+    script: blank
+    at: [-199.0, -8.0, -38.2, 192]
+    render:
+      look: {type: standard, model: 962}
+      entity_flags: 2051
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740037:
+    _jan2025_candidates: [17740037, 17740052]
+    script: blank
+    at: [-234.0, -8.0, 26.0]
+    render:
+      look: {type: standard, model: 2334}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740038:
+    _jan2025_candidates: [17740038, 17740053]
+    script: blank
+    at: [-219.9, -3.71, 50.12, 16]
+    render:
+      look: {type: standard, model: 2275}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17740039:
+    _jan2025_candidates: [17740039, 17740054]
+    at: [-173.55, -7.57, 65.6]
+    render:
+      look: {type: ship}
+      door_id: 3641
+      entity_flags: 2051
+      animation: animation_55
+      name_vis: 96
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17740040:
+    _jan2025_candidates: [17740040, 17740055]
+    script: qm7
+    display_name: ???
+    at: [-348.3, -10.65, -162.3]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740041:
+    _jan2025_candidates: [17740041, 17740056]
+    script: qm8
+    display_name: ???
+    at: [-306.11, -16.85, -162.54, 232]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740042:
+    _jan2025_candidates: [17740042, 17740057]
+    script: qm9
+    display_name: ???
+    at: [-296.34, -12.37, -135.0, 96]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740043:
+    _jan2025_candidates: [17740043, 17740058]
+    script: qm10
+    display_name: ???
+    at: [-293.048, -11.0, -102.558, 70]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740044:
+    _jan2025_candidates: [17740044, 17740059]
+    script: qm11
+    display_name: ???
+    at: [-218.75, -6.55, -94.6, 106]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740045:
+    _jan2025_candidates: [17740045, 17740060]
+    script: qm12
+    display_name: ???
+    at: [-179.4, 1.25, -116.8, 64]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740046:
+    _jan2025_candidates: [17740046, 17740061]
+    script: qm13
+    display_name: ???
+    at: [-157.38, -6.115, -118.26, 192]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740047:
+    _jan2025_candidates: [17740047, 17740062]
+    script: qm14
+    display_name: ???
+    at: [-31.1, -8.26, -76.7, 192]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740048:
+    _jan2025_candidates: [17740048, 17740063]
+    script: qm15
+    display_name: ???
+    at: [-122.4, -3.99, -85.6]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740049:
+    _jan2025_candidates: [17740049, 17740064]
+    script: qm16
+    display_name: ???
+    at: [-201.85, -8.11, -57.71, 4]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740050:
+    _jan2025_candidates: [17740050, 17740065]
+    script: qm17
+    display_name: ???
+    at: [-323.85, -17.5, -68.0, 64]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740051:
+    _jan2025_candidates: [17740051, 17740066]
+    script: qm18
+    display_name: ???
+    at: [-237.0, -14.8, -42.5, 160]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740052:
+    _jan2025_candidates: [17740052, 17740067]
+    script: qm19
+    display_name: ???
+    at: [-199.0, -8.65, -38.2, 192]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740053:
+    _jan2025_candidates: [17740053, 17740068]
+    script: qm20
+    display_name: ???
+    at: [-234.0, -8.95, 26.0]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740054:
+    _jan2025_candidates: [17740054, 17740069]
+    script: qm21
+    display_name: ???
+    at: [-219.9, -3.71, 50.12, 16]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740055:
+    _jan2025_candidates: [17740055, 17740070]
+    script: qm22
+    display_name: ???
+    at: [-173.55, -7.87, 65.6]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 162
+      moving: 32768
+    status: cutscene_only
+  17740056:
+    _jan2025_candidates: [17740056, 17740071]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 112
+    status: cutscene_only
+  17740057:
+    _jan2025_candidates: [17740057, 17740072]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-211.634, -6.5, -110.851, 128]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 2488
+    status: cutscene_only
+    speed: 80
+    animation_speed: 40
+    widescan: true
+  17740058:
+    _jan2025_candidates: [17740058, 17740073]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-283.807, -12.742, -93.902, 182]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 3005
+    status: cutscene_only
+    speed: 80
+    animation_speed: 40
+    widescan: true
+  17740059:
+    _jan2025_candidates: [17740059, 17740074]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-306.603, -10.504, -128.252, 203]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 1744
+    status: cutscene_only
+    speed: 80
+    animation_speed: 40
+    widescan: true
+  17740060:
+    _jan2025_candidates: [17740060, 17740075]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-217.646, -9.252, -32.607, 1]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 5051
+    status: cutscene_only
+    speed: 80
+    animation_speed: 40
+    widescan: true
+  17740061:
+    _jan2025_candidates: [17740061, 17740076]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-187.233, -4.499, 72.438, 147]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 7
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17740062:
+    _jan2025_candidates: [17740062, 17740077]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-261.67, -12.864, -87.705, 103]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 7146
+    status: cutscene_only
+    speed: 80
+    animation_speed: 40
+    widescan: true
+  17740063:
+    _jan2025_candidates: [17740063, 17740078]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-152.566, -4.5, -85.358, 20]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 6
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17740064:
+    _jan2025_candidates: [17740064, 17740079]
+    script: Agent_Moogle
+    display_name: Agent Moogle
+    at: [-275.117, -10.5, -112.384, 241]
+    render:
+      look: {type: standard, model: 2365}
+      entity_flags: 131
+      moving: 2251
+    status: cutscene_only
+    speed: 80
+    animation_speed: 40
+    widescan: true
+  17740066:
+    _jan2025_candidates: [17740081]
+    script: blank
+    at: [-153.7, -4.0, 33.0, 64]
+    render:
+      look: {type: standard, model: 1391}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 8
+  17740067:
+    _jan2025_candidates: [17740082]
+    script: blank
+    at: [-153.7, -4.0, 27.0, 64]
+    render:
+      look: {type: standard, model: 1391}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 1
+  17740068:
+    _jan2025_candidates: [17740083]
+    script: blank
+    at: [-153.7, -4.0, -27.0, 64]
+    render:
+      look: {type: standard, model: 1391}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 22
+  17740069:
+    _jan2025_candidates: [17740084]
+    script: blank
+    at: [-153.7, -4.0, -33.0, 64]
+    render:
+      look: {type: standard, model: 1391}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 15
+  17740070:
+    _jan2025_candidates: [17740085]
+    script: blank
+    at: [-362.004, -10.002, -173.953, 160]
+    render:
+      look: {type: standard, model: 1391}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 8
+  17740071:
+    _jan2025_candidates: [17740086]
+    script: blank
+    at: [-353.928, -10.002, -182.068, 160]
+    render:
+      look: {type: standard, model: 1391}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 1
+  17740076:
+    _jan2025_candidates: [17740091, 17740076]
+    script: blank
+    at: [-276.1, -13.6, -52.0, 192]
+    render:
+      look: {type: standard, model: 1304}
+      entity_flags: 2077
+      animation_sub: 7
+      name_vis: 68
+      name_prefix: 32
+      moving: 32769
+    speed: 4
+  17740077:
+    _jan2025_candidates: [17740092, 17740077]
+    script: blank
+    at: [-264.7, -13.6, -56.7, 224]
+    render:
+      look: {type: standard, model: 1305}
+      entity_flags: 2077
+      animation_sub: 6
+      name_vis: 68
+      name_prefix: 32
+      moving: 32769
+    speed: 4
+  17740078:
+    _jan2025_candidates: [17740093, 17740078]
+    script: blank
+    at: [-260.0, -13.6, -68.1]
+    render:
+      look: {type: standard, model: 1304}
+      entity_flags: 2077
+      animation_sub: 7
+      name_vis: 68
+      name_prefix: 32
+      moving: 32769
+    speed: 4
+  17740079:
+    _jan2025_candidates: [17740094, 17740079]
+    script: blank
+    at: [-264.9, -13.6, -79.3, 32]
+    render:
+      look: {type: standard, model: 1305}
+      entity_flags: 2077
+      animation_sub: 6
+      name_vis: 68
+      name_prefix: 32
+      moving: 32769
+    speed: 4
+  17740080:
+    _jan2025_candidates: [17740095, 17740080]
+    script: blank
+    at: [-276.1, -13.6, -84.0, 64]
+    render:
+      look: {type: standard, model: 1304}
+      entity_flags: 2077
+      animation_sub: 7
+      name_vis: 68
+      name_prefix: 32
+      moving: 32769
+    speed: 4
+  17740087:
+    _jan2025_candidates: [17740087]
+    script: blank
+    at: [-260.5, -18.188, -66.083]
+    render:
+      look: {type: standard, model: 1305}
+      entity_flags: 2079
+      animation_sub: 6
+      name_vis: 68
+      name_prefix: 34
+      moving: 32769
+    speed: 4
+  17740088:
+    _jan2025_candidates: [17740088]
+    script: blank
+    at: [-278.1, -18.188, -83.583, 64]
+    render:
+      look: {type: standard, model: 1304}
+      entity_flags: 2079
+      animation_sub: 6
+      name_vis: 68
+      name_prefix: 34
+      moving: 32769
+    speed: 4
+  17740089:
+    _jan2025_candidates: [17740089]
+    script: blank
+    at: [-274.1, -18.188, -83.583, 64]
+    render:
+      look: {type: standard, model: 1305}
+      entity_flags: 2079
+      animation_sub: 7
+      name_vis: 68
+      name_prefix: 34
+      moving: 32769
+    speed: 4
+  17740090:
+    _jan2025_candidates: [17740090]
+    script: blank
+    at: [-291.6, -18.188, -66.083, 128]
+    render:
+      look: {type: standard, model: 1304}
+      entity_flags: 2079
+      animation_sub: 7
+      name_vis: 68
+      name_prefix: 34
+      moving: 32769
+    speed: 4
+  17740115:
+    _jan2025_candidates: [17740115, 17740130]
+    script: Moogle
+    display_name: Moogle
+    at: [-188.927, -8.0, -27.516, 64]
+    render:
+      look: {type: standard, model: 82}
+      moving: 1
+  17740116:
+    _jan2025_candidates: [17740116, 17740131]
+    script: qm23
+    display_name: ???
+    render:
+      look: {type: standard, model: 82}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 32
+      moving: 32768
+  17740117:
+    _jan2025_candidates: [17740117, 17740132]
+    script: Mumor
+    display_name: Mumor
+    render:
+      look: {type: equipped, race: 2, face: 14, head: 4307, body: 8417, hands: 12513, legs: 16609, feet: 20705, main: 24949, sub: 28672}
+      entity_flags: 153
+      name_vis: 64
+      name_prefix: 32
+    status: status_5
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17740123:
+    _jan2025_candidates: [17740138]
+    script: Bashraf
+    display_name: Bashraf
+    at: [-255.205, -12.02, -71.666]
+    render:
+      look: {type: equipped, race: 1, face: 2, head: 4096, body: 8198, hands: 12294, legs: 16390, feet: 20486, main: 24576, sub: 28672}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 32
+    status: status_4
+    widescan: true
+  17740125:
+    _jan2025_candidates: [17740140]
+    script: Tango
+    display_name: Tango
+    at: [-255.205, -12.02, -57.46]
+    render:
+      look: {type: equipped, race: 4, face: 6, head: 4096, body: 8417, hands: 12513, legs: 16387, feet: 20483, main: 24576, sub: 28672}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 32
+    status: status_4
+    widescan: true
+  17740129:
+    _jan2025_candidates: [17740144, 17740129]
+    script: Mumor
+    display_name: Mumor
+    render:
+      look: {type: equipped, race: 2, face: 14, head: 4401, body: 8561, hands: 12288, legs: 16416, feet: 20784, main: 25284, sub: 28672}
+      entity_flags: 2073
+      name_vis: 120
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17740132:
+    _jan2025_candidates: [17740132, 17740147]
+    script: blank
+    at: [-393.38, 7.999, 6.483, 147]
+    render:
+      look: {type: standard, model: 327}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 32769
+  17740136:
+    _jan2025_candidates: [17740151, 17740136]
+    script: blank
+    at: [-121.028, -4.0, -132.367, 81]
+    render:
+      look: {type: standard, model: 1287}
+      entity_flags: 2075
+      name_vis: 104
+      name_prefix: 34
+      moving: 32790
+  17740137:
+    _jan2025_candidates: [17740152, 17740137]
+    script: blank
+    at: [-268.711, -10.0, -105.82, 66]
+    render:
+      look: {type: standard, model: 1287}
+      entity_flags: 2075
+      name_vis: 104
+      name_prefix: 34
+      moving: 32783
+  17740138:
+    _jan2025_candidates: [17740153, 17740138]
+    script: blank
+    at: [-265.477, -12.021, -49.714, 11]
+    render:
+      look: {type: standard, model: 1287}
+      entity_flags: 2075
+      name_vis: 104
+      name_prefix: 34
+      moving: 32776
+  17740139:
+    _jan2025_candidates: [17740154, 17740139]
+    script: blank
+    at: [-253.768, 0.0, 83.622, 56]
+    render:
+      look: {type: standard, model: 1287}
+      entity_flags: 2075
+      name_vis: 104
+      name_prefix: 34
+      moving: 32769
+  17740142:
+    _jan2025_candidates: [17740157, 17740155]
+    script: blank
+    at: [-255.5, -12.02, -59.5, 240]
+    render:
+      look: {type: standard, model: 2060}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 32
+    status: cutscene_only
+  17740143:
+    _jan2025_candidates: [17740158, 17740156]
+    script: Fashionista
+    display_name: Fashionista
+    at: [-252.266, -12.0, -58.161, 240]
+    render:
+      look: {type: equipped, race: 1, face: 30, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      name_vis: 96
+    status: cutscene_only
+    widescan: true
+  17740144:
+    _jan2025_candidates: [17740159, 17740157]
+    script: Fashionista
+    display_name: Fashionista
+    at: [-252.116, -12.0, -59.83, 240]
+    render:
+      look: {type: equipped, race: 1, face: 30, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      name_vis: 96
+    status: cutscene_only
+  17740148:
+    _jan2025_candidates: [17740148]
+    script: blank
+    at: [-333.456, -10.004, -147.542]
+    render:
+      look: {type: standard, model: 1242}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32790
+  17740149:
+    _jan2025_candidates: [17740149]
+    script: blank
+    at: [-327.166, -10.004, -141.216]
+    render:
+      look: {type: standard, model: 1242}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32783
+  17740150:
+    _jan2025_candidates: [17740150]
+    script: blank
+    at: [-316.577, -10.004, -130.499]
+    render:
+      look: {type: standard, model: 1242}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32776
+  17740159:
+    _jan2025_candidates: [17740174]
+    script: blank
+    at: [-210.96, -2.0, 59.878]
+    render:
+      look: {type: standard, model: 1242}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17740169:
+    _jan2025_candidates: [17740169, 17740184]
+    script: Moogle
+    display_name: Moogle
+    at: [-259.33, -12.021, -78.102, 17]
+    render:
+      look: {type: standard, model: 82}
+      moving: 1
+    widescan: true
+  17740170:
+    _jan2025_candidates: [17740170, 17740185]
+    script: Moogle
+    display_name: Moogle
+    at: [-260.655, -12.021, -78.857, 24]
+    render:
+      look: {type: standard, model: 82}
+      moving: 1
+    widescan: true
+  17740188:
+    _jan2025_candidates: [17740203, 17740188]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17740189:
+    _jan2025_candidates: [17740204, 17740189]
+    script: Lion
+    display_name: Lion
+    render:
+      look: {type: standard, model: 60}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17740190:
+    _jan2025_candidates: [17740205, 17740190]
+    script: Zeid
+    display_name: Zeid
+    render:
+      look: {type: standard, model: 830}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17740191:
+    _jan2025_candidates: [17740206, 17740191]
+    script: blank
+    render:
+      look: {type: standard, model: 2450}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17740192:
+    _jan2025_candidates: [17740207, 17740192]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17740193:
+    _jan2025_candidates: [17740208, 17740193]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17740194:
+    _jan2025_candidates: [17740209, 17740194]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17740195:
+    _jan2025_candidates: [17740210, 17740195]
+    script: Balamor
+    display_name: Balamor
+    render:
+      look: {type: standard, model: 2742}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17740216:
+    _jan2025_candidates: [17740231]
+    script: blank
+    at: [-174.418, -4.0, -69.859, 53]
+    render:
+      look: {type: standard, model: 2478}
+      entity_flags: 2051
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+  17740217:
+    _jan2025_candidates: [17740232]
+    script: Tales_Beginning
+    display_name: Tales' Beginning
+    at: [-174.418, -4.0, -69.859, 53]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+    widescan: true
+    content: tvr

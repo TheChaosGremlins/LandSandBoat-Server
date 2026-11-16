@@ -1,0 +1,16 @@
+npcs:
+  17576300: null
+  17576303: null
+  17576301:
+    speed: null
+    animation_speed: null
+    script: NPC[16c]
+    render:
+      name_vis: null
+      look: {model: 50}
+      entity_flags: 1
+  17576302:
+    script: NPC[16d]
+    render: {entity_flags: 129, name_vis: 32}
+    speed: 40
+    animation_speed: 40

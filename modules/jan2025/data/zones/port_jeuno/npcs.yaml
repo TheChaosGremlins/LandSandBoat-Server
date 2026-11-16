@@ -1,0 +1,143 @@
+npcs:
+  17784991: null
+  17784997: null
+  17784998: null
+  17785004: null
+  17785008: null
+  17785009: null
+  17785010: null
+  17785011: null
+  17784990:
+    at: null
+    widescan: null
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      moving: null
+      look: {model: 50}
+    content: soa
+  17784992:
+    at: null
+    widescan: null
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17784993:
+    content: null
+    script: qm
+    display_name: ???
+    render:
+      look: {model: 52}
+      entity_flags: 2051
+  17784994:
+    script: Prishe
+    display_name: Prishe
+    render:
+      look: {model: 1446}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    animation_speed: 66
+    widescan: true
+  17784995:
+    content: null
+    script: Tenzen
+    display_name: Tenzen
+    render:
+      name_vis: null
+      look: {model: 1442}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17784996:
+    script: Ulmia
+    display_name: Ulmia
+    render:
+      look: {model: 1472}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17784999:
+    script: Mystic_Retriever
+    display_name: Mystic Retriever
+    at: [-143.793, -1.0, -6.404, 153]
+    render:
+      look: {model: 2326}
+      name_vis: 96
+      name_prefix: 34
+      moving: 32769
+    status: normal
+    content: soa
+  17785000:
+    script: Mewk_Chorosap
+    display_name: Mewk Chorosap
+    at: [-89.0, 0.0, -9.8, 192]
+    render:
+      look: {model: null, type: equipped, race: 7, face: 3, head: 4217, body: 8215, hands: 12288, legs: 16386, feet: 20482, main: 24576, sub: 28672}
+      moving: 1
+    status: normal
+    widescan: true
+    content: soa
+  17785001:
+    script: SynthesisFocus
+    display_name: Synthesis Focuser II
+    at: [-92.75, 0.0, -10.0, 192]
+    render:
+      entity_flags: null
+      look: {model: 2335}
+      name_vis: 96
+      name_prefix: 2
+      moving: 21
+    status: normal
+    widescan: true
+    content: rov
+  17785002:
+    display_name: null
+    widescan: null
+    content: null
+    script: NPC[ad]
+    at: [-92.75, -2.0, -10.0, 192]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}
+      moving: 32768
+    status: cutscene_only
+  17785003:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      name_prefix: null
+      moving: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 112
+  17785005:
+    at: null
+    status: null
+    script: blank
+    render: {moving: null, entity_flags: 2051, name_vis: 112}
+  17785006:
+    script: Munitions_Moogle
+    display_name: Munitions Moogle
+    at: [-167.73, 11.0, 85.53, 160]
+    render:
+      name_vis: null
+      look: {model: 82}
+      entity_flags: 259
+      moving: 15
+    status: normal
+    widescan: true
+    content: rov

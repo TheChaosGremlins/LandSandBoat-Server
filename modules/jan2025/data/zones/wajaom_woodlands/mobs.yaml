@@ -1,0 +1,93 @@
+spawns:
+  16986534: null
+  16986535: null
+  16986536: null
+  16986537: null
+  16986538: null
+  16986539: null
+  16986540: null
+  16986541: null
+  16986542: null
+  16986543: null
+  16986544: null
+  16986545: null
+  16986546: null
+  16986547: null
+  16986548: null
+  16986549: null
+  16986550: null
+  16986551: null
+  16986552: null
+  16986553: null
+  16986554: null
+  16986555: null
+  16986556: null
+  16986557: null
+  16986558: null
+  16986559: null
+  16986560: null
+  16986561: null
+  16986562: null
+  16986563: null
+  16986564: null
+  16986565: null
+  16986566: null
+  16986567: null
+  16986568: null
+  16986569: null
+  16986570: null
+  16986571: null
+  16986572: null
+  16986573: null
+  16986574: null
+  16986575: null
+  16986576: null
+  16986577: null
+  16986578: null
+  16986579: null
+  16986580: null
+  16986581: null
+  16986582: null
+  16986583: null
+  16986584: null
+  16986585: null
+  16986586: null
+  16986587: null
+  16986588: null
+  16986589: null
+  16986593: null
+  16986594: null
+  16986595: null
+  16986596: null
+  16986597: null
+  16986598: null
+  16986599: null
+  16986600: null
+  16986601: null
+  16986602: null
+  16986603: null
+  16986604: null
+  16986605: null
+  16986606: null
+  16986607: null
+  16986608: null
+  16986609: null
+  16986610: null
+  16986611: null
+  16986612: null
+  16986613: null
+  16986590:
+    script: null
+    template: Vigilant_Kubool_Ja
+    at: [354.559, -16.43, -50.519, 165]
+    level: [99, 99]
+  16986591:
+    script: null
+    template: Vigilant_Kubool_Ja
+    at: [183.552, -20.083, -94.946, 116]
+    level: [99, 99]
+  16986592:
+    script: null
+    template: Vigilant_Kubool_Ja
+    at: [104.497, -20.75, 48.806, 1]
+    level: [99, 99]

@@ -1,0 +1,137 @@
+npcs:
+  17396150: null
+  17396269: null
+  17396270: null
+  17396272: null
+  17396151:
+    speed: null
+    animation_speed: null
+    script: NPC[1b6]
+    render:
+      name_vis: null
+      look: {model: 50}
+      entity_flags: 1
+  17396152:
+    script: NPC[1b7]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17396253:
+    script: Huge_Crystal
+    display_name: Huge Crystal
+    at: [-19.653, -15.749, -19.213, 61]
+    render:
+      moving: null
+      look: {model: 51}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+  17396254:
+    speed: null
+    animation_speed: null
+    script: Geomagnetic_Fount
+    display_name: Geomagnetic Fount
+    at: [-130.954, 0.122, -20.926]
+    render:
+      look: {model: 52}
+      moving: 1
+    status: normal
+    content: soa
+  17396255:
+    display_name: null
+    at: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      moving: null
+      look: {model: 606}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17396257:
+    script: Duberasson
+    display_name: Duberasson
+    render:
+      look: {model: null, type: equipped, race: 3, face: 0, head: 4096, body: 8203, hands: 12307, legs: 16395, feet: 20499, main: 24691, sub: 28711}
+    widescan: true
+  17396258:
+    script: Yerva_Libarello
+    display_name: Yerva Libarello
+    render:
+      look: {race: 7, face: 10, head: 4156, body: 8252, hands: 12348, legs: 16398, feet: 20504, main: 24787, sub: 28672}
+  17396259:
+    script: Thundering_Chariot
+    display_name: Thundering Chariot
+    render:
+      look: {race: 8, face: 4, head: 4096, body: 8232, hands: 12313, legs: 16396, feet: 20505, main: 24850, sub: 28701}
+  17396260:
+    script: Ulbrik-Mulbrok
+    display_name: Ulbrik-Mulbrok
+    render:
+      look: {race: 5, face: 0, head: 4103, body: 8248, hands: 12337, legs: 16388, feet: 20504, main: 24738, sub: 28841}
+  17396261:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 605}
+  17396262:
+    script: Rolandienne
+    display_name: Rolandienne
+    render:
+      look: {model: null, type: equipped, race: 4, face: 11, head: 4096, body: 8204, hands: 12313, legs: 16396, feet: 20505, main: 24863, sub: 28714}
+    widescan: true
+    content: soa
+  17396263:
+    content: null
+    script: Isakoth
+    display_name: Isakoth
+    render:
+      look: {race: 1, face: 9, body: 8215, hands: 12419, legs: 16398, feet: 20498, main: 24801, sub: 28897}
+  17396264:
+    script: Fhelm_Jobeizat
+    display_name: Fhelm Jobeizat
+    render:
+      look: {race: 7, face: 3, head: 4115, body: 8236, hands: 12309, legs: 16400, feet: 20486, main: 24747, sub: 28835}
+  17396265:
+    script: Ervok
+    display_name: Ervok
+    render:
+      look: {race: 8, face: 0, head: 4096, body: 8202, hands: 12319, legs: 16415, feet: 20511, main: 24871, sub: 28672}
+  17396266:
+    script: Nantoto
+    display_name: Nantoto
+    render:
+      look: {race: 6, face: 3, body: 8235, main: 24801, sub: 28709}
+  17396267:
+    script: Resume_Point
+    display_name: Resume Point
+    at: [-222.937, 0.249, -25.467, 198]
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2326}
+      name_vis: 96
+      name_prefix: 34
+      moving: 32769
+    status: normal
+    content: soa
+  17396268:
+    script: Geomantic_Reservoir
+    display_name: Geomantic Reservoir
+    at: [-210.032, -16.0, 95.255]
+    render: {entity_flags: null, name_prefix: null, name_vis: 112, moving: 1}
+  17396271:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [-221.0, 0.25, -13.0, 192]
+    render:
+      look: {model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 21
+    status: normal
+    widescan: true
+    content: survival_guide

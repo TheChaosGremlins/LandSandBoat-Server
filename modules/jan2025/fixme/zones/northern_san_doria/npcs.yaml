@@ -1,0 +1,59 @@
+npcs:
+  17723820:
+    _jan2025_candidates: [17723820, 17723819]
+    script: Phantom_gems_Box
+    display_name: Phantom gems Box
+    at: [27.7, -0.199, 86.35, 96]
+    render:
+      look: {type: standard, model: 960}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    widescan: true
+    content: tvr
+  17723823:
+    _jan2025_candidates: [17723822]
+    script: NPC[1ae]
+    render:
+      look: {type: standard, model: 50}
+  17723827:
+    _jan2025_candidates: [17723826]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17723831:
+    _jan2025_candidates: [17723830]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17723832:
+    _jan2025_candidates: [17723831]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17723833:
+    _jan2025_candidates: [17723832]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true

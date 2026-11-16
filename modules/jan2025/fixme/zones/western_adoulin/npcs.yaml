@@ -1,0 +1,12 @@
+npcs:
+  17826168:
+    _jan2025_candidates: [17826169, 17826168]
+    script: NPC[178]
+    at: [26.0, 0.0, 161.7]
+    render:
+      look: {type: standard, model: 2331}
+      entity_flags: 2073
+      name_vis: 104
+      name_prefix: 32
+      moving: 32769
+    status: normal

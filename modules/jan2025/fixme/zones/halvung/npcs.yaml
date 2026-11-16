@@ -1,0 +1,23 @@
+npcs:
+  17031619:
+    _jan2025_candidates: [17031619, 17031620]
+    script: NPC[1c3]
+    at: [0.0, -12.5, 0.0]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17031620:
+    _jan2025_candidates: [17031620, 17031621]
+    script: NPC[1c4]
+    at: [0.0, -12.5, 0.0]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17031623:
+    _jan2025_candidates: [17031624, 17031623]
+    script: NPC[1c7]
+    render:
+      look: {type: standard, model: 50}

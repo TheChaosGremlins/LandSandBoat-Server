@@ -1,0 +1,27 @@
+npcs:
+  17895855:
+    _jan2025_candidates: [17895855, 17895854]
+    script: NPC[1af]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17895856:
+    _jan2025_candidates: [17895856, 17895855]
+    script: NPC[1b0]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17895857:
+    _jan2025_candidates: [17895857, 17895856]
+    script: NPC[1b1]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17895858:
+    _jan2025_candidates: [17895858, 17895857]
+    script: NPC[1b2]
+    render:
+      look: {type: standard, model: 50}

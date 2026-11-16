@@ -1,0 +1,29 @@
+npcs:
+  17047843: null
+  17047845: null
+  17047922: null
+  17047846:
+    speed: null
+    animation_speed: null
+    script: NPC[125]
+    render:
+      name_vis: null
+      look: {model: 50}
+      entity_flags: 1
+  17047847:
+    script: NPC[126]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17047848:
+    script: NPC[127]
+    render: {name_vis: 4}
+  17047921:
+    content: null
+    script: _juq
+    at: [459.138, 12.289, 134.125]
+    render: {door_id: 1903520351}
+    widescan: true

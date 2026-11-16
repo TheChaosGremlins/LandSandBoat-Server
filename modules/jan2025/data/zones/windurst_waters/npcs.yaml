@@ -1,0 +1,460 @@
+npcs:
+  17752434: null
+  17752435: null
+  17752436: null
+  17752437: null
+  17752438: null
+  17752439: null
+  17752440: null
+  17752441: null
+  17752442: null
+  17752443: null
+  17752444: null
+  17752445: null
+  17752446: null
+  17752447: null
+  17752448: null
+  17752449: null
+  17752450: null
+  17752451: null
+  17752452: null
+  17752453: null
+  17752454: null
+  17752455: null
+  17752456: null
+  17752457: null
+  17752458: null
+  17752459: null
+  17752460: null
+  17752461: null
+  17752462: null
+  17752463: null
+  17752464: null
+  17752465: null
+  17752466: null
+  17752467: null
+  17752468: null
+  17752469: null
+  17752470: null
+  17752471: null
+  17752472: null
+  17752473: null
+  17752474: null
+  17752475: null
+  17752476: null
+  17752477: null
+  17752478: null
+  17752479: null
+  17752480: null
+  17752481: null
+  17752482: null
+  17752483: null
+  17752484: null
+  17752485: null
+  17752486: null
+  17752502: null
+  17752503: null
+  17752511: null
+  17752512: null
+  17752513: null
+  17752514: null
+  17752535: null
+  17752536: null
+  17752537: null
+  17752540: null
+  17752545: null
+  17752546: null
+  17752547: null
+  17752549: null
+  17752553: null
+  17752558: null
+  17752559: null
+  17752565: null
+  17752567: null
+  17752568: null
+  17752571: null
+  17752572: null
+  17752573: null
+  17752574: null
+  17752592: null
+  17752491:
+    script: Moogle
+    display_name: Moogle
+    at: [-57.563, -5.717, 217.411, 216]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 82}
+      moving: 21
+    widescan: true
+  17752492:
+    script: Prince_Yahiko
+    display_name: Prince Yahiko
+    at: [-41.0, -5.0, 128.0, 64]
+    render:
+      name_vis: null
+      look: {model: null, type: equipped, race: 5, face: 0, head: 4096, body: 8318, hands: 12288, legs: 16486, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 153
+      name_prefix: 32
+      moving: 1
+    speed: 40
+    animation_speed: 40
+  17752493:
+    script: Princess_Amdina
+    display_name: Princess Amdina
+    at: [-40.0, -5.0, 128.0, 64]
+    render:
+      name_vis: null
+      look: {model: null, type: equipped, race: 6, face: 5, head: 4212, body: 8319, hands: 12288, legs: 16486, feet: 20503, main: 24576, sub: 28672}
+      entity_flags: 153
+      name_prefix: 32
+      moving: 1
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17752494:
+    script: Mihn_Rhettorah
+    display_name: Mihn Rhettorah
+    at: [-70.0, -4.5, 98.0, 64]
+    render:
+      name_vis: null
+      look: {model: null, type: equipped, race: 7, face: 1, head: 4226, body: 8349, hands: 12445, legs: 16541, feet: 20637, main: 24576, sub: 28672}
+      entity_flags: 153
+      name_prefix: 32
+      moving: 1
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17752501:
+    display_name: null
+    speed: null
+    animation_speed: null
+    widescan: null
+    script: blank
+    at: [-43.7, -3.5, 57.953, 176]
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1286}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17752509:
+    display_name: null
+    status: null
+    speed: null
+    animation_speed: null
+    widescan: null
+    script: blank
+    at: [142.0, 0.0, 150.0, 8]
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1286}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17752516:
+    script: Bikho_Ronpotteh
+    display_name: Bikho Ronpotteh
+    at: [-40.085, -4.999, 88.846]
+    render:
+      look: {model: null, type: equipped, race: 7, face: 6, head: 4277, body: 8210, hands: 12436, legs: 16532, feet: 20551, main: 24576, sub: 28672}
+      entity_flags: 155
+      name_vis: 128
+      name_prefix: 32
+      moving: 1
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17752517:
+    script: Guwanana
+    display_name: Guwanana
+    at: [-36.005, -2.426, -102.763, 192]
+    render:
+      look: {model: null, type: equipped, race: 6, face: 3, head: 4277, body: 8262, hands: 12437, legs: 16407, feet: 20629, main: 24576, sub: 28672}
+      entity_flags: 155
+      name_vis: 128
+      name_prefix: 32
+      moving: 1
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17752518:
+    script: Roger
+    display_name: Roger
+    at: [-55.955, -5.494, 215.905, 209]
+    render:
+      name_vis: null
+      look: {model: null, type: equipped, race: 1, face: 13, head: 4239, body: 8335, hands: 12421, legs: 16517, feet: 20613, main: 24871, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    widescan: true
+  17752524:
+    script: Ensemble_Maven
+    display_name: Ensemble Maven
+    at: [-43.488, -3.5, 60.41, 206]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      moving: null
+      look: {model: null, type: equipped, race: 6, face: 14, head: 4146, body: 8564, hands: 12660, legs: 16756, feet: 20852, main: 24576, sub: 28672}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17752526:
+    script: Fashionista
+    display_name: Fashionista
+    at: [-45.896, -3.5, 65.148, 207]
+    render:
+      entity_flags: null
+      name_prefix: null
+      moving: null
+      look: {model: null, type: equipped, race: 6, face: 30, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      name_vis: 96
+    status: cutscene_only
+    widescan: true
+  17752527:
+    script: Fashionista
+    display_name: Fashionista
+    at: [-44.598, -3.5, 64.088, 207]
+    render:
+      entity_flags: null
+      name_prefix: null
+      moving: null
+      look: {model: null, type: equipped, race: 6, face: 30, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      name_vis: 96
+    status: cutscene_only
+    widescan: true
+  17752528:
+    script: Fashionista
+    display_name: Fashionista
+    at: [-47.567, -3.5, 65.28, 207]
+    render:
+      entity_flags: null
+      name_prefix: null
+      moving: null
+      look: {model: null, type: equipped, race: 6, face: 30, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      name_vis: 96
+    status: cutscene_only
+    widescan: true
+  17752529:
+    script: Atagei-Portagei
+    display_name: Atagei-Portagei
+    at: [-56.848, -5.571, 217.38, 227]
+    render:
+      name_vis: null
+      look: {model: null, type: equipped, race: 5, face: 11, head: 4236, body: 8332, hands: 12410, legs: 16627, feet: 20620, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    widescan: true
+  17752539:
+    display_name: null
+    status: null
+    script: blank
+    at: [-18.078, -3.5, 74.383, 111]
+    render:
+      look: {model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32789
+  17752541:
+    display_name: null
+    status: null
+    speed: null
+    animation_speed: null
+    widescan: null
+    script: blank
+    at: [-50.166, -5.0, 132.575, 246]
+    render:
+      look: {model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32776
+  17752542:
+    display_name: null
+    status: null
+    speed: null
+    animation_speed: null
+    widescan: null
+    script: blank
+    at: [-29.833, -5.0, 132.575, 99]
+    render:
+      look: {model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17752551:
+    content: null
+    script: Moogle
+    display_name: Moogle
+    at: [-48.385, -3.5, 60.935, 213]
+    render:
+      entity_flags: null
+      name_vis: null
+      look: {model: 82}
+      moving: 1
+    widescan: true
+  17752554:
+    widescan: null
+    script: Moogle
+    display_name: Moogle
+    at: [-55.5, -3.5, 45.5, 79]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 82}
+  17752555:
+    script: Spriggan_Sifter
+    display_name: Spriggan Sifter
+    at: [-54.2, -3.5, 44.4, 79]
+    render:
+      name_prefix: null
+      look: {model: 2432}
+      entity_flags: 5
+    speed: 40
+    animation_speed: 40
+  17752560:
+    status: null
+    script: Moogle
+    display_name: Moogle
+    at: [-12.14, -1.0, 28.499]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 82}
+      moving: 1
+  17752564:
+    status: null
+    widescan: null
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+    content: soa
+  17752566:
+    status: null
+    widescan: null
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17752569:
+    script: Lion
+    display_name: Lion
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 60}
+  17752570:
+    script: Zeid
+    display_name: Zeid
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 830}
+  17752575:
+    at: null
+    content: null
+    script: Balamor
+    display_name: Balamor
+    render:
+      moving: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2742}
+    status: cutscene_only
+  17752579:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {model: null, type: equipped, race: 1, face: 0, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+  17752580:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {ranged: null, race: 2, face: 2, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710}
+      entity_flags: 27
+  17752581:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {race: 3, face: 2, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576}
+      entity_flags: 27
+  17752582:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {race: 4, face: 4, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710}
+      entity_flags: 27
+  17752583:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {race: 5, face: 1, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710}
+      entity_flags: 27
+  17752584:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {model: null, type: equipped, race: 6, face: 6, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+  17752585:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {model: null, type: equipped, race: 7, face: 4, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+  17752586:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {model: null, type: equipped, race: 8, face: 6, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+  17752587:
+    display_name: null
+    at: null
+    widescan: null
+    script: blank
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 27
+  17752590:
+    script: Isanie
+    display_name: Isanie
+    at: [-119.16, -2.0, 50.1, 112]
+    render:
+      name_vis: null
+      look: {race: 4, face: 5, head: 4220, body: 8316, hands: 12288, legs: 16394, feet: 20488}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    widescan: true
+    content: rov
+  17752605:
+    script: AMAN_Liaison
+    display_name: A.M.A.N. Liaison
+    at: [146.72, -0.3, -3.3, 63]
+    render:
+      look: {type: equipped, race: 5, face: 15, head: 4215, body: 8295, hands: 12392, legs: 16486, feet: 20584, main: 24576, sub: 28672}
+      name_vis: 1
+      moving: 8
+    status: normal
+    content: soa
+  17752606:
+    script: Tales_Beginning
+    display_name: Tales' Beginning
+    at: [-44.515, -5.387, 210.778, 235]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+    widescan: true
+    content: tvr

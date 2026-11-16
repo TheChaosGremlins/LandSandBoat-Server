@@ -1,0 +1,109 @@
+npcs:
+  17772854:
+    _jan2025_candidates: [17772854, 17772853]
+    script: Syndella
+    display_name: Syndella
+    at: [3.8, 2.0, 137.0, 128]
+    render:
+      look: {type: equipped, race: 2, face: 1, head: 4215, body: 8326, hands: 12288, legs: 16478, feet: 20574, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 8
+    status: normal
+    widescan: true
+    content: trust_quests
+  17772859:
+    _jan2025_candidates: [17772859, 17772858]
+    script: Iroha
+    display_name: Iroha
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17772862:
+    _jan2025_candidates: [17772861, 17772862]
+    script: qm7
+    display_name: ???
+    render:
+      look: {type: standard, model: 2450}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17772868:
+    _jan2025_candidates: [17772868, 17772866]
+    script: Enigmatic_Footprints
+    display_name: 'Enigmatic Footprints #1'
+    at: [-67.0, 12.0, -32.0, 192]
+    render:
+      look: {type: standard, model: 2326}
+      name_vis: 112
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    content: tvr
+  17772869:
+    _jan2025_candidates: [17772869, 17772867]
+    script: Enigmatic_Footprints_#2
+    display_name: 'Enigmatic Footprints #2'
+    at: [-73.0, 6.0, -27.0, 192]
+    render:
+      look: {type: standard, model: 2326}
+      name_vis: 112
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    widescan: true
+    content: tvr
+  17772872:
+    _jan2025_candidates: [17772870]
+    script: Shami
+    display_name: Shami
+    render:
+      look: {type: standard, model: 99}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17772873:
+    _jan2025_candidates: [17772871]
+    script: Shemo
+    display_name: Shemo
+    render:
+      look: {type: standard, model: 100}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17772874:
+    _jan2025_candidates: [17772872]
+    script: Mumor
+    display_name: Mumor
+    render:
+      look: {type: equipped, race: 2, face: 14, head: 4504, body: 8600, hands: 12696, legs: 16792, feet: 20888, main: 25331, sub: 29427}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17772875:
+    _jan2025_candidates: [17772873]
+    script: Maat
+    display_name: Maat
+    render:
+      look: {type: standard, model: 3638}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17772876:
+    _jan2025_candidates: [17772874]
+    at: [9.876, 3.099, 118.473, 175]
+    render:
+      look: {type: ship}
+      door_id: 13
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only

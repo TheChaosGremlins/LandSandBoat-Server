@@ -1,0 +1,20 @@
+npcs:
+  17658380: null
+  17658505: null
+  17658381:
+    speed: null
+    animation_speed: null
+    script: NPC[20c]
+    render:
+      name_vis: null
+      look: {model: 50}
+      entity_flags: 1
+  17658382:
+    script: NPC[20d]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17658506: {script: 'NPC[289]'}

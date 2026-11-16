@@ -1,0 +1,7 @@
+npcs:
+  17408040:
+    _jan2025_candidates: [17408041, 17408040]
+    script: NPC[28]
+    render:
+      look: {type: standard, model: 2348}
+      name_vis: 4

@@ -1,0 +1,8 @@
+npcs:
+  17867108: null
+  17867109: null
+  17867110: null
+  17867111: null
+  17867131: null
+  17867116: {script: 'NPC[167]'}
+  17867137: {speed: null, animation_speed: null, script: 'NPC[17b]'}

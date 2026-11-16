@@ -1,0 +1,22 @@
+npcs:
+  17445141:
+    _jan2025_candidates: [17445142, 17445141]
+    script: NPC[115]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17445152:
+    _jan2025_candidates: [17445153, 17445152]
+    script: NPC[120]
+    render:
+      look: {type: standard, model: 50}
+  17445153:
+    _jan2025_candidates: [17445154, 17445153]
+    script: Graviton
+    display_name: Grav'iton
+    render:
+      look: {type: standard, model: 1426}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true

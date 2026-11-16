@@ -1,0 +1,26 @@
+npcs:
+  17396152:
+    _jan2025_candidates: [17396153, 17396152]
+    script: NPC[1b8]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17396253:
+    _jan2025_candidates: [17396253, 17396252]
+    script: Moogles_Letter
+    display_name: Moogle's Letter
+    at: [-181.11, -0.49, -20.11]
+    render:
+      look: {type: standard, model: 2423}
+      moving: 1
+    widescan: true
+  17396270:
+    _jan2025_candidates: [17396269]
+    script: NPC[22e]
+    render:
+      look: {type: standard, model: 50}
+  17396271:
+    _jan2025_candidates: [17396270]
+    script: NPC[22f]
+    render:
+      look: {type: standard, model: 50}

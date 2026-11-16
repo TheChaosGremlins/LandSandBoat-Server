@@ -1,0 +1,67 @@
+npcs:
+  17596790:
+    _jan2025_candidates: [17596790]
+    script: _nk4
+    at: [-207.246, 0.1, 226.305]
+    render:
+      look: {type: door}
+      door_id: 879455839
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17596797:
+    _jan2025_candidates: [17596797, 17596785]
+    script: _5kz
+    at: [-150.01, 0.1, 117.306]
+    render:
+      look: {type: door}
+      door_id: 2053846367
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17596798:
+    _jan2025_candidates: [17596798, 17596786]
+    script: _nk0
+    at: [-189.999, 0.1, 357.304]
+    render:
+      look: {type: door}
+      door_id: 812346975
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17596799:
+    _jan2025_candidates: [17596799, 17596787]
+    script: _nk1
+    at: [-129.999, 0.1, 357.304]
+    render:
+      look: {type: door}
+      door_id: 829124191
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17596800:
+    _jan2025_candidates: [17596800, 17596788]
+    script: _nk2
+    at: [-189.999, 0.1, 322.69]
+    render:
+      look: {type: door}
+      door_id: 845901407
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17596801:
+    _jan2025_candidates: [17596801, 17596789]
+    script: _nk3
+    at: [-129.999, 0.1, 322.69]
+    render:
+      look: {type: door}
+      door_id: 862678623
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal

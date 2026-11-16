@@ -1,0 +1,267 @@
+npcs:
+  17281548:
+    _jan2025_candidates: [17281548, 17281564]
+    script: Mirthful_Ixion
+    display_name: Mirthful Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17281549:
+    _jan2025_candidates: [17281549, 17281565]
+    script: Elated_Ixion
+    display_name: Elated Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17281550:
+    _jan2025_candidates: [17281550, 17281566]
+    script: Euphoric_Ixion
+    display_name: Euphoric Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17281551:
+    _jan2025_candidates: [17281551, 17281567]
+    script: Exultant_Ixion
+    display_name: Exultant Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17281552:
+    _jan2025_candidates: [17281552, 17281568]
+    script: NPC[210]
+    render:
+      look: {type: standard, model: 50}
+  17281553:
+    _jan2025_candidates: [17281553, 17281569]
+    script: NPC[211]
+    render:
+      look: {type: standard, model: 50}
+  17281554:
+    _jan2025_candidates: [17281554, 17281570]
+    script: NPC[212]
+    render:
+      look: {type: standard, model: 50}
+  17281555:
+    _jan2025_candidates: [17281555, 17281571]
+    script: NPC[213]
+    render:
+      look: {type: standard, model: 50}
+  17281556:
+    _jan2025_candidates: [17281556, 17281572]
+    script: NPC[214]
+    render:
+      look: {type: standard, model: 50}
+  17281557:
+    _jan2025_candidates: [17281557, 17281573]
+    script: NPC[215]
+    render:
+      look: {type: standard, model: 50}
+  17281574:
+    _jan2025_candidates: [17281574, 17281575]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      entity_flags: 2051
+      animation_sub: 4
+      name_vis: 12
+      moving: 6
+  17281575:
+    _jan2025_candidates: [17281575, 17281576]
+    script: Achieve_Master
+    display_name: Achieve Master
+    at: [-249.0, 0.0, 517.0, 32]
+    render:
+      look: {type: standard, model: 82}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    content: soa
+  17281576:
+    _jan2025_candidates: [17281576, 17281577]
+    script: NPC[228]
+    render:
+      look: {type: standard, model: 50}
+  17281579:
+    _jan2025_candidates: [17281580, 17281579]
+    script: NPC[22b]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17281580:
+    _jan2025_candidates: [17281581, 17281580]
+    script: NPC[22c]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17281581:
+    _jan2025_candidates: [17281582, 17281581]
+    script: NPC[22d]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17281582:
+    _jan2025_candidates: [17281583, 17281582]
+    script: Firebloom_Tree_Root
+    display_name: Firebloom Tree Root
+    at: [-102.86, 5.5, -90.699, 121]
+    render:
+      look: {type: standard, model: 52}
+      moving: 32769
+    status: normal
+    widescan: true
+  17281603:
+    _jan2025_candidates: [17281603]
+    script: Conquest_Banner
+    at: [-240.33, 0.0, -404.032, 188]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17281611:
+    _jan2025_candidates: [17281612, 17281611]
+    script: Conquest_Banner
+    at: [-241.684, 0.0, 476.59, 247]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17281615:
+    _jan2025_candidates: [17281615, 17281623]
+    script: NPC[24f]
+    render:
+      look: {type: standard, model: 50}
+  17281624:
+    _jan2025_candidates: [17281624, 17281625]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 2051
+      moving: 1
+  17281629:
+    _jan2025_candidates: [17281630, 17281629]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+  17281630:
+    _jan2025_candidates: [17281631, 17281630]
+    script: Logging_Point
+    display_name: Logging Point
+    at: [-219.063, 1.344, -140.994]
+    render:
+      look: {type: standard, model: 2423}
+      moving: 32775
+    status: normal
+  17281639:
+    _jan2025_candidates: [17281639, 17281640]
+    script: Beastmens_Banner
+    display_name: Beastmen's Banner
+    at: [-647.367, 0.0, 42.053, 28]
+    render:
+      look: {type: standard, model: 817}
+      moving: 1
+    status: normal
+  17281653:
+    _jan2025_candidates: [17281653, 17281654]
+    script: NPC[275]
+    render:
+      look: {type: standard, model: 50}
+  17281655:
+    _jan2025_candidates: [17281656]
+    script: blank
+    at: [-339.269, 16.047, -473.519, 195]
+    render:
+      look: {type: standard, model: 86}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+  17281657:
+    _jan2025_candidates: [17281658, 17281657]
+    script: Field_Manual
+    display_name: Field Manual
+    at: [-224.526, -0.298, 497.211, 42]
+    render:
+      look: {type: standard, model: 2290}
+      name_vis: 32
+      moving: 15
+    status: normal
+    widescan: true
+    content: field_manuals
+  17281662:
+    _jan2025_candidates: [17281663, 17281662]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [-401.75, 16.25, -415.05]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17281667:
+    _jan2025_candidates: [17281668, 17281667]
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [-242.0, 0.55, 405.0]
+    render:
+      look: {type: standard, model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    status: normal
+    widescan: true
+    content: voidwatch
+  17281673:
+    _jan2025_candidates: [17281673, 17281674]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17281674:
+    _jan2025_candidates: [17281674, 17281675]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17281679:
+    _jan2025_candidates: [17281679, 17281680]
+    script: Volto_Oscuro
+    display_name: Volto Oscuro
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17281681:
+    _jan2025_candidates: [17281682, 17281681]
+    script: blank
+    render:
+      look: {type: standard, model: 2803}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17281682:
+    _jan2025_candidates: [17281683, 17281682]
+    script: qm11
+    display_name: ???
+    at: [-409.553, 17.356, -380.626, 253]
+    render:
+      look: {type: standard, model: 2424}
+      moving: 1
+    status: normal
+    content: rov

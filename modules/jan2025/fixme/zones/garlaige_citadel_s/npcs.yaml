@@ -1,0 +1,17 @@
+npcs:
+  17449412:
+    _jan2025_candidates: [17449414]
+    script: NPC[1c4]
+    render:
+      look: {type: standard, model: 50}
+  17449417:
+    _jan2025_candidates: [17449419, 17449417]
+    script: NPC[1c9]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17449418:
+    _jan2025_candidates: [17449420, 17449418]
+    script: NPC[1ca]
+    render:
+      look: {type: standard, model: 50}

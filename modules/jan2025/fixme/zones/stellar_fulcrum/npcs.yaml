@@ -1,0 +1,258 @@
+npcs:
+  17510404:
+    _jan2025_candidates: [17510389]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510406:
+    _jan2025_candidates: [17510391]
+    script: Volker
+    display_name: Volker
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+    widescan: true
+  17510408:
+    _jan2025_candidates: [17510393]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510410:
+    _jan2025_candidates: [17510395]
+    script: Volker
+    display_name: Volker
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+    widescan: true
+  17510412:
+    _jan2025_candidates: [17510397]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510414:
+    _jan2025_candidates: [17510399]
+    script: Volker
+    display_name: Volker
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+    widescan: true
+  17510416:
+    _jan2025_candidates: [17510401]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510421:
+    _jan2025_candidates: [17510406]
+    script: NPC[15]
+    render:
+      look: {type: standard, model: 970}
+      entity_flags: 2075
+      name_vis: 8
+      name_prefix: 32
+    status: cutscene_only
+  17510422:
+    _jan2025_candidates: [17510407]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510427:
+    _jan2025_candidates: [17510412]
+    script: NPC[1b]
+    render:
+      look: {type: standard, model: 970}
+      entity_flags: 2075
+      name_vis: 8
+      name_prefix: 32
+    status: cutscene_only
+  17510428:
+    _jan2025_candidates: [17510413]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510433:
+    _jan2025_candidates: [17510418]
+    script: NPC[21]
+    render:
+      look: {type: standard, model: 970}
+      entity_flags: 2075
+      name_vis: 8
+      name_prefix: 32
+    status: cutscene_only
+  17510434:
+    _jan2025_candidates: [17510419]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510440:
+    _jan2025_candidates: [17510425]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510446:
+    _jan2025_candidates: [17510431]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+    status: status_7
+  17510695:
+    _jan2025_candidates: [17510680]
+    script: NPC[118]
+    render:
+      look: {type: standard, model: 50}
+  17510696:
+    _jan2025_candidates: [17510681]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+  17510699:
+    _jan2025_candidates: [17510684]
+    script: NPC[11c]
+    render:
+      look: {type: standard, model: 50}
+  17510702:
+    _jan2025_candidates: [17510687]
+    script: NPC[11f]
+    at: [0.0, -0.5, 0.0]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17510703:
+    _jan2025_candidates: [17510688]
+    script: NPC[120]
+    at: [0.0, -0.5, 0.0]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17510704:
+    _jan2025_candidates: [17510689]
+    script: NPC[121]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17510705:
+    _jan2025_candidates: [17510690]
+    script: Kamlanaut
+    display_name: Kam'lanaut
+    at: [-0.023, -5.003, 58.917, 65]
+    render:
+      look: {type: standard, model: 1420}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17510706:
+    _jan2025_candidates: [17510691]
+    script: Kamlanaut
+    display_name: Kam'lanaut
+    at: [-0.03, 6.289, 58.791, 66]
+    render:
+      look: {type: standard, model: 799}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17510710:
+    _jan2025_candidates: [17510695]
+    script: Ealdnarche
+    display_name: Eald'narche
+    at: [0.111, -8.5, 75.943, 70]
+    render:
+      look: {type: standard, model: 61}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    animation_speed: 30
+    widescan: true
+  17510718:
+    _jan2025_candidates: [17510703]
+    script: _4z0
+    display_name: Qe'Iov Gate
+    at: [-519.994, -6.3, 22.35]
+    render:
+      look: {type: door}
+      door_id: 813315167
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+  17510719:
+    _jan2025_candidates: [17510704]
+    script: _4z1
+    display_name: Qo'Tav Gate
+    at: [0.0, 198.213, -388.5]
+    render:
+      look: {type: door}
+      door_id: 830092383
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+  17510720:
+    _jan2025_candidates: [17510705]
+    script: _4z2
+    display_name: Qo'Tav Gate
+    at: [0.0, -1.786, 11.5]
+    render:
+      look: {type: door}
+      door_id: 846869599
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+  17510721:
+    _jan2025_candidates: [17510706]
+    script: _4z3
+    display_name: Qo'Tav Gate
+    at: [0.0, -201.786, 411.5]
+    render:
+      look: {type: door}
+      door_id: 863646815
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+  17510722:
+    _jan2025_candidates: [17510707]
+    script: NPC[133]
+    render:
+      look: {type: standard, model: 50}
+  17510723:
+    _jan2025_candidates: [17510708]
+    script: NPC[134]
+    render:
+      look: {type: standard, model: 50}
+  17510724:
+    _jan2025_candidates: [17510709]
+    script: NPC[135]
+    render:
+      look: {type: standard, model: 50}
+  17510725:
+    _jan2025_candidates: [17510710]
+    script: NPC[136]
+    render:
+      look: {type: standard, model: 50}
+  17510726:
+    _jan2025_candidates: [17510711]
+    script: NPC[137]
+    render:
+      look: {type: standard, model: 50}
+  17510745:
+    _jan2025_candidates: [17510730]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051

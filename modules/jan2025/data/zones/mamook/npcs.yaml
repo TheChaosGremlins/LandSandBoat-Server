@@ -1,0 +1,27 @@
+npcs:
+  17043926: null
+  17043955: null
+  17043927:
+    speed: null
+    animation_speed: null
+    script: NPC[1d6]
+    render:
+      name_vis: null
+      look: {model: 50}
+      entity_flags: 1
+  17043928:
+    script: NPC[1d7]
+    render: {entity_flags: 129, name_vis: 32}
+    speed: 40
+    animation_speed: 40
+  17043929:
+    script: NPC[1d8]
+    render:
+      look: {model: 2348}
+      name_vis: 4
+  17043956:
+    script: _1tc
+    display_name: Mahogany Door
+    at: [200.0, 46.938, 140.0]
+    render: {door_id: 1668559199}
+    widescan: true

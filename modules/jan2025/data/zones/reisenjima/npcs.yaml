@@ -1,0 +1,86 @@
+npcs:
+  17970041: null
+  17970042: null
+  17970043: null
+  17970044: null
+  17970045: null
+  17970046: null
+  17970047: null
+  17970048: null
+  17970049: null
+  17970050: null
+  17970051: null
+  17970052: null
+  17970053: null
+  17970054: null
+  17970055: null
+  17970056: null
+  17970057: null
+  17970058: null
+  17970059: null
+  17970060: null
+  17970061: null
+  17970062: null
+  17970063: null
+  17970064: null
+  17970065: null
+  17970066: null
+  17970067: null
+  17970068: null
+  17970069: null
+  17970070: null
+  17970071: null
+  17970072: null
+  17969884:
+    script: blank
+    render:
+      look: {model: 592}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+  17969887:
+    script: blank
+    render:
+      look: {model: 589}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+  17969888:
+    script: blank
+    render:
+      look: {type: standard, model: 583}
+      entity_flags: 2077
+      name_prefix: 32
+    status: cutscene_only
+  17969889:
+    script: blank
+    render:
+      look: {model: 587}
+      entity_flags: 2073
+      name_prefix: 32
+    status: cutscene_only
+  17969890:
+    speed: null
+    animation_speed: null
+    script: blank
+    render:
+      name_vis: null
+      look: {model: 599}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+  17969891:
+    script: blank
+    render:
+      name_vis: null
+      look: {model: 592}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+  17969892:
+    script: blank
+    render:
+      look: {model: 589}
+      entity_flags: 2077
+      name_prefix: 32
+    status: cutscene_only

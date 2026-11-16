@@ -1,0 +1,606 @@
+npcs:
+  17269133: null
+  17269134: null
+  17269135: null
+  17269136: null
+  17269137: null
+  17269138: null
+  17269139: null
+  17269140: null
+  17269141: null
+  17269145: null
+  17269146: null
+  17269147: null
+  17269148: null
+  17269149: null
+  17269150: null
+  17269151: null
+  17269152: null
+  17269153: null
+  17269157: null
+  17269158: null
+  17269159: null
+  17269160: null
+  17269161: null
+  17269162: null
+  17269163: null
+  17269164: null
+  17269165: null
+  17269182: null
+  17269183: null
+  17269184: null
+  17269185: null
+  17269186: null
+  17269187: null
+  17269188: null
+  17269206: null
+  17269208: null
+  17269210: null
+  17269211: null
+  17269213: null
+  17269214: null
+  17269224: null
+  17269259: null
+  17269260: null
+  17269268: null
+  17269269: null
+  17269270: null
+  17269272: null
+  17269273: null
+  17269276: null
+  17269281: null
+  17269282: null
+  17269290: null
+  17269291: null
+  17269303: null
+  17269304: null
+  17269306: null
+  17269307: null
+  17269308: null
+  17269310: null
+  17269311: null
+  17269189:
+    script: qm1
+    display_name: ???
+    at: [203.939, 0.0, -238.811, 249]
+    render:
+      look: {model: 52}
+      name_vis: 112
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    content: acp
+  17269190:
+    script: Treasure_Casket
+    display_name: Treasure Casket
+    render:
+      moving: null
+      look: {model: 965}
+      animation_sub: 4
+      name_vis: 4
+  17269191:
+    at: null
+    status: null
+    content: null
+    script: Treasure_Casket
+    display_name: Treasure Casket
+    render:
+      name_prefix: null
+      moving: null
+      look: {model: 965}
+      animation_sub: 4
+      name_vis: 4
+  17269207:
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 50}
+    content: soa
+  17269209:
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 96
+  17269215:
+    script: Moogle
+    display_name: Moogle
+    render:
+      name_vis: null
+      look: {model: 82}
+    speed: 40
+    animation_speed: 40
+  17269216:
+    script: Moogle
+    display_name: Moogle
+    render:
+      look: {model: 82}
+    speed: 40
+    animation_speed: 40
+  17269223:
+    speed: null
+    animation_speed: null
+    script: Stone_Monument
+    display_name: Stone Monument
+    at: [77.544, -2.746, -184.803, 143]
+    render:
+      look: {model: 52}
+      moving: 1
+    status: normal
+    widescan: true
+  17269225:
+    script: Tiger_Bones
+    display_name: Tiger Bones
+    at: [665.245, -8.736, -380.112, 224]
+    render:
+      look: {model: 50}
+  17269226:
+    look_at: null
+    script: DIRECTOR
+    display_name: DIRECTOR
+    at: [517.7, -10.05, -491.977, 37]
+    render:
+      door_id: null
+      animation: null
+      moving: null
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17269227:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    script: blank
+    render: {entity_flags: 2051}
+  17269228:
+    speed: null
+    animation_speed: null
+    script: Linzaza
+    display_name: Linzaza
+    at: [204.249, 1.285, 200.86, 158]
+    render:
+      look: {model: null, type: equipped, race: 6, face: 3, head: 4099, body: 8192, hands: 12289, legs: 16384, feet: 20482, main: 24576, sub: 28672}
+      entity_flags: 25
+      animation_sub: 1
+      name_prefix: 32
+  17269229:
+    script: qm2
+    display_name: ???
+    at: [196.83, 31.3, 206.078, 38]
+    render:
+      entity_flags: null
+      look: {model: 52}
+      moving: 32769
+    status: normal
+  17269230:
+    widescan: null
+    script: qm3
+    display_name: ???
+    at: [417.121, 15.598, -137.466, 114]
+    render:
+      entity_flags: null
+      animation_sub: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      moving: 32769
+    status: normal
+  17269231:
+    script: qm4
+    at: [129.587, -0.6, -235.525, 137]
+  17269232:
+    script: qm5
+    at: [-117.713, 15.237, 45.929, 241]
+  17269233:
+    script: qm6
+    at: [363.481, 23.6, 6.335, 237]
+  17269234:
+    script: qm7
+    at: [-193.869, 15.4, 276.837, 138]
+  17269235:
+    script: EFFECTER
+    display_name: EFFECTER
+    at: [-30.873, -57.0, 285.545, 197]
+    render:
+      look: {model: 50}
+      entity_flags: 2051
+    widescan: true
+  17269236:
+    script: Carbuncle
+    display_name: Carbuncle
+    at: [-30.873, -57.0, 285.545, 197]
+    render:
+      look: {model: 791}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 32768
+    status: cutscene_only
+    widescan: true
+  17269237:
+    script: Talking_Doll
+    display_name: Talking Doll
+    at: [-252.162, -5.319, -307.011, 113]
+    render: {entity_flags: null, moving: null}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+  17269238:
+    script: Ramblix
+    display_name: Ramblix
+    at: [511.605, -9.017, -482.645, 251]
+    render:
+      moving: null
+      look: {model: 85}
+  17269239:
+    speed: null
+    animation_speed: null
+    widescan: null
+    script: Goblin_Footprint
+    display_name: Goblin Footprint
+    at: [511.605, -9.017, -482.645, 251]
+    render:
+      look: {model: 52}
+      moving: 1
+    status: normal
+  17269240:
+    status: null
+    script: Narsha
+    display_name: Narsha
+    at: [-466.948, 0.403, 344.12, 6]
+    render:
+      look: {model: null, type: equipped, race: 4, face: 13, head: 4117, body: 8200, hands: 12298, legs: 16405, feet: 20504, main: 24576, sub: 28672}
+      animation_sub: 1
+      moving: 1
+  17269241:
+    display_name: null
+    status: null
+    script: blank
+    at: [-468.156, 0.457, 345.187, 10]
+    render:
+      look: {model: 86}
+      entity_flags: 27
+      name_prefix: 32
+  17269242:
+    script: Cavernous_Maw
+    display_name: Cavernous Maw
+    at: [372.226, 9.239, -223.676, 95]
+    render:
+      entity_flags: null
+      animation_sub: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2324}
+      name_vis: 96
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    content: wotg
+  17269243:
+    script: Vrednev
+    display_name: Vrednev
+    at: [271.394, 24.271, 136.527, 239]
+    render:
+      look: {model: 1972}
+      moving: 15
+    status: normal
+    widescan: true
+    content: soa
+  17269244:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      name_prefix: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 40
+  17269245:
+    status: null
+    content: null
+    script: Dungeon_Shop
+    display_name: Dungeon Shop
+    at: [271.36, 23.36, 119.9]
+    render:
+      look: {model: null, type: equipped, race: 8, face: 5, head: 4190, body: 8286, hands: 12382, legs: 16478, feet: 20574, main: 24576, sub: 28672}
+      moving: 1
+  17269246:
+    script: Dungeon_Entrance
+    display_name: Dungeon_Entrance
+    at: [268.543, 23.344, 135.471, 239]
+    render:
+      look: {model: 2334}
+      entity_flags: 2075
+      name_vis: 96
+      name_prefix: 34
+      moving: 32769
+    status: normal
+    widescan: true
+  17269247:
+    script: TEST_Dungeon_Debug
+    display_name: =TEST= Dungeon Debug
+    at: [275.06, 23.36, 115.0]
+    render:
+      look: {race: 0}
+  17269248:
+    script: Burrow_Researcher
+    display_name: Burrow Researcher
+    at: [273.36, 23.36, 120.9]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: null, type: equipped, race: 8, face: 5, head: 4190, body: 8286, hands: 12382, legs: 16478, feet: 20574, main: 24576, sub: 28672}
+      moving: 6
+    content: soa
+  17269249:
+    script: Utrig
+    display_name: Utrig
+    at: [260.0, 23.0, 140.0, 224]
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 1972}
+      entity_flags: 25
+    status: normal
+    content: soa
+  17269250:
+    at: null
+    status: null
+    widescan: null
+    content: null
+    script: qm8
+    display_name: ???
+    render:
+      moving: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 2051
+    speed: 40
+    animation_speed: 40
+  17269251:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      name_prefix: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+  17269252: {display_name: null, speed: null, animation_speed: null, script: blank}
+  17269253:
+    script: Cavernous_Maw
+    display_name: Cavernous Maw
+    render:
+      look: {model: 2325}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+    content: wotg
+  17269254:
+    script: Regal_Feline
+    display_name: Regal Feline
+    render:
+      look: {model: 2255}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17269255:
+    content: null
+    script: Cait_Sith
+    display_name: Cait Sith
+    render:
+      look: {model: 2255}
+  17269256:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      look: {model: null, type: equipped, race: 8, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+  17269257:
+    script: Cavernous_Maw
+    display_name: Cavernous Maw
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 52}
+      moving: 32768
+  17269258:
+    script: Larzos
+    display_name: Larzos
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2299}
+    widescan: true
+  17269261:
+    script: '02'
+    display_name: '02'
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 50}
+    widescan: true
+  17269262: {script: '03', display_name: '03', widescan: true}
+  17269263: {script: '04', display_name: '04'}
+  17269264: {script: '05', display_name: '05'}
+  17269265:
+    script: Field_Manual
+    display_name: Field Manual
+    at: [472.422, -8.864, -440.169, 125]
+    render:
+      look: {model: 2290}
+      name_vis: 32
+      moving: 1
+    status: normal
+    content: field_manuals
+  17269266:
+    script: Field_Manual
+    display_name: Field Manual
+    at: [-458.391, 0.918, 359.792, 227]
+    render:
+      look: {model: 2290}
+      name_vis: 32
+      moving: 21
+    status: normal
+    content: field_manuals
+  17269267:
+    script: Field_Parchment
+    display_name: Field Parchment
+    at: [120.0, 15.5, 120.0, 160]
+    render:
+      name_vis: null
+      look: {model: 52}
+  17269271:
+    at: null
+    status: null
+    content: null
+    script: Mogball-Local
+    display_name: Mogball-Local
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 817}
+      moving: 1
+  17269274:
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [80.0, 32.0, 323.0]
+    render:
+      look: {model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    status: normal
+    content: voidwatch
+  17269277:
+    status: null
+    script: Riftworn_Pyxis
+    display_name: Riftworn Pyxis
+    at: [80.1, 32.0, 323.0]
+    render:
+      look: {model: 969}
+      animation_sub: 4
+  17269279:
+    script: Atmacite_Refiner
+    display_name: Atmacite Refiner
+    at: [-441.0, 0.5, 335.0]
+    render:
+      animation_sub: null
+      name_vis: null
+      name_prefix: null
+      look: {model: null, type: equipped, race: 6, face: 10, head: 4116, body: 8217, hands: 12300, legs: 16386, feet: 20482, main: 24576, sub: 28672}
+      moving: 15
+    status: normal
+  17269280:
+    script: Voidwatch_Officer
+    display_name: Voidwatch Officer
+    at: [-441.0, 0.35, 333.0]
+    render:
+      animation_sub: null
+      name_vis: null
+      name_prefix: null
+      look: {model: null, type: equipped, race: 6, face: 5, head: 4116, body: 8217, hands: 12300, legs: 16386, feet: 20482, main: 24576, sub: 28672}
+      moving: 7
+    status: normal
+  17269283:
+    script: Moogle
+    display_name: Moogle
+    at: [-556.73, -0.337, 403.889, 70]
+    render:
+      look: {model: 82}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+  17269284:
+    widescan: null
+    script: qm
+    display_name: ???
+    render:
+      look: {model: 52}
+  17269285:
+    at: null
+    widescan: null
+    script: qm
+    display_name: ???
+    render:
+      entity_flags: null
+      name_prefix: null
+      moving: null
+      look: {model: 52}
+  17269289:
+    script: Neriss
+    display_name: Neriss
+    at: [-443.329, 0.153, 367.074, 31]
+    render:
+      look: {model: null, type: equipped, race: 2, face: 15, head: 4152, body: 8297, hands: 12288, legs: 16487, feet: 20584, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 1
+    status: normal
+    widescan: true
+    content: wotg
+  17269300:
+    script: Debug
+    display_name: Debug
+    at: [-444.329, 0.153, 366.074, 31]
+    render:
+      look: {race: 6, face: 14, head: 4236, body: 8332, legs: 16394, feet: 20489}
+      entity_flags: 25
+      name_prefix: 32
+      moving: 7
+  17269301:
+    display_name: null
+    at: null
+    speed: null
+    widescan: null
+    script: blank
+    render:
+      animation_sub: null
+      moving: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      entity_flags: 2051
+  17269302:
+    script: Geomantic_Reservoir
+    display_name: Geomantic Reservoir
+    at: [384.047, 45.467, 384.224]
+    render:
+      entity_flags: null
+      animation_sub: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2326}
+      name_vis: 112
+      moving: 1
+    status: normal
+    content: soa
+  17269305:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [344.0, 5.66, -256.0, 96]
+    render:
+      look: {model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 1
+    status: normal
+    widescan: true
+    content: survival_guide
+  17269309:
+    script: qm_maw
+    display_name: ???
+    at: [367.966, 9.147, -222.028, 78]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 2424}
+      moving: 1
+    status: normal
+    content: soa

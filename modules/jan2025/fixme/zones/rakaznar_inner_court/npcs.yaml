@@ -1,0 +1,12 @@
+npcs:
+  17908253:
+    _jan2025_candidates: [17908253, 17908252]
+    script: _7oa
+    at: [-860.0, -472.0, -80.0]
+    render:
+      look: {type: door}
+      door_id: 1634678623
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal

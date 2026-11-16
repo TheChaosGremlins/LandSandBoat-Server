@@ -1,0 +1,183 @@
+npcs:
+  17072279:
+    _jan2025_candidates: [17072279, 17072278]
+    script: qm_ob
+    display_name: ???
+    at: [548.991, 0.0, -139.976, 126]
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+    status: normal
+    content: toau
+  17072283:
+    _jan2025_candidates: [17072282]
+    script: NPC[9b]
+    render:
+      look: {type: standard, model: 50}
+  17072285:
+    _jan2025_candidates: [17072284]
+    script: NPC[9d]
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 96
+  17072287:
+    _jan2025_candidates: [17072286, 17072288]
+    script: Treasure_Chest
+    display_name: Treasure Chest
+    render:
+      look: {type: standard, model: 960}
+      moving: 8
+    widescan: true
+  17072291:
+    _jan2025_candidates: [17072292, 17072291]
+    script: NPC[a3]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17072292:
+    _jan2025_candidates: [17072293, 17072292]
+    script: NPC[a4]
+    render:
+      look: {type: standard, model: 82}
+    speed: 40
+    animation_speed: 40
+  17072293:
+    _jan2025_candidates: [17072294, 17072293]
+    script: NPC[a5]
+    render:
+      look: {type: standard, model: 82}
+    speed: 40
+    animation_speed: 40
+  17072302:
+    _jan2025_candidates: [17072302, 17072300]
+    script: _200
+    display_name: Gilded Doors
+    at: [640.0, -2.0, 500.0]
+    render:
+      look: {type: door}
+      door_id: 808464991
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+    content: toau
+  17072303:
+    _jan2025_candidates: [17072303, 17072301]
+    script: _201
+    display_name: Gilded Doors
+    at: [300.0, -2.0, 640.0]
+    render:
+      look: {type: door}
+      door_id: 825242207
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+    content: toau
+  17072336:
+    _jan2025_candidates: [17072334, 17072336]
+    script: qm6
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17072343:
+    _jan2025_candidates: [17072343, 17072340]
+    script: blank
+    render:
+      look: {type: standard, model: 1547}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17072361:
+    _jan2025_candidates: [17072361, 17072359]
+    script: _k5y
+    at: [-508.762, -5.0, 420.034]
+    render:
+      look: {type: standard, model: 1829}
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17072362:
+    _jan2025_candidates: [17072362, 17072360]
+    script: blank
+    at: [206.55, -1.5, 20.05, 235]
+    render:
+      look: {type: standard, model: 52}
+      moving: 32769
+    status: normal
+  17072377:
+    _jan2025_candidates: [17072375]
+    script: Travialce
+    display_name: Travialce
+    render:
+      look: {type: equipped, race: 3, face: 5, head: 4234, body: 8363, hands: 12459, legs: 16411, feet: 20507, main: 24576, sub: 28672}
+      entity_flags: 25
+      animation_sub: 1
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+    content: toau
+  17072380:
+    _jan2025_candidates: [17072378]
+    script: Rodin-Comidin
+    display_name: Rodin-Comidin
+    render:
+      look: {type: equipped, race: 5, face: 13, head: 4096, body: 8197, hands: 12311, legs: 16407, feet: 20503, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+    content: toau
+  17072383:
+    _jan2025_candidates: [17072381, 17072383]
+    script: Raubahn
+    display_name: Raubahn
+    render:
+      look: {type: equipped, race: 1, face: 9, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951, sub: 28672}
+      entity_flags: 29
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+    content: toau
+  17072384:
+    _jan2025_candidates: [17072382, 17072384]
+    script: Ghatsad
+    display_name: Ghatsad
+    render:
+      look: {type: equipped, race: 8, face: 3, head: 4221, body: 8317, hands: 12288, legs: 16399, feet: 20495, main: 24576, sub: 28672}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17072386:
+    _jan2025_candidates: [17072386, 17072384]
+    script: Tenzen
+    display_name: Tenzen
+    render:
+      look: {type: standard, model: 1442}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17072387:
+    _jan2025_candidates: [17072387, 17072385]
+    script: Iroha
+    display_name: Iroha
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17072390:
+    _jan2025_candidates: [17072388]
+    script: blank
+    render:
+      look: {type: standard, model: 2455}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only

@@ -1,0 +1,21 @@
+npcs:
+  17301567:
+    _jan2025_candidates: [17301567, 17301592]
+    script: NPC[3f]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17301569:
+    _jan2025_candidates: [17301594, 17301569]
+    script: NPC[41]
+    render:
+      look: {type: standard, model: 50}
+  17301593:
+    _jan2025_candidates: [17301593]
+    script: qm_csnpc
+    display_name: ???
+    render:
+      look: {type: standard, model: 50}
+      moving: 1
+    speed: 40
+    animation_speed: 40

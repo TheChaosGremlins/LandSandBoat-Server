@@ -1,0 +1,25 @@
+npcs:
+  17895855: null
+  17895856: null
+  17895857: null
+  17895861: null
+  17895858:
+    script: _7l0
+    at: [280.0, 28.5, 100.0]
+    render:
+      look: {model: null, type: door}
+      door_id: 812398431
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17895859:
+    status: null
+    script: _7l1
+    at: [280.0, 27.0, 100.0]
+    render: {door_id: 829175647, entity_flags: 4099}
+  17895860:
+    script: _7l2
+    at: [280.0, 28.5, 260.0]
+    render: {door_id: 845952863, entity_flags: 6147}
+    status: normal

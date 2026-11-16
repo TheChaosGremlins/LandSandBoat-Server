@@ -1,0 +1,252 @@
+npcs:
+  17285608: null
+  17285609: null
+  17285610: null
+  17285611: null
+  17285612: null
+  17285613: null
+  17285614: null
+  17285615: null
+  17285616: null
+  17285618: null
+  17285635: null
+  17285637: null
+  17285639: null
+  17285641: null
+  17285642: null
+  17285647: null
+  17285657: null
+  17285665: null
+  17285666: null
+  17285681: null
+  17285686: null
+  17285698: null
+  17285700: null
+  17285702: null
+  17285705: null
+  17285707: null
+  17285708: null
+  17285712: null
+  17285713: null
+  17285617:
+    script: qm1
+    display_name: ???
+    at: [546.093, 0.134, -432.901]
+    render:
+      look: {model: 52}
+      moving: 1
+    status: normal
+  17285634:
+    script: Treasure_Casket
+    display_name: Treasure Casket
+    render:
+      look: {model: 966}
+      moving: 7
+  17285636: {script: Achieve_Master, display_name: Achieve Master, content: soa}
+  17285638:
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17285643:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    script: blank
+    render: {moving: null}
+  17285645:
+    speed: null
+    animation_speed: null
+    script: EFFECTER
+    display_name: EFFECTER
+    at: [-30.873, -57.0, 285.545, 197]
+    render: {entity_flags: 2051, moving: 32769}
+    status: normal
+  17285646:
+    script: Talking_Doll
+    display_name: Talking Doll
+    at: [-252.162, -5.319, -307.011, 113]
+    render:
+      moving: null
+      look: {model: 50}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17285648:
+    script: Telepoint
+    display_name: Telepoint
+    at: [-280.942, 0.597, -144.156]
+    render:
+      look: {model: 55}
+      moving: 1
+    status: normal
+  17285649: {script: Dimensional_Portal, display_name: Dimensional Portal}
+  17285650:
+    at: null
+    script: Shattered_Telepoint
+    display_name: Shattered Telepoint
+    render:
+      entity_flags: null
+      name_prefix: null
+      moving: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+  17285653:
+    script: Ilieumort_RK
+    display_name: Ilieumort, R.K.
+    at: [200.254, 0.0, -80.324, 33]
+    render:
+      look: {model: null, type: equipped, race: 3, face: 1, head: 4108, body: 8204, hands: 12300, legs: 16396, feet: 20482, main: 24786, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 7
+    widescan: true
+  17285660:
+    status: null
+    script: Emila_RK
+    display_name: Emila, R.K.
+    at: [-84.113, 0.551, 224.902, 241]
+    render:
+      animation_sub: null
+      look: {race: 4, face: 0, head: 4109, body: 8198, hands: 12300, legs: 16396, feet: 20492, main: 24783}
+      moving: 16
+  17285661:
+    script: Mugha_Dovajaiho
+    display_name: Mugha Dovajaiho
+    at: [203.844, -0.014, -80.618, 99]
+    render:
+      look: {model: null, type: equipped, race: 7, face: 15, head: 4114, body: 8216, hands: 12303, legs: 16391, feet: 20497, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 22
+    status: normal
+    widescan: true
+  17285674:
+    script: Moogle
+    display_name: Moogle
+    render:
+      moving: null
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+  17285675:
+    display_name: null
+    at: null
+    status: null
+    script: blank
+    render:
+      look: {model: 50}
+      entity_flags: 2051
+      moving: 1
+  17285684:
+    status: null
+    script: Harvesting_Point
+    display_name: Harvesting Point
+    at: [108.884, 8.263, -579.216]
+    render:
+      look: {model: 2422}
+      moving: 32775
+    widescan: true
+  17285685:
+    script: qm3
+    display_name: ???
+    at: [203.332, 0.0, 82.045, 64]
+    render:
+      look: {model: 52}
+  17285687:
+    status: null
+    speed: null
+    animation_speed: null
+    script: Peddlestox
+    display_name: Peddlestox
+    at: [-499.914, 1.465, -109.039, 39]
+    render:
+      look: {model: 503}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 7
+  17285689:
+    at: null
+    script: Casket
+    display_name: Casket
+    render:
+      moving: null
+      look: {model: 960}
+      entity_flags: 1
+    status: cutscene_only
+    widescan: true
+  17285697:
+    script: qm4
+    display_name: ???
+    status: normal
+    at: [-149.929, -1.148, 56.761]
+    render:
+      look: {model: 52}
+      entity_flags: 131
+      moving: 1
+    speed: 40
+    animation_speed: 40
+  17285699:
+    script: Kiteh_Nanjyea
+    display_name: Kiteh Nanjyea
+    at: [300.042, -3.999, -516.958, 192]
+    render:
+      look: {model: null, type: equipped, race: 7, face: 6, head: 4096, body: 8327, hands: 12423, legs: 16519, feet: 20615, main: 24576, sub: 28672}
+      animation_sub: 1
+    widescan: true
+  17285701:
+    script: Paurelde
+    display_name: Paurelde
+    at: [-273.301, 0.3, -149.8, 155]
+    render:
+      look: {model: null, type: equipped, race: 4, face: 8, head: 4117, body: 8208, hands: 12298, legs: 16405, feet: 20504, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      moving: 22
+    widescan: true
+  17285706:
+    script: Field_Parchment
+    display_name: Field Parchment
+    at: [-364.0, -0.5, -404.0, 224]
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 52}
+      moving: 1
+    content: field_manuals
+  17285709:
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [34.16, -0.12, 124.75]
+    render:
+      look: {model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    content: soa
+  17285710:
+    script: Mogball-Local
+    display_name: Mogball-Local
+    render:
+      look: {model: 817}
+      moving: 1
+  17285711: {script: Mog-Tablet, display_name: Mog-Tablet}
+  17285714:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [197.0, 0.0, -81.0, 160]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 16
+    status: normal
+    widescan: true
+    content: survival_guide

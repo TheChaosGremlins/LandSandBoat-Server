@@ -1,0 +1,13 @@
+npcs:
+  17596797: null
+  17596798: null
+  17596799: null
+  17596800: null
+  17596801: null
+  17596802: null
+  17596790:
+    script: _5ks
+    display_name: Cermet Door
+    at: [226.5, -2.487, 20.0]
+    render: {door_id: 1936405855, entity_flags: 4099}
+    widescan: true

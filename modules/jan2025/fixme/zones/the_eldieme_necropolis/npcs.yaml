@@ -1,0 +1,20 @@
+npcs:
+  17576302:
+    _jan2025_candidates: [17576303, 17576302]
+    script: NPC[16e]
+    render:
+      look: {type: standard, model: 2348}
+      name_vis: 4
+  17576303:
+    _jan2025_candidates: [17576304, 17576303]
+    script: _5ft
+    display_name: Cermet Door
+    at: [133.5, -2.487, -180.0]
+    render:
+      look: {type: door}
+      door_id: 1952855391
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+    widescan: true

@@ -1,0 +1,28 @@
+npcs:
+  17871106: null
+  17871138: null
+  17871197: null
+  17871107: {script: 'NPC[102]'}
+  17871108: {script: 'NPC[103]'}
+  17871109: {script: 'NPC[104]'}
+  17871110: {script: 'NPC[105]'}
+  17871111: {script: 'NPC[106]'}
+  17871112: {script: 'NPC[107]'}
+  17871113: {script: 'NPC[108]'}
+  17871114: {script: 'NPC[109]'}
+  17871115: {script: 'NPC[10a]'}
+  17871116: {script: 'NPC[10b]'}
+  17871117: {script: 'NPC[10c]'}
+  17871118: {script: 'NPC[10d]'}
+  17871119: {script: 'NPC[10e]'}
+  17871120: {script: 'NPC[10f]'}
+  17871139: {script: 'NPC[122]'}
+  17871140: {script: 'NPC[123]'}
+  17871141: {script: 'NPC[124]'}
+  17871142: {script: 'NPC[125]'}
+  17871143: {script: 'NPC[126]'}
+  17871144: {script: 'NPC[127]'}
+  17871145: {script: 'NPC[128]'}
+  17871146: {script: 'NPC[129]'}
+  17871147: {script: 'NPC[12a]'}
+  17871200: {script: 'NPC[15d]'}

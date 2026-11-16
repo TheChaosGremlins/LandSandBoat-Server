@@ -1,0 +1,71 @@
+npcs:
+  17744041:
+    _jan2025_candidates: [17744042, 17744041]
+    script: Game_Table
+    display_name: Game Table
+    at: [-152.266, -8.378, 16.083, 60]
+    render:
+      look: {type: standard, model: 52}
+      moving: 32769
+    status: normal
+    widescan: true
+  17744046:
+    _jan2025_candidates: [17744046]
+    script: Dealer_Moogle
+    display_name: Dealer Moogle
+    at: [153.359, 8.499, -44.523, 129]
+    render:
+      look: {type: standard, model: 981}
+      moving: 8
+    status: normal
+    widescan: true
+    content: wotg
+  17744061:
+    _jan2025_candidates: [17744062, 17744061]
+    script: blank
+    at: [118.0, 9.1, -86.0, 192]
+    render:
+      look: {type: standard, model: 759}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32783
+  17744127:
+    _jan2025_candidates: [17744128, 17744127]
+    script: blank
+    at: [116.0, 8.51, -40.0]
+    render:
+      look: {type: standard, model: 1241}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17744128:
+    _jan2025_candidates: [17744129, 17744128]
+    script: blank
+    at: [-170.0, -6.0, -16.078]
+    render:
+      look: {type: standard, model: 1241}
+      entity_flags: 2073
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17744156:
+    _jan2025_candidates: [17744157, 17744156]
+    script: blank
+    at: [-90.0, 4.9, 51.0, 63]
+    render:
+      look: {type: standard, model: 962}
+    status: cutscene_only
+  17744185:
+    _jan2025_candidates: [17744186, 17744185]
+    script: Phantom_gems_Box
+    display_name: Phantom gems Box
+    at: [43.0, 7.5, -185.55, 128]
+    render:
+      look: {type: standard, model: 960}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    widescan: true
+    content: tvr

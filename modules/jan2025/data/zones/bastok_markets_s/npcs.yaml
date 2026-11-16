@@ -1,0 +1,27 @@
+npcs:
+  17134281: null
+  17134282: null
+  17134283:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [-247.0, 0.0, 95.0, 160]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2433}
+      name_vis: 32
+      moving: 8
+    content: survival_guide
+  17134284:
+    script: Faltavie
+    display_name: Faltavie
+    at: [-220.0, -6.0, -92.0, 192]
+    render:
+      look: {type: equipped, race: 4, face: 15, head: 4096, body: 8200, hands: 12288, legs: 16412, feet: 20508, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 1
+    status: normal
+    widescan: true
+    content: wotg

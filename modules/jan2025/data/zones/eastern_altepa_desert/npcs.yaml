@@ -1,0 +1,182 @@
+npcs:
+  17244585: null
+  17244586: null
+  17244587: null
+  17244588: null
+  17244589: null
+  17244590: null
+  17244591: null
+  17244592: null
+  17244593: null
+  17244594: null
+  17244595: null
+  17244612: null
+  17244614: null
+  17244616: null
+  17244617: null
+  17244618: null
+  17244619: null
+  17244621: null
+  17244622: null
+  17244627: null
+  17244634: null
+  17244642: null
+  17244643: null
+  17244653: null
+  17244654: null
+  17244656: null
+  17244657: null
+  17244660: null
+  17244662: null
+  17244663: null
+  17244664: null
+  17244666: null
+  17244667: null
+  17244668: null
+  17244611:
+    script: Treasure_Casket
+    display_name: Treasure Casket
+    render:
+      entity_flags: null
+      look: {model: 966}
+      name_vis: 4
+      moving: 6
+  17244613: {script: Achieve_Master, display_name: Achieve Master, content: soa}
+  17244615:
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17244620:
+    script: Telepoint
+    display_name: Telepoint
+    at: [-61.942, 3.949, 224.9]
+    render:
+      look: {model: 55}
+      moving: 1
+    status: normal
+  17244623:
+    widescan: null
+    script: qm
+    display_name: ???
+    at: [111.939, -8.724, -72.803, 223]
+    render:
+      entity_flags: null
+      look: {model: 52}
+      moving: 1
+  17244625:
+    speed: null
+    animation_speed: null
+    script: EFFECTER
+    display_name: EFFECTER
+    at: [0.0, -50.392, 0.0, 60]
+    render: {entity_flags: 2051, moving: 32769}
+    status: normal
+  17244626:
+    script: Talking_Doll
+    display_name: Talking Doll
+    at: [-252.162, -5.319, -307.011, 113]
+    render: {entity_flags: null, moving: null}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17244630:
+    script: Eaulevisat_RK
+    display_name: Eaulevisat, R.K.
+    at: [-258.041, 8.473, -254.527, 248]
+    render:
+      look: {model: null, type: equipped, race: 3, face: 13, head: 4108, body: 8204, hands: 12300, legs: 16396, feet: 20492, main: 24826, sub: 28699}
+      entity_flags: 27
+      name_prefix: 32
+    widescan: true
+  17244637:
+    script: Laimeve_RK
+    display_name: Laimeve, R.K.
+    at: [226.493, -11.231, 260.194, 169]
+    render:
+      animation_sub: null
+      look: {race: 4, face: 13, head: 4102, body: 8198, hands: 12294, legs: 16396, feet: 20486, main: 24842}
+  17244638:
+    script: Sowande
+    display_name: Sowande
+    at: [-259.123, 8.477, -250.438, 232]
+    render:
+      look: {model: null, type: equipped, race: 1, face: 10, head: 4114, body: 8216, hands: 12303, legs: 16391, feet: 20497, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 7
+    widescan: true
+  17244651:
+    at: null
+    status: null
+    script: Moogle
+    display_name: Moogle
+    render:
+      moving: null
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+  17244652:
+    script: qm2
+    display_name: ???
+    at: [47.852, -7.808, 403.391, 76]
+    render:
+      look: {model: 52}
+  17244655:
+    script: Eulaclaire
+    display_name: Eulaclaire
+    at: [-55.715, 3.949, 232.524, 119]
+    render:
+      look: {model: null, type: equipped, race: 4, face: 13, head: 4117, body: 8208, hands: 12298, legs: 16405, feet: 20504, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      moving: 7
+    widescan: true
+  17244661:
+    script: Field_Parchment
+    display_name: Field Parchment
+    at: [238.0, 7.0, -368.0, 192]
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 52}
+      moving: 1
+    content: field_manuals
+  17244665:
+    script: Mogball-Local
+    display_name: Mogball-Local
+    render:
+      look: {model: 817}
+      moving: 1
+  17244669:
+    display_name: null
+    status: null
+    widescan: null
+    content: null
+    script: Fireworks
+    at: [398.651, 16.0, 596.82, 89]
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 327}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 32769
+  17244670:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [-260.0, 8.5, -265.0, 128]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 15
+    status: normal
+    widescan: true
+    content: survival_guide

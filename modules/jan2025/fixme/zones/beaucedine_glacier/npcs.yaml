@@ -1,0 +1,283 @@
+npcs:
+  17232173:
+    _jan2025_candidates: [17232172]
+    script: Mirthful_Ixion
+    display_name: Mirthful Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17232174:
+    _jan2025_candidates: [17232173]
+    script: Elated_Ixion
+    display_name: Elated Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17232175:
+    _jan2025_candidates: [17232174]
+    script: Euphoric_Ixion
+    display_name: Euphoric Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17232176:
+    _jan2025_candidates: [17232175]
+    script: Exultant_Ixion
+    display_name: Exultant Ixion
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17232177:
+    _jan2025_candidates: [17232176]
+    script: NPC[131]
+    render:
+      look: {type: standard, model: 50}
+  17232178:
+    _jan2025_candidates: [17232177]
+    script: NPC[132]
+    render:
+      look: {type: standard, model: 50}
+  17232179:
+    _jan2025_candidates: [17232178]
+    script: NPC[133]
+    render:
+      look: {type: standard, model: 50}
+  17232180:
+    _jan2025_candidates: [17232179]
+    script: Treasure_Casket
+    display_name: Peculiar Footprints
+    at: [401.27, 0.0, 279.15]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 34
+      moving: 32769
+    content: tvr
+  17232181:
+    _jan2025_candidates: [17232180]
+    script: NPC[135]
+    render:
+      look: {type: standard, model: 50}
+  17232198:
+    _jan2025_candidates: [17232198, 17232199]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      animation_sub: 4
+      name_vis: 4
+      moving: 1
+  17232200:
+    _jan2025_candidates: [17232201]
+    script: NPC[148]
+    render:
+      look: {type: standard, model: 50}
+  17232203:
+    _jan2025_candidates: [17232204]
+    script: NPC[14b]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17232204:
+    _jan2025_candidates: [17232205]
+    script: NPC[14c]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17232205:
+    _jan2025_candidates: [17232206]
+    script: NPC[14d]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17232208:
+    _jan2025_candidates: [17232209, 17232216]
+    script: NPC[150]
+    render:
+      look: {type: standard, model: 50}
+  17232220:
+    _jan2025_candidates: [17232220]
+    script: Conquest_Banner
+    at: [-26.346, -59.685, -113.561, 249]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+    status: normal
+  17232228:
+    _jan2025_candidates: [17232229, 17232228]
+    script: Conquest_Banner
+    at: [-226.254, -81.394, 260.08, 160]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+    status: normal
+  17232232:
+    _jan2025_candidates: [17232232, 17232233]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 2051
+      moving: 1
+  17232236:
+    _jan2025_candidates: [17232237, 17232238]
+    script: Beastmens_Banner
+    display_name: Beastmen's Banner
+    at: [-173.299, -81.871, 150.2, 246]
+    render:
+      look: {type: standard, model: 817}
+      moving: 1
+    status: normal
+  17232270:
+    _jan2025_candidates: [17232271, 17232270]
+    script: NPC[18e]
+    render:
+      look: {type: standard, model: 50}
+  17232271:
+    _jan2025_candidates: [17232272, 17232271]
+    script: Iron_Grate
+    display_name: Iron Grate
+    at: [241.0, 5.0, -20.0]
+    render:
+      look: {type: standard, model: 52}
+      moving: 32769
+    status: normal
+    widescan: true
+  17232278:
+    _jan2025_candidates: [17232279]
+    script: Nagmolada
+    display_name: Nag'molada
+    at: [-339.892, -99.496, 123.965, 190]
+    render:
+      look: {type: standard, model: 1452}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17232285:
+    _jan2025_candidates: [17232286, 17232285]
+    script: blank
+    at: [-411.788, -40.069, -417.849, 249]
+    render:
+      look: {type: equipped, race: 0, face: 0, head: 4101, body: 8197, hands: 12293, legs: 16389, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17232288:
+    _jan2025_candidates: [17232289, 17232288]
+    script: qm4
+    display_name: ???
+    at: [0.008, 0.0, 0.0]
+    render:
+      look: {type: equipped, race: 1, face: 3, head: 4096, body: 8353, hands: 12392, legs: 16408, feet: 20504, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17232296:
+    _jan2025_candidates: [17232297]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [444.89, -0.13, -205.51]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17232297:
+    _jan2025_candidates: [17232298]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [398.98, 0.0, 38.04]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17232298:
+    _jan2025_candidates: [17232299]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [239.94, -0.23, 128.01]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17232313:
+    _jan2025_candidates: [17232314, 17232313]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17232314:
+    _jan2025_candidates: [17232315, 17232314]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17232315:
+    _jan2025_candidates: [17232316, 17232315]
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [360.0, 0.0, -280.0]
+    render:
+      look: {type: standard, model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    status: normal
+    widescan: true
+    content: voidwatch
+  17232325:
+    _jan2025_candidates: [17232326]
+    script: NPC[1c5]
+    render:
+      look: {type: standard, model: 50}
+  17232326:
+    _jan2025_candidates: [17232327]
+    script: NPC[1c6]
+    render:
+      look: {type: standard, model: 50}
+  17232345:
+    _jan2025_candidates: [17232346]
+    at: [197.403, -40.0, 283.035, 153]
+    render:
+      look: {type: ship}
+      door_id: 10
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only
+  17232346:
+    _jan2025_candidates: [17232347]
+    at: [197.867, -39.952, 284.971, 155]
+    render:
+      look: {type: ship}
+      door_id: 12
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+      moving: 32768
+    status: cutscene_only

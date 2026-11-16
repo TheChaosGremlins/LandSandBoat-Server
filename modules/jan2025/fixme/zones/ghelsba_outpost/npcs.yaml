@@ -1,0 +1,16 @@
+npcs:
+  17350954:
+    _jan2025_candidates: [17350954, 17350957]
+    script: NPC[12a]
+    render:
+      look: {type: standard, model: 50}
+  17350958:
+    _jan2025_candidates: [17350958]
+    script: NPC[12e]
+    render:
+      look: {type: standard, model: 318}
+      entity_flags: 155
+      name_prefix: 32
+    status: cutscene_only
+    speed: 75
+    animation_speed: 75

@@ -1,0 +1,13 @@
+npcs:
+  17010903:
+    _jan2025_candidates: [17010903, 17010902]
+    script: Qultada
+    display_name: Qultada
+    at: [8.148, -0.441, 171.151, 215]
+    render:
+      look: {type: standard, model: 1541}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+    content: toau

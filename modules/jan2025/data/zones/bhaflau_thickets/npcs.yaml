@@ -1,0 +1,347 @@
+npcs:
+  16990599: null
+  16990601: null
+  16990602: null
+  16990603: null
+  16990604: null
+  16990605: null
+  16990606: null
+  16990607: null
+  16990609: null
+  16990616: null
+  16990617: null
+  16990618: null
+  16990619: null
+  16990629: null
+  16990630: null
+  16990633: null
+  16990634: null
+  16990635: null
+  16990636: null
+  16990642: null
+  16990643: null
+  16990644: null
+  16990645: null
+  16990646: null
+  16990647: null
+  16990648: null
+  16990653: null
+  16990654: null
+  16990655: null
+  16990656: null
+  16990657: null
+  16990658: null
+  16990659: null
+  16990660: null
+  16990661: null
+  16990662: null
+  16990663: null
+  16990664: null
+  16990596:
+    script: NPC[188]
+    at: [331.456, -10.0, 182.845, 104]
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+    speed: 40
+    animation_speed: 40
+  16990597:
+    script: Warhorse_Hoofprint
+    display_name: Warhorse Hoofprint
+    at: [460.166, -14.926, 256.214]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 32
+      name_prefix: 32
+    widescan: true
+  16990598:
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      look: {type: standard, model: 50}
+    content: soa
+  16990600:
+    at: null
+    speed: null
+    animation_speed: null
+    script: Unity_Master
+    display_name: Unity Master
+    render: {moving: null, entity_flags: 2051, name_vis: 96}
+    content: soa
+  16990608:
+    display_name: null
+    content: null
+    script: blank
+    render:
+      name_vis: null
+      look: {model: 82}
+      moving: 1
+  16990610:
+    at: null
+    script: Moogle
+    display_name: Moogle
+    render:
+      moving: null
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+    content: toau
+  16990611:
+    script: Moogle
+    display_name: Moogle
+    render:
+      look: {type: standard, model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+    content: toau
+  16990612:
+    script: Moogle
+    display_name: Moogle
+    render:
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+    content: toau
+  16990613:
+    script: Moogle
+    display_name: Moogle
+    render:
+      name_vis: null
+      look: {model: 82}
+      entity_flags: 4194307
+    content: toau
+  16990614:
+    script: Moogle
+    display_name: Moogle
+    render: {name_vis: null, entity_flags: 4194307}
+    widescan: true
+  16990615: {speed: null, animation_speed: null, script: Moogle, display_name: Moogle, widescan: true}
+  16990620:
+    speed: null
+    animation_speed: null
+    script: Mamuuja
+    display_name: Mamuuja
+    at: [-184.957, -5.816, -829.355, 206]
+    render:
+      entity_flags: null
+      look: {model: 964}
+      moving: 1
+    widescan: true
+  16990621:
+    speed: null
+    animation_speed: null
+    script: _1g0
+    display_name: Postern
+    at: [573.625, -12.5, 140.0]
+    render:
+      look: {model: null, type: door}
+      door_id: 812069215
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+  16990622:
+    widescan: null
+    script: _1g1
+    display_name: Heavy Iron Gate
+    at: [-180.0, -12.372, -761.482]
+    render:
+      look: {model: null, type: door}
+      door_id: 828846431
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+    content: toau
+  16990623:
+    widescan: null
+    script: _1g2
+    display_name: Runic Seal
+    at: [-180.0, -6.8, -833.921]
+    render:
+      look: {model: null, type: door}
+      door_id: 845623647
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+    content: toau
+  16990624:
+    speed: null
+    animation_speed: null
+    script: Runic_Portal
+    display_name: Runic Portal
+    at: [-211.834, -12.719, -818.05]
+    render:
+      look: {model: 52}
+      moving: 32769
+    status: normal
+    content: toau
+  16990625:
+    speed: null
+    animation_speed: null
+    widescan: null
+    script: _1g3
+    display_name: Door_1g3
+    at: [20.015, -30.729, 597.981]
+    render:
+      look: {model: null, type: door}
+      door_id: 862400863
+      entity_flags: 6147
+    status: normal
+    content: toau
+  16990626:
+    speed: null
+    animation_speed: null
+    script: _1g4
+    display_name: Door_1g4
+    at: [-459.942, -19.048, -2.999]
+    render:
+      look: {model: null, type: door}
+      door_id: 879178079
+      entity_flags: 6147
+    status: normal
+    content: toau
+  16990627:
+    speed: null
+    animation_speed: null
+    script: Kamih_Mapokhalam
+    display_name: Kamih Mapokhalam
+    at: [20.015, -30.729, 597.981, 64]
+    render:
+      animation: null
+      animation_sub: null
+      look: {model: null, type: equipped, race: 7, face: 5, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    widescan: true
+    content: toau
+  16990628:
+    script: Hamta-Iramta
+    display_name: Hamta-Iramta
+    at: [-459.942, -19.048, -2.999, 64]
+    render:
+      look: {model: null, type: equipped, race: 5, face: 11, head: 4261, body: 8357, hands: 12459, legs: 16549, feet: 20651, main: 24951, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 21
+    status: normal
+  16990631:
+    at: null
+    script: Alcander
+    display_name: Alcander
+    render:
+      door_id: null
+      animation: null
+      moving: null
+      look: {type: equipped, race: 1, face: 12, head: 4096, body: 8225, hands: 12319, legs: 16400, feet: 20482, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  16990632:
+    at: null
+    script: Tinga-Matonga
+    display_name: Tinga-Matonga
+    render:
+      moving: null
+      look: {model: null, type: equipped, race: 5, face: 2, head: 4096, body: 8235, hands: 12296, legs: 16387, feet: 20483, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  16990637:
+    script: blank
+    at: [-208.72, -11.889, -779.713]
+    render:
+      look: {model: 1747}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  16990638:
+    status: null
+    script: Ramblix
+    at: [566.851, -7.823, 156.368, 120]
+    render: {moving: null, entity_flags: 27, name_prefix: 32}
+    speed: 40
+    animation_speed: 40
+  16990639:
+    display_name: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    at: [566.851, -7.823, 156.368, 120]
+    render:
+      entity_flags: null
+      animation_sub: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      moving: 1
+    speed: 40
+    animation_speed: 40
+  16990640:
+    display_name: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    at: [-15.453, -28.497, 140.072, 103]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+      moving: 32769
+    speed: 40
+    animation_speed: 40
+  16990641:
+    script: Harvesting_Point
+    display_name: Harvesting Point
+    at: [292.814, -28.262, 508.026]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 2422}
+      moving: 32775
+    status: normal
+    widescan: true
+  16990649:
+    script: Mythralline_Wellspring
+    display_name: Mythralline Wellspring
+    at: [180.813, -15.188, 373.56, 223]
+    render:
+      look: {model: 52}
+      moving: 32769
+    widescan: true
+  16990650:
+    content: null
+    script: qm9
+    display_name: ???
+    at: [-173.264, -7.086, -825.648, 64]
+    render:
+      look: {model: 52}
+      moving: 1
+  16990651:
+    script: Moogle
+    display_name: Moogle
+    at: [-173.264, -7.086, -825.648, 64]
+    render:
+      moving: null
+      look: {model: 82}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    content: toau
+  16990652:
+    script: HomePoint#1
+    display_name: 'Home Point #1'
+    at: [-98.0, -10.0, -493.0, 192]
+    render:
+      look: {model: 51}
+      moving: 1
+    widescan: true
+    content: soa

@@ -1,0 +1,12 @@
+npcs:
+  17301567: null
+  17301568: null
+  17301569: null
+  17301593:
+    speed: null
+    animation_speed: null
+    script: qm_breaking_barriers
+    at: [91.086, -3.974, -16.449, 137]
+    render:
+      look: {model: 52}
+    status: normal

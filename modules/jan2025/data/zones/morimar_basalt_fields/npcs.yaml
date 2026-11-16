@@ -1,0 +1,71 @@
+npcs:
+  17863371: null
+  17863372: null
+  17863373: null
+  17863374: null
+  17863375: null
+  17863376:
+    script: _7d0
+    at: [-240.0, -49.5, 340.0]
+    render: {door_id: 811874143, entity_flags: 6147}
+    status: normal
+  17863377:
+    status: null
+    script: _7d1
+    at: [-240.0, -50.0, 340.0]
+    render: {door_id: 828651359, entity_flags: 4099}
+  17863378:
+    script: _7d2
+    at: [0.0, -1.5, 60.0]
+    render: {door_id: 845428575, entity_flags: 6147}
+    status: normal
+  17863379:
+    status: null
+    script: _7d3
+    at: [0.0, -2.0, 60.0]
+    render: {door_id: 862205791, entity_flags: 4099}
+  17863380:
+    script: _7d4
+    at: [120.0, -1.5, -60.0]
+    render: {door_id: 878983007, entity_flags: 6147}
+    status: normal
+  17863381:
+    status: null
+    script: _7d5
+    at: [120.0, -2.0, -60.0]
+    render: {door_id: 895760223, entity_flags: 4099}
+  17863382:
+    script: _7d6
+    at: [-360.0, -33.5, -140.0]
+    render: {door_id: 912537439, entity_flags: 6147}
+    status: normal
+  17863383:
+    status: null
+    script: _7d7
+    at: [-360.0, -34.0, -139.999]
+    render: {door_id: 929314655, entity_flags: 4099}
+  17863384:
+    script: _7d8
+    at: [-240.0, -33.5, -220.0]
+    render: {door_id: 946091871, entity_flags: 6147}
+    status: normal
+  17863385:
+    status: null
+    script: _7d9
+    at: [-240.0, -34.0, -220.0]
+    render: {door_id: 962869087, entity_flags: 4099, animation: close_door}
+  17863386:
+    script: _7da
+    at: [-60.0, -17.5, -280.0]
+    render: {door_id: 1633957727, entity_flags: 6147}
+    status: normal
+  17863387:
+    status: null
+    script: _7db
+    at: [-60.0, -18.0, -280.0]
+    render: {door_id: 1650734943, entity_flags: 4099}
+  17863388:
+    script: _7dc
+    at: [-120.0, -17.5, -420.0]
+    render: {door_id: 1667512159, entity_flags: 6147}
+    status: normal

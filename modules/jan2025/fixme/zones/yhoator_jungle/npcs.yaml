@@ -1,0 +1,208 @@
+npcs:
+  17285608:
+    _jan2025_candidates: [17285608, 17285609]
+    script: Gleeful_Alicorn
+    display_name: Gleeful Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17285609:
+    _jan2025_candidates: [17285609, 17285610]
+    script: Jubilant_Alicorn
+    display_name: Jubilant Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17285610:
+    _jan2025_candidates: [17285610, 17285611]
+    script: Joyous_Alicorn
+    display_name: Joyous Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17285611:
+    _jan2025_candidates: [17285611, 17285612]
+    script: Joyful_Alicorn
+    display_name: Joyful Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17285612:
+    _jan2025_candidates: [17285612, 17285613]
+    script: NPC[1ec]
+    render:
+      look: {type: standard, model: 50}
+  17285613:
+    _jan2025_candidates: [17285613, 17285614]
+    script: NPC[1ed]
+    render:
+      look: {type: standard, model: 50}
+  17285614:
+    _jan2025_candidates: [17285614, 17285615]
+    script: NPC[1ee]
+    render:
+      look: {type: standard, model: 50}
+  17285615:
+    _jan2025_candidates: [17285615, 17285616]
+    script: NPC[1ef]
+    render:
+      look: {type: standard, model: 50}
+  17285617:
+    _jan2025_candidates: [17285618, 17285633]
+    script: NPC[1f1]
+    render:
+      look: {type: standard, model: 50}
+  17285634:
+    _jan2025_candidates: [17285634, 17285635]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      animation_sub: 4
+      name_vis: 4
+      moving: 1
+  17285636:
+    _jan2025_candidates: [17285637]
+    script: NPC[204]
+    render:
+      look: {type: standard, model: 50}
+  17285639:
+    _jan2025_candidates: [17285640, 17285639]
+    script: NPC[207]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17285641:
+    _jan2025_candidates: [17285641, 17285642]
+    script: NPC[209]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17285646:
+    _jan2025_candidates: [17285647]
+    script: qm2
+    display_name: ???
+    at: [-302.183, 1.703, 18.208, 31]
+    render:
+      look: {type: standard, model: 52}
+      moving: 32769
+    status: normal
+  17285653:
+    _jan2025_candidates: [17285653]
+    script: Conquest_Banner
+    at: [198.253, 0.0, -80.331, 14]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17285661:
+    _jan2025_candidates: [17285662, 17285661]
+    script: Conquest_Banner
+    at: [-84.793, 0.476, 223.829, 238]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17285665:
+    _jan2025_candidates: [17285665, 17285673]
+    script: NPC[221]
+    render:
+      look: {type: standard, model: 50}
+  17285675:
+    _jan2025_candidates: [17285676, 17285675]
+    script: Logging_Point
+    display_name: Logging Point
+    at: [-341.286, 4.744, 16.386]
+    render:
+      look: {type: standard, model: 2423}
+      moving: 32775
+    status: normal
+  17285685:
+    _jan2025_candidates: [17285686]
+    script: Beastmens_Banner
+    display_name: Beastmen's Banner
+    at: [-54.134, 0.333, -405.397, 199]
+    render:
+      look: {type: standard, model: 817}
+      moving: 1
+    status: normal
+  17285697:
+    _jan2025_candidates: [17285697, 17285698]
+    script: NPC[241]
+    render:
+      look: {type: standard, model: 50}
+  17285699:
+    _jan2025_candidates: [17285700]
+    script: blank
+    at: [298.678, -3.999, -518.056, 197]
+    render:
+      look: {type: standard, model: 86}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+  17285701:
+    _jan2025_candidates: [17285702, 17285701]
+    script: blank
+    at: [-272.666, 0.3, -148.581, 151]
+    render:
+      look: {type: standard, model: 86}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 16
+    status: normal
+  17285702:
+    _jan2025_candidates: [17285703, 17285702]
+    script: Field_Manual
+    display_name: Field Manual
+    at: [194.933, 0.0, -83.997, 157]
+    render:
+      look: {type: standard, model: 2290}
+      name_vis: 32
+      moving: 7
+    status: normal
+    widescan: true
+    content: field_manuals
+  17285706:
+    _jan2025_candidates: [17285707]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [-231.0, 0.0, -398.0]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17285707:
+    _jan2025_candidates: [17285708]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [231.07, 0.0, -402.7]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17285711:
+    _jan2025_candidates: [17285712]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17285712:
+    _jan2025_candidates: [17285713]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true

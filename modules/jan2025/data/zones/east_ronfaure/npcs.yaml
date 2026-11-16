@@ -1,0 +1,262 @@
+npcs:
+  17191373: null
+  17191374: null
+  17191375: null
+  17191376: null
+  17191377: null
+  17191378: null
+  17191379: null
+  17191380: null
+  17191381: null
+  17191382: null
+  17191474: null
+  17191475: null
+  17191476: null
+  17191477: null
+  17191478: null
+  17191479: null
+  17191480: null
+  17191481: null
+  17191498: null
+  17191500: null
+  17191502: null
+  17191503: null
+  17191504: null
+  17191505: null
+  17191519: null
+  17191528: null
+  17191530: null
+  17191536: null
+  17191541: null
+  17191545: null
+  17191548: null
+  17191549: null
+  17191551: null
+  17191552: null
+  17191553: null
+  17191554: null
+  17191555: null
+  17191559: null
+  17191560: null
+  17191561: null
+  17191573: null
+  17191575: null
+  17191583: null
+  17191497:
+    script: Treasure_Casket
+    display_name: Treasure Casket
+    render: {entity_flags: 2051, name_vis: 12, moving: 6}
+  17191499: {script: Achieve_Master, display_name: Achieve Master, content: soa}
+  17191501:
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17191506:
+    script: Andelain
+    display_name: Andelain
+    at: [664.231, -11.849, -539.413, 132]
+    render:
+      animation_sub: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 130}
+      moving: 15
+  17191507:
+    script: Croteillard
+    display_name: Croteillard
+    at: [87.426, -61.999, 266.709, 31]
+    render:
+      look: {face: 9}
+      moving: 7
+  17191508:
+    script: Rayochindot
+    display_name: Rayochindot
+    at: [93.159, -61.999, 272.601, 34]
+    render:
+      look: {model: null, type: equipped, race: 3, face: 5, head: 4124, body: 8220, hands: 12316, legs: 16412, feet: 20508, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+  17191509:
+    script: Cheval_River
+    display_name: Cheval River
+    at: [220.792, -58.163, 427.406, 76]
+    render:
+      look: {model: 52}
+  17191526:
+    at: null
+    status: null
+    widescan: null
+    script: Moogle
+    display_name: Moogle
+    render:
+      moving: null
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+  17191527:
+    script: Stone_Monument
+    display_name: Stone Monument
+    at: [77.277, -2.894, -517.376]
+    render:
+      door_id: null
+      animation: null
+      look: {type: standard, model: 52}
+      moving: 1
+    status: normal
+    widescan: true
+  17191529:
+    script: Cavernous_Maw
+    display_name: Cavernous Maw
+    at: [321.899, -59.5, 509.089, 64]
+    render:
+      entity_flags: null
+      look: {model: 2323}
+      name_vis: 96
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    widescan: true
+    content: wotg
+  17191538:
+    speed: null
+    animation_speed: null
+    script: EFFECTER
+    display_name: EFFECTER
+    at: [-299.672, -77.91, 119.113, 92]
+    render: {entity_flags: 2051, moving: 32769}
+    status: normal
+  17191539:
+    content: null
+    script: Talking_Doll
+    display_name: Talking Doll
+    at: [-252.162, -5.319, -307.011, 113]
+    render:
+      name_vis: null
+      moving: null
+      look: {model: 50}
+    status: cutscene_only
+    speed: 40
+    animation_speed: 40
+  17191542:
+    script: Field_Parchment
+    display_name: Field Parchment
+    at: [442.0, -0.5, -478.0, 224]
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 52}
+      moving: 1
+    content: field_manuals
+  17191546:
+    script: Mogball-Local
+    display_name: Mogball-Local
+    render:
+      look: {model: 817}
+      moving: 1
+  17191547: {script: Mog-Tablet, display_name: Mog-Tablet}
+  17191550:
+    script: Moogle
+    display_name: Moogle
+    at: [126.495, -59.732, 258.462, 109]
+    render:
+      look: {model: 82}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 1
+    widescan: true
+  17191556:
+    script: Fireworks
+    at: [-37.637, -77.689, 207.254, 221]
+    render:
+      look: {model: 327}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 32769
+  17191557:
+    widescan: null
+    script: qm6
+    display_name: ???
+    at: [111.417, -59.9, 257.126, 144]
+    render:
+      look: {model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+  17191562:
+    content: null
+    script: Magivore_Ternion
+    display_name: Magivore Ternion
+    at: [111.417, -54.9, 257.126, 144]
+    render:
+      animation_sub: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 260}
+      entity_flags: 27
+      moving: 32768
+    status: cutscene_only
+  17191563:
+    script: Stampeding_Bison
+    display_name: Stampeding Bison
+    at: [79.69, -59.999, 236.672, 37]
+    render:
+      look: {race: 8}
+      entity_flags: 29
+      name_prefix: 32
+      moving: 6
+    status: normal
+    content: wotg
+  17191574:
+    script: Debug
+    display_name: Debug
+    at: [78.69, -59.999, 235.672, 37]
+    render:
+      name_vis: null
+      look: {model: null, type: equipped, race: 6, face: 14, head: 4236, body: 8332, hands: 12288, legs: 16394, feet: 20489, main: 24576, sub: 28672}
+      entity_flags: 25
+      animation_sub: 1
+      name_prefix: 32
+      moving: 15
+    widescan: true
+  17191576:
+    script: Slabble
+    display_name: Slabble
+    at: [99.0, -60.688, 245.0, 31]
+    render:
+      name_vis: null
+      look: {model: 2431}
+      entity_flags: 27
+      moving: 32768
+    widescan: true
+  17191577:
+    display_name: null
+    widescan: null
+    content: null
+    script: blank
+    at: [99.0, -59.854, 245.0, 23]
+    render:
+      animation_sub: null
+      moving: null
+      look: {model: 2331}
+      entity_flags: 2073
+      name_vis: 96
+      name_prefix: 32
+    status: cutscene_only
+  17191584:
+    script: Geomantic_Reservoir
+    display_name: Geomantic Reservoir
+    at: [380.236, -39.842, 58.366]
+    render:
+      look: {model: 2326}
+      name_vis: 112
+      moving: 1
+    status: normal
+    widescan: true
+    content: soa
+  17191585: {script: 'NPC[2a0]'}
+  17191586:
+    script: NPC[2a1]
+    render:
+      look: {type: standard, model: 50}

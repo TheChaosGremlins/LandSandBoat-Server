@@ -1,0 +1,80 @@
+npcs:
+  17289720:
+    _jan2025_candidates: [17289721, 17289736]
+    script: NPC[1f8]
+    render:
+      look: {type: standard, model: 50}
+  17289721:
+    _jan2025_candidates: [17289722, 17289737]
+    script: Peculiar_Footprints
+    display_name: Peculiar Footprints
+    at: [-19.0, 0.6, 170.0]
+    render:
+      look: {type: standard, model: 1525}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 34
+      moving: 32769
+    status: normal
+    widescan: true
+    content: tvr
+  17289738:
+    _jan2025_candidates: [17289738, 17289739]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      animation_sub: 4
+      name_vis: 4
+      moving: 1
+  17289740:
+    _jan2025_candidates: [17289741]
+    script: NPC[20c]
+    render:
+      look: {type: standard, model: 50}
+  17289801:
+    _jan2025_candidates: [17289801]
+    script: Field_Manual
+    display_name: Field Manual
+    at: [446.106, -1.824, 353.842, 189]
+    render:
+      look: {type: standard, model: 2290}
+      name_vis: 32
+      moving: 16
+    status: normal
+    widescan: true
+    content: field_manuals
+  17289805:
+    _jan2025_candidates: [17289806, 17289805]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [-394.34, -0.33, -517.91]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17289809:
+    _jan2025_candidates: [17289810, 17289809]
+    script: Mog-Tablet
+    display_name: Mog-Tablet
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17289810:
+    _jan2025_candidates: [17289811, 17289810]
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [554.0, 0.7, 260.0]
+    render:
+      look: {type: standard, model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    status: normal
+    widescan: true
+    content: voidwatch

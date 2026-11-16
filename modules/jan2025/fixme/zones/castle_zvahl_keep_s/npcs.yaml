@@ -1,0 +1,32 @@
+npcs:
+  17412769:
+    _jan2025_candidates: [17412773, 17412769]
+    script: blank
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17412770:
+    _jan2025_candidates: [17412774, 17412770]
+    script: blank
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17412771:
+    _jan2025_candidates: [17412775, 17412771]
+    script: blank
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17412772:
+    _jan2025_candidates: [17412776, 17412772]
+    script: qm3
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051

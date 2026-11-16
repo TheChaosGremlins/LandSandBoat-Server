@@ -1,0 +1,738 @@
+npcs:
+  17756344:
+    _jan2025_candidates: [17756345, 17756344]
+    script: Synergy_Engineer
+    display_name: Synergy Engineer
+    at: [36.0, -2.0, -75.0, 192]
+    render:
+      look: {type: equipped, race: 1, face: 10, head: 4215, body: 8312, hands: 12298, legs: 16394, feet: 20490, main: 24576, sub: 28672}
+      moving: 1
+    status: normal
+    widescan: true
+    content: wotg
+  17756354:
+    _jan2025_candidates: [17756355, 17756354]
+    script: Moogle
+    display_name: Moogle
+    at: [-206.248, -0.593, -142.564, 163]
+    render:
+      look: {type: standard, model: 82}
+      moving: 1
+    widescan: true
+  17756373:
+    _jan2025_candidates: [17756374, 17756373]
+    script: blank
+    at: [-26.51, -2.246, -51.839]
+    render:
+      look: {type: standard, model: 1286}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17756385:
+    _jan2025_candidates: [17756385, 17756384]
+    script: Babban_Ny_Mheillea
+    display_name: Babban Ny Mheillea
+    at: [14.0, -4.525, -50.0, 64]
+    render:
+      look: {type: standard, model: 2247}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756387:
+    _jan2025_candidates: [17756386, 17756387]
+    script: Mandragora_Assistant
+    display_name: Mandragora Assistant
+    at: [-204.5, -0.85, -100.0, 96]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 1
+      name_vis: 32
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    widescan: true
+    content: tvr
+  17756397:
+    _jan2025_candidates: [17756397, 17756353]
+    at: [48.062, -2.5, -61.22, 192]
+    render:
+      look: {type: ship}
+      door_id: 382
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756398:
+    _jan2025_candidates: [17756398, 17756354]
+    at: [39.938, -2.5, -61.22, 64]
+    render:
+      look: {type: ship}
+      door_id: 315
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756399:
+    _jan2025_candidates: [17756399, 17756355]
+    at: [41.292, -2.5, -62.0]
+    render:
+      look: {type: ship}
+      door_id: 392
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756400:
+    _jan2025_candidates: [17756400, 17756356]
+    at: [42.646, -2.5, -61.22]
+    render:
+      look: {type: ship}
+      door_id: 21
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756401:
+    _jan2025_candidates: [17756401, 17756357]
+    at: [44.0, -2.5, -62.0]
+    render:
+      look: {type: ship}
+      door_id: 392
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756402:
+    _jan2025_candidates: [17756402, 17756358]
+    at: [45.354, -2.5, -61.22]
+    render:
+      look: {type: ship}
+      door_id: 21
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756403:
+    _jan2025_candidates: [17756403, 17756359]
+    at: [46.708, -2.5, -62.0]
+    render:
+      look: {type: ship}
+      door_id: 392
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756404:
+    _jan2025_candidates: [17756404, 17756360]
+    at: [46.708, -2.5, -60.44]
+    render:
+      look: {type: ship}
+      door_id: 390
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756405:
+    _jan2025_candidates: [17756405, 17756361]
+    at: [44.0, -2.5, -60.44]
+    render:
+      look: {type: ship}
+      door_id: 390
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756406:
+    _jan2025_candidates: [17756406, 17756362]
+    at: [41.292, -2.5, -60.44]
+    render:
+      look: {type: ship}
+      door_id: 390
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17756407:
+    _jan2025_candidates: [17756407, 17756363]
+    script: blank
+    at: [40.917, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756408:
+    _jan2025_candidates: [17756408, 17756364]
+    script: blank
+    at: [41.167, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756409:
+    _jan2025_candidates: [17756409, 17756365]
+    script: blank
+    at: [41.417, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756410:
+    _jan2025_candidates: [17756410, 17756366]
+    script: blank
+    at: [42.271, -3.0, -61.72, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756411:
+    _jan2025_candidates: [17756411, 17756367]
+    script: blank
+    at: [42.521, -3.0, -61.72, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756412:
+    _jan2025_candidates: [17756412, 17756368]
+    script: blank
+    at: [42.771, -3.0, -61.72, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756413:
+    _jan2025_candidates: [17756413, 17756369]
+    script: blank
+    at: [43.625, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756414:
+    _jan2025_candidates: [17756414, 17756370]
+    script: blank
+    at: [43.875, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756415:
+    _jan2025_candidates: [17756415, 17756371]
+    script: blank
+    at: [44.125, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756416:
+    _jan2025_candidates: [17756416, 17756372]
+    script: blank
+    at: [44.979, -3.0, -61.72, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756417:
+    _jan2025_candidates: [17756417, 17756373]
+    script: blank
+    at: [45.229, -3.0, -61.72, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756418:
+    _jan2025_candidates: [17756418, 17756374]
+    script: blank
+    at: [45.479, -3.0, -61.72, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756419:
+    _jan2025_candidates: [17756419, 17756375]
+    script: blank
+    at: [46.333, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756420:
+    _jan2025_candidates: [17756420, 17756376]
+    script: blank
+    at: [46.583, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756421:
+    _jan2025_candidates: [17756421, 17756377]
+    script: blank
+    at: [46.833, -3.0, -62.5, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756422:
+    _jan2025_candidates: [17756422, 17756378]
+    script: blank
+    at: [46.333, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756423:
+    _jan2025_candidates: [17756423, 17756379]
+    script: blank
+    at: [46.583, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756424:
+    _jan2025_candidates: [17756424, 17756380]
+    script: blank
+    at: [46.833, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756425:
+    _jan2025_candidates: [17756425, 17756381]
+    script: blank
+    at: [43.625, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756426:
+    _jan2025_candidates: [17756426, 17756382]
+    script: blank
+    at: [43.875, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756427:
+    _jan2025_candidates: [17756427, 17756383]
+    script: blank
+    at: [44.125, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756428:
+    _jan2025_candidates: [17756428, 17756384]
+    script: blank
+    at: [40.917, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756429:
+    _jan2025_candidates: [17756429, 17756385]
+    script: blank
+    at: [41.167, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756430:
+    _jan2025_candidates: [17756430, 17756386]
+    script: blank
+    at: [41.417, -3.0, -60.94, 63]
+    render:
+      look: {type: standard, model: 2959}
+      entity_flags: 2073
+      name_prefix: 34
+      moving: 32768
+    status: cutscene_only
+  17756436:
+    _jan2025_candidates: [17756436, 17756392]
+    script: blank
+    at: [121.354, -11.0, 171.101]
+    render:
+      look: {type: standard, model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32789
+  17756437:
+    _jan2025_candidates: [17756437, 17756393]
+    script: blank
+    at: [16.008, -2.5, 283.487, 238]
+    render:
+      look: {type: standard, model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32782
+  17756438:
+    _jan2025_candidates: [17756438, 17756394]
+    script: blank
+    at: [-4.7, -10.033, 289.524, 33]
+    render:
+      look: {type: standard, model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32775
+  17756439:
+    _jan2025_candidates: [17756439, 17756395]
+    script: blank
+    at: [-38.145, -12.5, 256.152]
+    render:
+      look: {type: standard, model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32769
+  17756440:
+    _jan2025_candidates: [17756440, 17756396]
+    script: blank
+    at: [-16.13, -12.5, 239.938, 51]
+    render:
+      look: {type: standard, model: 1248}
+      entity_flags: 2075
+      name_vis: 64
+      name_prefix: 34
+      moving: 32789
+  17756443:
+    _jan2025_candidates: [17756399, 17756444]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756444:
+    _jan2025_candidates: [17756400, 17756445]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756445:
+    _jan2025_candidates: [17756401, 17756446]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756446:
+    _jan2025_candidates: [17756402, 17756447]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756447:
+    _jan2025_candidates: [17756403, 17756448]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756448:
+    _jan2025_candidates: [17756404, 17756449]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756449:
+    _jan2025_candidates: [17756405, 17756450]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756450:
+    _jan2025_candidates: [17756406, 17756451]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756451:
+    _jan2025_candidates: [17756407, 17756452]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756452:
+    _jan2025_candidates: [17756408, 17756453]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756453:
+    _jan2025_candidates: [17756409, 17756454]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756454:
+    _jan2025_candidates: [17756410, 17756455]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756455:
+    _jan2025_candidates: [17756411, 17756456]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756456:
+    _jan2025_candidates: [17756412, 17756457]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756457:
+    _jan2025_candidates: [17756413, 17756458]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756458:
+    _jan2025_candidates: [17756414, 17756459]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756459:
+    _jan2025_candidates: [17756415, 17756460]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756460:
+    _jan2025_candidates: [17756416, 17756461]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17756465:
+    _jan2025_candidates: [17756466]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756466:
+    _jan2025_candidates: [17756467]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756467:
+    _jan2025_candidates: [17756468]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756468:
+    _jan2025_candidates: [17756469]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756471:
+    _jan2025_candidates: [17756472]
+    script: NPC[137]
+    render:
+      look: {type: standard, model: 50}
+  17756474:
+    _jan2025_candidates: [17756475]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756478:
+    _jan2025_candidates: [17756479]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756479:
+    _jan2025_candidates: [17756480]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756480:
+    _jan2025_candidates: [17756481]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17756497:
+    _jan2025_candidates: [17756498, 17756497]
+    script: blank
+    render:
+      look: {type: standard, model: 970}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only

@@ -1,0 +1,21 @@
+npcs:
+  16826581:
+    _jan2025_candidates: [16826584, 16826581]
+    script: NPC[d5]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  16826582:
+    _jan2025_candidates: [16826585, 16826582]
+    script: NPC[d6]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  16826583:
+    _jan2025_candidates: [16826586, 16826583]
+    script: NPC[d7]
+    render:
+      look: {type: standard, model: 50}

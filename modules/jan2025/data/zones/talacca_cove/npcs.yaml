@@ -1,0 +1,6 @@
+npcs:
+  17010904: null
+  17010903:
+    at: [18.846, -0.449, 176.99, 219]
+    render:
+      look: {model: null, type: equipped, race: 3, face: 0, head: 4263, body: 8359, hands: 12455, legs: 16551, feet: 20647, main: 24751, sub: 28672}

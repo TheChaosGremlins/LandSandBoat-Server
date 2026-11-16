@@ -1,0 +1,14 @@
+npcs:
+  17138451:
+    _jan2025_candidates: [17138451]
+    script: NPC[313]
+    render:
+      look: {type: standard, model: 50}
+  17138494:
+    _jan2025_candidates: [17138452, 17138494]
+    script: blank
+    render:
+      look: {type: equipped, race: 0, face: 11, head: 4123, body: 8246, hands: 12342, legs: 16438, feet: 20534, main: 24839, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only

@@ -1,0 +1,138 @@
+npcs:
+  17261128:
+    _jan2025_candidates: [17261128, 17261129]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      animation_sub: 4
+      name_vis: 4
+      moving: 1
+  17261130:
+    _jan2025_candidates: [17261131]
+    script: NPC[24a]
+    render:
+      look: {type: standard, model: 50}
+  17261153:
+    _jan2025_candidates: [17261153]
+    script: Conquest_Banner
+    at: [-479.845, -32.011, 47.526, 187]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17261161:
+    _jan2025_candidates: [17261162, 17261161]
+    script: Conquest_Banner
+    at: [-601.52, -40.755, 167.112, 52]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17261175:
+    _jan2025_candidates: [17261176, 17261175]
+    script: Logging_Point
+    display_name: Logging Point
+    at: [398.1, 0.188, 310.974]
+    render:
+      look: {type: standard, model: 2423}
+      moving: 32775
+    status: normal
+  17261184:
+    _jan2025_candidates: [17261185, 17261186]
+    script: Beastmens_Banner
+    display_name: Beastmen's Banner
+    at: [101.491, -23.093, 199.798, 218]
+    render:
+      look: {type: standard, model: 817}
+      moving: 1
+    status: normal
+  17261190:
+    _jan2025_candidates: [17261191]
+    script: NPC[286]
+    render:
+      look: {type: standard, model: 50}
+    speed: 40
+    animation_speed: 40
+  17261203:
+    _jan2025_candidates: [17261203]
+    script: Field_Manual
+    display_name: Field Manual
+    at: [-474.5, -32.206, 47.284, 61]
+    render:
+      look: {type: standard, model: 2290}
+      name_vis: 32
+      moving: 1
+    status: normal
+    widescan: true
+    content: field_manuals
+  17261206:
+    _jan2025_candidates: [17261207]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [445.56, 0.28, -319.43]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17261207:
+    _jan2025_candidates: [17261208]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [441.98, 0.0, 199.85]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17261208:
+    _jan2025_candidates: [17261209]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [19.24, -16.4, 92.74]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17261210:
+    _jan2025_candidates: [17261211, 17261212]
+    script: Mog-Tablet
+    display_name: Mog-Tablet
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17261215:
+    _jan2025_candidates: [17261216]
+    script: Reinhard
+    display_name: Reinhard
+    render:
+      look: {type: equipped, race: 1, face: 8, head: 4348, body: 8456, hands: 12489, legs: 16569, feet: 20738, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17261219:
+    _jan2025_candidates: [17261220, 17261219]
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [80.0, 0.049, -195.0]
+    render:
+      look: {type: standard, model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    status: normal
+    widescan: true
+    content: voidwatch

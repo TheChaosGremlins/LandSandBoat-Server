@@ -1,0 +1,67 @@
+npcs:
+  17035556:
+    _jan2025_candidates: [17035556, 17035485]
+    script: _jrf
+    at: [218.8, -32.843, -19.994]
+    render:
+      look: {type: door}
+      door_id: 1718774367
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17035557:
+    _jan2025_candidates: [17035557, 17035486]
+    script: _jrg
+    at: [299.0, -32.907, -20.0]
+    render:
+      look: {type: door}
+      door_id: 1735551583
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17035558:
+    _jan2025_candidates: [17035558, 17035487]
+    script: _jri
+    at: [260.0, -32.874, -99.0]
+    render:
+      look: {type: door}
+      door_id: 1769106015
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17035559:
+    _jan2025_candidates: [17035559, 17035488]
+    script: _jrh
+    at: [420.0, -53.019, 21.0]
+    render:
+      look: {type: door}
+      door_id: 1752328799
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17035560:
+    _jan2025_candidates: [17035560, 17035489]
+    script: _jrj
+    at: [420.0, -32.892, -259.0]
+    render:
+      look: {type: door}
+      door_id: 1785883231
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+  17035561:
+    _jan2025_candidates: [17035561, 17035490]
+    script: _jrk
+    at: [460.0, -32.977, -59.0]
+    render:
+      look: {type: door}
+      door_id: 1802660447
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal

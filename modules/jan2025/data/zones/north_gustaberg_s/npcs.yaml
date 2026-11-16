@@ -1,0 +1,10 @@
+npcs:
+  17138493: null
+  17138494: null
+  17138451:
+    script: blank
+    render:
+      look: {model: null, type: equipped, race: 0, face: 0, head: 4123, body: 8246, hands: 12342, legs: 16438, feet: 20534, main: 24838, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only

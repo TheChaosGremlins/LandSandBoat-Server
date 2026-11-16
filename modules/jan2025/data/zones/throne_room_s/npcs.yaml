@@ -1,0 +1,20 @@
+npcs:
+  17416257: null
+  17416261: null
+  17416272: null
+  17416280: null
+  17416258: {script: 'NPC[41]'}
+  17416262: {script: 'NPC[45]'}
+  17416263: {script: 'NPC[46]'}
+  17416264: {script: 'NPC[47]'}
+  17416265: {script: 'NPC[48]'}
+  17416266: {script: 'NPC[49]'}
+  17416267: {script: 'NPC[4a]'}
+  17416268: {script: 'NPC[4b]'}
+  17416273:
+    script: NPC[50]
+    render: {name_vis: 4}
+  17416281: {script: 'NPC[58]'}
+  17416282: {script: 'NPC[59]'}
+  17416283: {script: 'NPC[5a]'}
+  17416284: {script: 'NPC[5b]'}

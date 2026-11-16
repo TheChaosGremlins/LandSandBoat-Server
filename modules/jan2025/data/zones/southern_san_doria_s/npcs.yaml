@@ -1,0 +1,67 @@
+npcs:
+  17105300: null
+  17105309: null
+  17105311: null
+  17105699: null
+  17105700: null
+  17105703: null
+  17105707: null
+  17105708: null
+  17105301: {script: 'NPC[194]'}
+  17105302: {script: 'NPC[195]'}
+  17105303: {script: 'NPC[196]'}
+  17105304: {script: 'NPC[197]'}
+  17105305: {script: 'NPC[198]'}
+  17105306: {script: 'NPC[199]'}
+  17105307: {script: 'NPC[19a]'}
+  17105312:
+    speed: null
+    animation_speed: null
+    script: NPC[19f]
+    render: {name_vis: 4}
+  17105701:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [82.0, 1.0, -68.0, 64]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2433}
+      name_vis: 32
+      moving: 21
+    content: survival_guide
+  17105702:
+    script: Cyranda
+    display_name: Cyranda
+    at: [-74.532, 1.999, -55.324, 151]
+    render:
+      look: {model: null, type: equipped, race: 4, face: 2, head: 4114, body: 8213, hands: 12288, legs: 16392, feet: 20497, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 14
+    status: normal
+    widescan: true
+  17105705:
+    display_name: null
+    at: null
+    widescan: null
+    script: blank
+    render:
+      name_vis: null
+      moving: null
+      look: {model: 2450}
+      name_prefix: 32
+    status: cutscene_only
+  17105706:
+    script: Mystic_Retriever
+    display_name: Mystic Retriever
+    at: [144.799, -2.0, 121.249, 90]
+    render:
+      look: {model: 2326}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 34
+      moving: 32769
+    status: normal
+    widescan: true

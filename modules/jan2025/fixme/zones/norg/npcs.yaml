@@ -1,0 +1,8 @@
+npcs:
+  17809541:
+    _jan2025_candidates: [17809541]
+    script: qm3
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051

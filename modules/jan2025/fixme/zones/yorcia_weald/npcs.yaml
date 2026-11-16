@@ -1,0 +1,43 @@
+npcs:
+  17854906:
+    _jan2025_candidates: [17854908, 17854906]
+    script: NPC[1ba]
+    render:
+      look: {type: standard, model: 2779}
+      entity_flags: 2075
+      name_vis: 104
+      name_prefix: 34
+      moving: 1
+  17854907:
+    _jan2025_candidates: [17854909, 17854907]
+    script: NPC[1bb]
+    render:
+      look: {type: standard, model: 2779}
+      entity_flags: 2075
+      name_vis: 104
+      name_prefix: 34
+      moving: 1
+  17854970:
+    _jan2025_candidates: [17854970, 17854969]
+    script: _7br
+    at: [-19.985, -3.899, -399.791]
+    render:
+      look: {type: door}
+      door_id: 1919039327
+      entity_flags: 6147
+      animation: open_door
+      name_vis: 8
+      moving: 1
+    status: normal
+  17854975:
+    _jan2025_candidates: [17854974]
+    script: _7bw
+    at: [260.131, -2.654, -200.473]
+    render:
+      look: {type: door}
+      door_id: 2002925407
+      entity_flags: 6147
+      animation: open_door
+      name_vis: 8
+      moving: 1
+    status: normal

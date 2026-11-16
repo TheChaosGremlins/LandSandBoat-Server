@@ -1,0 +1,171 @@
+npcs:
+  17723822: null
+  17723826: null
+  17723830: null
+  17723831: null
+  17723832: null
+  17723854: null
+  17723820:
+    at: null
+    content: null
+    script: Excenmille
+    display_name: Excenmille
+    render:
+      moving: null
+      look: {model: null, type: equipped, race: 3, face: 2, head: 4096, body: 8254, hands: 12350, legs: 16444, feet: 20540, main: 24785, sub: 28672}
+    status: cutscene_only
+  17723821:
+    status: null
+    widescan: null
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 50}
+    content: soa
+  17723823:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [-174.0, 4.0, 80.0]
+    render:
+      look: {model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 1
+    status: normal
+    widescan: true
+    content: survival_guide
+  17723824:
+    at: null
+    status: null
+    widescan: null
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      animation_sub: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17723825:
+    display_name: null
+    content: null
+    script: blank
+    render: {name_vis: null}
+  17723827:
+    at: null
+    script: Lion
+    display_name: Lion
+    render:
+      look: {model: 60}
+  17723828:
+    script: Zeid
+    display_name: Zeid
+    render:
+      look: {model: 830}
+  17723829:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      look: {model: 2450}
+  17723833:
+    script: Balamor
+    display_name: Balamor
+    render:
+      look: {model: 2742}
+  17723834:
+    widescan: null
+    script: qm9
+    display_name: ???
+    render:
+      look: {model: 1542}
+  17723835:
+    display_name: null
+    status: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {model: 52}
+      entity_flags: 2051
+  17723837:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {model: null, type: equipped, race: 8, face: 6, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17723845:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+  17723847:
+    script: Ephemeral_Moogle_Wood
+    display_name: Ephemeral Moogle
+    at: [-176.09, 12.0, 268.91, 79]
+    render:
+      look: {model: 82}
+      name_vis: 128
+      moving: 1
+    status: normal
+    widescan: true
+    content: soa
+  17723848:
+    script: Ephemeral_Moogle_Smith
+    at: [-186.44, 12.0, 140.31, 197]
+    render: {moving: 21}
+  17723849:
+    script: Luren
+    display_name: Luren
+    at: [-171.71, 12.0, 258.7, 178]
+    render:
+      name_vis: null
+      look: {model: null, type: equipped, race: 2, face: 4, head: 4096, body: 8309, hands: 12405, legs: 16384, feet: 20488, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 14
+    content: rov
+  17723850:
+    script: Ore_Guzzler
+    display_name: Ore Guzzler
+    at: [-180.0, 12.0, 143.0, 147]
+    render:
+      look: {race: 8, face: 5, body: 8310, hands: 12406, feet: 20495}
+      moving: 7
+  17723851:
+    widescan: null
+    script: AMAN_Liaison
+    display_name: A.M.A.N. Liaison
+    at: [114.2, 0.0, -10.07, 163]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: 4, face: 1, head: 4215, body: 8295, hands: 12392, legs: 16486, feet: 20584}
+      name_vis: 1
+      moving: 1
+    content: soa
+  17723852:
+    script: Linkshell_Concierge
+    display_name: Linkshell Concierge
+    at: [76.26, 0.0, 9.7, 223]
+    render:
+      name_vis: null
+      look: {race: 2, face: 3, head: 4242, body: 8231, hands: 12296, feet: 20576}
+      moving: 21
+    widescan: true
+  17723853:
+    script: Chat_Manual
+    display_name: Chat Manual
+    at: [77.48, 0.0, 8.48, 223]
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2290}
+      name_vis: 96
+      moving: 1

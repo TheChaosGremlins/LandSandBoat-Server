@@ -1,0 +1,254 @@
+npcs:
+  17244585:
+    _jan2025_candidates: [17244585, 17244601]
+    script: Gleeful_Alicorn
+    display_name: Gleeful Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17244586:
+    _jan2025_candidates: [17244586, 17244602]
+    script: Jubilant_Alicorn
+    display_name: Jubilant Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17244587:
+    _jan2025_candidates: [17244587, 17244603]
+    script: Joyous_Alicorn
+    display_name: Joyous Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17244588:
+    _jan2025_candidates: [17244588, 17244604]
+    script: Joyful_Alicorn
+    display_name: Joyful Alicorn
+    render:
+      look: {type: standard, model: 50}
+    status: cutscene_only
+    widescan: true
+  17244589:
+    _jan2025_candidates: [17244589, 17244605]
+    script: NPC[1ad]
+    render:
+      look: {type: standard, model: 50}
+  17244590:
+    _jan2025_candidates: [17244590, 17244606]
+    script: NPC[1ae]
+    render:
+      look: {type: standard, model: 50}
+  17244591:
+    _jan2025_candidates: [17244591, 17244607]
+    script: NPC[1af]
+    render:
+      look: {type: standard, model: 50}
+  17244592:
+    _jan2025_candidates: [17244592, 17244608]
+    script: NPC[1b0]
+    render:
+      look: {type: standard, model: 50}
+  17244593:
+    _jan2025_candidates: [17244593, 17244609]
+    script: NPC[1b1]
+    render:
+      look: {type: standard, model: 50}
+  17244594:
+    _jan2025_candidates: [17244594, 17244610]
+    script: NPC[1b2]
+    render:
+      look: {type: standard, model: 50}
+  17244611:
+    _jan2025_candidates: [17244611, 17244612]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      entity_flags: 2051
+      animation_sub: 4
+      name_vis: 12
+      moving: 7
+  17244613:
+    _jan2025_candidates: [17244614]
+    script: NPC[1c5]
+    render:
+      look: {type: standard, model: 50}
+  17244616:
+    _jan2025_candidates: [17244617]
+    script: NPC[1c8]
+    at: [0.0, -8.5, 0.0]
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 1
+  17244617:
+    _jan2025_candidates: [17244618]
+    script: NPC[1c9]
+    at: [0.0, -8.5, 0.0]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17244618:
+    _jan2025_candidates: [17244619]
+    script: NPC[1ca]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4
+  17244620:
+    _jan2025_candidates: [17244621]
+    script: Dimensional_Portal
+    display_name: Dimensional Portal
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17244621:
+    _jan2025_candidates: [17244622]
+    script: Shattered_Telepoint
+    display_name: Shattered Telepoint
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17244626:
+    _jan2025_candidates: [17244627, 17244629]
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 2051
+      moving: 1
+  17244630:
+    _jan2025_candidates: [17244630]
+    script: Conquest_Banner
+    at: [-258.479, 8.538, -256.276, 239]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+    status: normal
+  17244638:
+    _jan2025_candidates: [17244639, 17244638]
+    script: Conquest_Banner
+    at: [228.186, -11.212, 259.842, 154]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+    status: normal
+  17244642:
+    _jan2025_candidates: [17244642, 17244650]
+    script: NPC[1e2]
+    render:
+      look: {type: standard, model: 50}
+  17244652:
+    _jan2025_candidates: [17244653]
+    script: Beastmens_Banner
+    display_name: Beastmen's Banner
+    at: [27.934, -10.061, 398.64, 126]
+    render:
+      look: {type: standard, model: 817}
+      moving: 1
+    status: normal
+  17244653:
+    _jan2025_candidates: [17244654]
+    script: NPC[1ed]
+    render:
+      look: {type: standard, model: 50}
+  17244655:
+    _jan2025_candidates: [17244656, 17244655]
+    script: blank
+    at: [-56.281, 3.949, 233.872, 110]
+    render:
+      look: {type: standard, model: 86}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 1
+    status: normal
+  17244656:
+    _jan2025_candidates: [17244657, 17244656]
+    script: Lokpix
+    display_name: Lokpix
+    at: [-55.499, 3.949, 224.154, 128]
+    render:
+      look: {type: standard, model: 85}
+      entity_flags: 27
+      name_prefix: 32
+      moving: 32790
+    status: normal
+    widescan: true
+    content: abyssea
+  17244657:
+    _jan2025_candidates: [17244658, 17244657]
+    script: Field_Manual
+    display_name: Field Manual
+    at: [472.69, -1.165, -63.307, 66]
+    render:
+      look: {type: standard, model: 2290}
+      name_vis: 32
+      moving: 15
+    status: normal
+    widescan: true
+    content: field_manuals
+  17244661:
+    _jan2025_candidates: [17244662]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [-70.51, 7.76, -327.51]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17244662:
+    _jan2025_candidates: [17244663]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [246.38, -10.04, 412.06]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17244663:
+    _jan2025_candidates: [17244664]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [344.5, 0.97, -211.23]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17244665:
+    _jan2025_candidates: [17244666]
+    script: Mog-Tablet
+    display_name: Mog-Tablet
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17244666:
+    _jan2025_candidates: [17244667]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17244667:
+    _jan2025_candidates: [17244668]
+    script: Summoner
+    display_name: Summoner
+    render:
+      look: {type: standard, model: 50}
+    widescan: true

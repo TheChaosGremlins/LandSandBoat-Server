@@ -1,0 +1,5 @@
+npcs:
+  17461505: null
+  17461510:
+    script: NPC[101]
+    render: {name_vis: null}

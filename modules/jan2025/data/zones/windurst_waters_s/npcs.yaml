@@ -1,0 +1,27 @@
+npcs:
+  17162630: null
+  17162662: null
+  17162673: null
+  17162773: null
+  17162774: null
+  17162775: null
+  17162632: {script: 'NPC[186]'}
+  17162663: {script: 'NPC[1a6]'}
+  17162664: {script: 'NPC[1a7]'}
+  17162665: {script: 'NPC[1a8]'}
+  17162666: {script: 'NPC[1a9]'}
+  17162667: {script: 'NPC[1aa]'}
+  17162668: {script: 'NPC[1ab]'}
+  17162669: {script: 'NPC[1ac]'}
+  17162674:
+    script: NPC[1b1]
+    render: {name_vis: 4}
+  17163025:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      look: {face: 14, body: 8329, legs: 16400, feet: 20496, main: 24860}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only

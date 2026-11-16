@@ -1,0 +1,47 @@
+npcs:
+  17834159: null
+  17834199: null
+  17834200: null
+  17834203: null
+  17834160: {script: 'NPC[af]'}
+  17834161: {script: 'NPC[b0]'}
+  17834162: {script: 'NPC[b1]'}
+  17834163: {script: 'NPC[b2]'}
+  17834164:
+    script: NPC[b3]
+    render:
+      look: {model: 2778}
+  17834165: {script: 'NPC[b4]'}
+  17834166: {script: 'NPC[b5]'}
+  17834167: {script: 'NPC[b6]'}
+  17834168: {script: 'NPC[b7]'}
+  17834169: {script: 'NPC[b8]'}
+  17834170: {script: 'NPC[b9]'}
+  17834171: {script: 'NPC[ba]'}
+  17834172: {script: 'NPC[bb]'}
+  17834173: {script: 'NPC[bc]'}
+  17834174: {script: 'NPC[bd]'}
+  17834175: {script: 'NPC[be]'}
+  17834176: {script: 'NPC[bf]'}
+  17834177: {script: 'NPC[c0]'}
+  17834178: {script: 'NPC[c1]'}
+  17834179: {script: 'NPC[c2]'}
+  17834180:
+    script: NPC[c3]
+    render:
+      animation_sub: null
+      look: {model: 2779}
+  17834181: {script: 'NPC[c4]'}
+  17834182: {script: 'NPC[c5]'}
+  17834183: {script: 'NPC[c6]'}
+  17834184: {script: 'NPC[c7]'}
+  17834185: {script: 'NPC[c8]'}
+  17834186: {script: 'NPC[c9]'}
+  17834201:
+    script: NPC[d7]
+    render: {name_vis: null, moving: 1}
+    speed: 40
+    animation_speed: 40
+  17834202:
+    script: NPC[d9]
+    render: {name_vis: 4}

@@ -1,0 +1,10 @@
+npcs:
+  17809544: null
+  17809541:
+    display_name: null
+    script: blank
+    render:
+      look: {model: 326}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only

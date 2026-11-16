@@ -1,0 +1,3 @@
+npcs:
+  17126061: null
+  17126062: {script: 'NPC[2ad]'}

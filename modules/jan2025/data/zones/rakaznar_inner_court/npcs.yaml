@@ -1,0 +1,6 @@
+npcs:
+  17908254: null
+  17908253:
+    script: _7ob
+    at: [-403.85, -522.0, -380.0]
+    render: {door_id: 1651455839, entity_flags: 4099}

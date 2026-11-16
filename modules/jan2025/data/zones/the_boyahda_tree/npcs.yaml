@@ -1,0 +1,256 @@
+npcs:
+  17404356: null
+  17404375: null
+  17404377: null
+  17404382: null
+  17404387: null
+  17404396: null
+  17404401: null
+  17404406: null
+  17404409: null
+  17404412: null
+  17404413: null
+  17404418: null
+  17404419: null
+  17404420: null
+  17404421: null
+  17404422: null
+  17404424: null
+  17404425: null
+  17404426: null
+  17404427: null
+  17404428: null
+  17404429: null
+  17404430: null
+  17404431: null
+  17404432: null
+  17404433: null
+  17404434: null
+  17404435: null
+  17404436: null
+  17404437: null
+  17404438: null
+  17404439: null
+  17404440: null
+  17404441: null
+  17404442: null
+  17404443: null
+  17404444: null
+  17404357:
+    script: qm1
+    display_name: ???
+    at: [-11.077, -19.331, -176.733]
+    render:
+      look: {model: 52}
+      moving: 1
+    status: normal
+  17404358:
+    at: null
+    status: null
+    script: Treasure_Casket
+    display_name: Treasure Casket
+    render:
+      moving: null
+      look: {model: 965}
+      animation_sub: 4
+      name_vis: 4
+  17404374:
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      animation_sub: null
+      name_vis: null
+      look: {model: 50}
+    content: soa
+  17404376:
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17404378:
+    display_name: null
+    widescan: null
+    script: NPC[1dd]
+    at: [0.0, -19.591, 0.0]
+    render:
+      look: {model: 2348}
+      entity_flags: 129
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+  17404379:
+    script: NPC[1de]
+    at: [0.0, -19.59, 0.0]
+    render:
+      look: {type: standard, model: 2348}
+      name_vis: 4
+  17404381:
+    speed: null
+    animation_speed: null
+    script: blank
+    at: [5.0, 0.0, 0.0]
+    render:
+      name_vis: null
+      look: {model: 36}
+      entity_flags: 2075
+      name_prefix: 32
+      moving: 1
+  17404383:
+    script: Mandragora_Warden_Left
+    display_name: Mandragora Warden
+    at: [99.068, 8.548, 122.514, 71]
+    render:
+      look: {model: 300}
+      entity_flags: 27
+      moving: 16
+    status: normal
+    widescan: true
+  17404385:
+    widescan: null
+    script: qm2
+    display_name: ???
+    at: [34.651, -20.183, -61.647, 134]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 52}
+      moving: 1
+  17404386:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {model: 50}
+      entity_flags: 2051
+      moving: 1
+  17404388:
+    script: Moogle
+    display_name: Moogle
+    render:
+      moving: null
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+  17404389:
+    script: Moogle
+    display_name: Moogle
+    render:
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+  17404397:
+    speed: null
+    animation_speed: null
+    script: Zonpa-Zippa
+    display_name: Zonpa-Zippa
+    at: [113.789, 8.531, 139.662, 132]
+    render:
+      look: {model: 163}
+      entity_flags: 29
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17404398:
+    script: Karaha-Baruha
+    display_name: Karaha-Baruha
+    at: [145.058, 12.999, -15.836, 34]
+    render:
+      moving: null
+      look: {model: 922}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17404399:
+    script: Spare_Zero
+    display_name: Spare Zero
+    at: [0.417, -4.101, -24.964, 64]
+    render:
+      look: {model: 77}
+      entity_flags: 27
+      moving: 32768
+  17404400:
+    script: Spare_Two
+    display_name: Spare Two
+    at: [-3.052, -4.101, -24.805, 67]
+    render:
+      look: {model: 77}
+      moving: 32768
+  17404402:
+    display_name: null
+    widescan: null
+    script: blank
+    at: [-4.755, -3.749, -25.191, 253]
+    render: {moving: null}
+  17404404:
+    script: Ramblix
+    display_name: Ramblix
+    at: [409.339, 6.806, -56.639, 108]
+    render:
+      look: {model: 85}
+    widescan: true
+  17404405:
+    script: Goblin_Footprint
+    display_name: Goblin Footprint
+    at: [409.339, 6.806, -56.639, 108]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 52}
+      moving: 1
+    status: normal
+  17404407:
+    script: Planar_Rift
+    display_name: Planar Rift
+    at: [120.0, 8.9, 96.0]
+    render:
+      look: {model: 2415}
+      animation_sub: 5
+      name_vis: 100
+      name_prefix: 2
+    widescan: true
+    content: voidwatch
+  17404410:
+    status: null
+    script: Riftworn_Pyxis
+    display_name: Riftworn Pyxis
+    at: [120.1, 8.9, 96.0]
+    render:
+      look: {model: 969}
+      animation_sub: 4
+  17404416:
+    script: Geomagnetic_Fount
+    display_name: Geomagnetic Fount
+    at: [25.111, 5.771, 131.153]
+    render:
+      name_vis: null
+      look: {model: 52}
+      moving: 1
+    content: soa
+  17404417:
+    script: HomePoint#1
+    display_name: 'Home Point #1'
+    at: [88.0, -15.42, -217.0]
+    render:
+      name_vis: null
+      look: {model: 51}
+      moving: 1
+    content: soa
+  17404423:
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [50.86, -18.21, -154.58]
+    render:
+      look: {model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal

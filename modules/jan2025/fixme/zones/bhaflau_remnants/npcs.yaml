@@ -1,0 +1,14 @@
+npcs:
+  17084905:
+    _jan2025_candidates: [17084905, 17084904]
+    script: _23f
+    display_name: Gilded Doors
+    at: [500.0, -2.012, 320.0]
+    render:
+      look: {type: door}
+      door_id: 1714631263
+      entity_flags: 4099
+      animation: close_door
+      moving: 1
+    status: normal
+    content: toau

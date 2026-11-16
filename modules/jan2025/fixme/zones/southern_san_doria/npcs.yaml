@@ -1,0 +1,359 @@
+npcs:
+  17719580:
+    _jan2025_candidates: [17720000, 17719580]
+    script: blank
+    render:
+      look: {type: chocobo, race: 0, face: 32, body: 1}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+  17719581:
+    _jan2025_candidates: [17720001, 17719581]
+    script: blank
+    render:
+      look: {type: chocobo, race: 0, face: 32, body: 1}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+  17719582:
+    _jan2025_candidates: [17720002, 17719582]
+    script: blank
+    render:
+      look: {type: chocobo, race: 0, face: 32, body: 1}
+      entity_flags: 25
+      name_prefix: 32
+    status: cutscene_only
+  17719583:
+    _jan2025_candidates: [17720003, 17719583]
+    script: blank
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17719960:
+    _jan2025_candidates: [17719960]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719961:
+    _jan2025_candidates: [17719961]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719962:
+    _jan2025_candidates: [17719962]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719963:
+    _jan2025_candidates: [17719963]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719964:
+    _jan2025_candidates: [17719964]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719965:
+    _jan2025_candidates: [17719965]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719970:
+    _jan2025_candidates: [17719970]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719971:
+    _jan2025_candidates: [17719971]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719973:
+    _jan2025_candidates: [17719973, 17719988]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719974:
+    _jan2025_candidates: [17719974, 17719989]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719975:
+    _jan2025_candidates: [17719975, 17719990]
+    script: Shard_of_Sunlight
+    display_name: Shard of Sunlight
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 34
+    status: cutscene_only
+    widescan: true
+  17719976:
+    _jan2025_candidates: [17719976, 17719991]
+    script: Abenzio
+    display_name: Abenzio
+    render:
+      look: {type: standard, model: 296}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719977:
+    _jan2025_candidates: [17719977, 17719992]
+    script: Bryher
+    display_name: Bryher
+    render:
+      look: {type: standard, model: 380}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719978:
+    _jan2025_candidates: [17719978, 17719993]
+    script: Camlin
+    display_name: Camlin
+    render:
+      look: {type: standard, model: 372}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719979:
+    _jan2025_candidates: [17719979, 17719994]
+    script: Darach
+    display_name: Darach
+    render:
+      look: {type: standard, model: 395}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719980:
+    _jan2025_candidates: [17719980, 17719995]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719981:
+    _jan2025_candidates: [17719981, 17719996]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719982:
+    _jan2025_candidates: [17719982, 17719997]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719983:
+    _jan2025_candidates: [17719983, 17719998]
+    script: Babbans_Progeny
+    display_name: Babban's Progeny
+    render:
+      look: {type: standard, model: 300}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719984:
+    _jan2025_candidates: [17719984, 17719999]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17719985:
+    _jan2025_candidates: [17719985, 17720000]
+    script: Gondebaud
+    display_name: Gondebaud
+    at: [123.754, 0.0, 92.125, 237]
+    render:
+      look: {type: equipped, race: 3, face: 15, head: 4422, body: 8216, hands: 12370, legs: 16568, feet: 20613, main: 24576, sub: 28672}
+      entity_flags: 27
+      animation_sub: 1
+      name_prefix: 32
+      moving: 15
+    status: normal
+    content: trust_quests
+  17719986:
+    _jan2025_candidates: [17719986, 17720001]
+    script: Mystic_Retriever
+    display_name: Mystic Retriever
+    at: [122.27, 0.0, 93.6, 237]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 96
+      name_prefix: 34
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17719988:
+    _jan2025_candidates: [17720003]
+    script: NPC[2b4]
+    render:
+      look: {type: standard, model: 50}
+  17719991:
+    _jan2025_candidates: [17720006]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17719995:
+    _jan2025_candidates: [17720010]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719996:
+    _jan2025_candidates: [17720011]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719997:
+    _jan2025_candidates: [17720012]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17719999:
+    _jan2025_candidates: [17720014, 17719999]
+    script: qm28
+    display_name: ???
+    render:
+      look: {type: standard, model: 1542}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17720015:
+    _jan2025_candidates: [17720030, 17720029]
+    script: Enigmatic_Footprints_#2
+    display_name: 'Enigmatic Footprints #2'
+    at: [85.45, 1.0, -66.22]
+    render:
+      look: {type: standard, model: 2326}
+      name_vis: 112
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    widescan: true
+    content: tvr
+  17720020:
+    _jan2025_candidates: [17720034]
+    script: blank
+    at: [-35.66, 0.0, 31.955, 33]
+    render:
+      look: {type: standard, model: 2478}
+      entity_flags: 2051
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+  17720021:
+    _jan2025_candidates: [17720035]
+    script: Tales_Beginning
+    display_name: Tales' Beginning
+    at: [-35.66, 0.0, 31.955, 33]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+    widescan: true
+    content: tvr

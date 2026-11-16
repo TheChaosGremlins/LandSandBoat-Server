@@ -1,0 +1,214 @@
+npcs:
+  17203801:
+    _jan2025_candidates: [17203801, 17203802]
+    script: Treasure_Coffer
+    display_name: Treasure Coffer
+    render:
+      look: {type: standard, model: 965}
+      animation_sub: 4
+      name_vis: 4
+      moving: 1
+  17203803:
+    _jan2025_candidates: [17203804]
+    script: NPC[25b]
+    render:
+      look: {type: standard, model: 50}
+  17203828:
+    _jan2025_candidates: [17203829]
+    script: San_dOrian_Pursuivant
+    display_name: San d'Orian Pursuivant
+    render:
+      look: {type: equipped, race: 3, face: 15, head: 4108, body: 8303, hands: 12300, legs: 16396, feet: 20492, main: 24841, sub: 28709}
+      animation_sub: 64
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17203851:
+    _jan2025_candidates: [17203851]
+    script: Conquest_Banner
+    at: [61.626, 0.398, -13.266, 187]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17203859:
+    _jan2025_candidates: [17203860, 17203859]
+    script: Conquest_Banner
+    at: [571.973, -2.098, 553.809, 148]
+    render:
+      look: {type: standard, model: 814}
+      entity_flags: 2051
+      moving: 1
+  17203864:
+    _jan2025_candidates: [17203865, 17203864]
+    script: Logging_Point
+    display_name: Logging Point
+    at: [267.331, -2.011, 335.318]
+    render:
+      look: {type: standard, model: 2423}
+      moving: 32775
+    status: normal
+  17203872:
+    _jan2025_candidates: [17203873, 17203874]
+    script: qm2
+    display_name: ???
+    at: [-10.946, -1.0, 313.81, 154]
+    render:
+      look: {type: standard, model: 52}
+      moving: 32769
+    status: normal
+  17203873:
+    _jan2025_candidates: [17203874, 17203875]
+    script: Beastmens_Banner
+    display_name: Beastmen's Banner
+    at: [600.809, 0.872, 217.453, 130]
+    render:
+      look: {type: standard, model: 817}
+      moving: 1
+    status: normal
+  17203880:
+    _jan2025_candidates: [17203881]
+    script: qm3
+    display_name: ???
+    at: [-155.925, 0.474, 492.796, 187]
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+    status: normal
+  17203881:
+    _jan2025_candidates: [17203882]
+    script: blank
+    render:
+      look: {type: equipped, race: 0, face: 0, head: 4101, body: 8197, hands: 12293, legs: 16389, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17203885:
+    _jan2025_candidates: [17203886]
+    script: blank
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+  17203896:
+    _jan2025_candidates: [17203897, 17203896]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [84.97, 0.33, -201.37]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17203898:
+    _jan2025_candidates: [17203898, 17203899]
+    script: Ethereal_Junction
+    display_name: Ethereal Junction
+    at: [312.66, -15.8, -515.32]
+    render:
+      look: {type: standard, model: 2447}
+      animation_sub: 5
+      name_vis: 116
+      moving: 32769
+    status: normal
+    widescan: true
+    content: soa
+  17203900:
+    _jan2025_candidates: [17203901, 17203902]
+    script: Mog-Tablet
+    display_name: Mog-Tablet
+    render:
+      look: {type: standard, model: 50}
+    widescan: true
+  17203904:
+    _jan2025_candidates: [17203905]
+    script: Bostillette
+    display_name: Bostillette
+    render:
+      look: {type: equipped, race: 4, face: 7, head: 4215, body: 8303, hands: 12406, legs: 16533, feet: 20629, main: 24692, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17203905:
+    _jan2025_candidates: [17203906]
+    script: Maxcimille
+    display_name: Maxcimille
+    render:
+      look: {type: equipped, race: 3, face: 2, head: 4096, body: 8254, hands: 12350, legs: 16444, feet: 20540, main: 24785, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17203906:
+    _jan2025_candidates: [17203907]
+    script: qm6
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+    status: cutscene_only
+  17203907:
+    _jan2025_candidates: [17203908]
+    script: Alphonimile
+    display_name: Alphonimile
+    render:
+      look: {type: equipped, race: 3, face: 2, head: 4096, body: 8252, hands: 12505, legs: 16601, feet: 20697, main: 24645, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17203908:
+    _jan2025_candidates: [17203909]
+    script: gare
+    display_name: gare
+    render:
+      look: {type: equipped, race: 4, face: 15, head: 4227, body: 8355, hands: 12451, legs: 16547, feet: 20643, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17203930:
+    _jan2025_candidates: [17203931]
+    script: qm7
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17203931:
+    _jan2025_candidates: [17203932]
+    script: qm8
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17203932:
+    _jan2025_candidates: [17203933]
+    script: qm9
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17203933:
+    _jan2025_candidates: [17203934]
+    script: qm10
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17203934:
+    _jan2025_candidates: [17203935]
+    script: qm11
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+  17203942:
+    _jan2025_candidates: [17203942]
+    script: Riftworn_Pyxis
+    display_name: Riftworn Pyxis
+    at: [78.1, 0.0, 118.0, 224]
+    render:
+      look: {type: standard, model: 969}
+      animation_sub: 4
+      name_vis: 100
+      name_prefix: 2
+      moving: 1
+    widescan: true
+    content: voidwatch

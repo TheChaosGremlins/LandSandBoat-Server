@@ -1,0 +1,80 @@
+npcs:
+  17772857: null
+  17772861: null
+  17772862: null
+  17772870: null
+  17772871: null
+  17772872: null
+  17772873: null
+  17772874: null
+  17772875: null
+  17772876: null
+  17772854:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [43.0, 10.0, -69.0, 128]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 1
+    content: survival_guide
+  17772855:
+    at: null
+    status: null
+    widescan: null
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      animation_sub: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17772856:
+    script: Resume_Point
+    display_name: Resume Point
+    at: [-33.496, 2.002, 65.441, 204]
+    render:
+      look: {model: 2326}
+      entity_flags: 27
+      name_prefix: 34
+      moving: 32769
+    status: normal
+    widescan: true
+  17772859:
+    script: Tenzen
+    display_name: Tenzen
+    render:
+      look: {model: 1442}
+  17772860:
+    script: Kagero
+    display_name: Kagero
+    render:
+      look: {model: null, type: equipped, race: 2, face: 14, head: 4184, body: 8280, hands: 12376, legs: 16472, feet: 20568, main: 24886, sub: 28672}
+  17772868:
+    at: null
+    status: null
+    content: null
+    script: Layer_Reserve
+    display_name: Layer Reserve
+    render:
+      name_prefix: null
+      look: {model: 50}
+      moving: 1
+    widescan: true
+  17772869:
+    display_name: null
+    at: null
+    status: null
+    widescan: null
+    content: null
+    script: blank
+    render:
+      name_prefix: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051

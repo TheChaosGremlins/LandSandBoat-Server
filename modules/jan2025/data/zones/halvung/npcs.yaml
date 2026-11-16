@@ -1,0 +1,8 @@
+npcs:
+  17031619: null
+  17031620: null
+  17031621: null
+  17031622:
+    script: NPC[1c5]
+    render: {name_vis: 4}
+  17031623: {script: 'NPC[1c6]'}

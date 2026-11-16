@@ -1,0 +1,60 @@
+npcs:
+  17428860: null
+  17428861: null
+  17428862: null
+  17428863: null
+  17428864: null
+  17428865: null
+  17428866: null
+  17428874: null
+  17428867:
+    script: qm4
+    at: [-60.173, -0.937, 5.107]
+  17428868:
+    script: qm_crimson_pawberry
+    at: [-39.975, -24.499, 29.037]
+  17428869:
+    content: null
+    script: qm6
+    at: [300.188, 1.495, 258.202]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}
+  17428870:
+    content: null
+    script: qm7
+    at: [50.273, -1.176, -71.042]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}
+  17428871:
+    content: null
+    script: qm8
+    at: [-57.434, -8.484, 55.317]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}
+  17428872:
+    content: null
+    script: qm9
+    at: [218.242, -8.107, 205.827]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}
+  17428873:
+    content: null
+    script: qm_sozu_rogberry
+    at: [220.57, -8.691, 259.923]
+    render:
+      entity_flags: null
+      name_vis: null
+      name_prefix: null
+      look: {model: 52}

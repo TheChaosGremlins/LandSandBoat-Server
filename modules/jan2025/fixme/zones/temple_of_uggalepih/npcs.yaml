@@ -1,0 +1,97 @@
+npcs:
+  17428860:
+    _jan2025_candidates: [17428860, 17428865]
+    script: qm2
+    display_name: ???
+    at: [374.148, -0.3, 272.672]
+    render:
+      look: {type: standard, model: 52}
+      moving: 7
+    status: normal
+  17428861:
+    _jan2025_candidates: [17428861, 17428866]
+    script: qm3
+    display_name: ???
+    at: [-132.366, -1.076, 9.15]
+    render:
+      look: {type: standard, model: 52}
+      moving: 7
+    status: normal
+  17428869:
+    _jan2025_candidates: [17428874, 17428869]
+    script: qm_shining1
+    display_name: ???
+    at: [-143.485, -0.75, -103.572, 249]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17428870:
+    _jan2025_candidates: [17428875, 17428870]
+    script: qm_shining2
+    display_name: ???
+    at: [-180.135, -0.107, -34.973, 180]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17428871:
+    _jan2025_candidates: [17428876, 17428871]
+    script: qm_shining3
+    display_name: ???
+    at: [54.415, 1.482, -82.916, 31]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17428872:
+    _jan2025_candidates: [17428877, 17428872]
+    script: qm_shining4
+    display_name: ???
+    at: [64.92, -0.25, -20.862, 247]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17428873:
+    _jan2025_candidates: [17428878, 17428873]
+    script: qm_shining5
+    display_name: ???
+    at: [-30.667, -0.246, -130.95, 61]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17428874:
+    _jan2025_candidates: [17428879, 17428874]
+    script: qm_shining6
+    display_name: ???
+    at: [-60.852, -0.75, -14.651, 132]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa

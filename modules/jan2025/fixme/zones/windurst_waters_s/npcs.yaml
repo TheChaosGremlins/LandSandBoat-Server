@@ -1,0 +1,41 @@
+npcs:
+  17162632:
+    _jan2025_candidates: [17162632]
+    script: NPC[188]
+    render:
+      look: {type: standard, model: 50}
+  17162669:
+    _jan2025_candidates: [17162670, 17162669]
+    script: NPC[1ad]
+    render:
+      look: {type: standard, model: 50}
+  17162674:
+    _jan2025_candidates: [17162675, 17162674]
+    script: NPC[1b2]
+    render:
+      look: {type: standard, model: 50}
+  17162774:
+    _jan2025_candidates: [17163026, 17162774]
+    script: blank
+    render:
+      look: {type: equipped, race: 7, face: 5, head: 4233, body: 8329, hands: 12304, legs: 16398, feet: 20494, main: 24686, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17162775:
+    _jan2025_candidates: [17163027, 17162775]
+    script: blank
+    render:
+      look: {type: equipped, race: 7, face: 12, head: 4233, body: 8329, hands: 12304, legs: 16398, feet: 20609, main: 24853, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17163025:
+    _jan2025_candidates: [17163025]
+    script: Romaa_Mihgo
+    display_name: Romaa Mihgo
+    render:
+      look: {type: equipped, race: 7, face: 9, head: 4233, body: 8302, hands: 12304, legs: 16494, feet: 20493, main: 24957, sub: 28672}
+      entity_flags: 2051
+    status: normal
+    widescan: true

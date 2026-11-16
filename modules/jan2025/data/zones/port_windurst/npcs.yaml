@@ -1,0 +1,160 @@
+npcs:
+  17760511: null
+  17760515: null
+  17760519: null
+  17760520: null
+  17760521: null
+  17760537: null
+  17760538: null
+  17760539: null
+  17760540: null
+  17760543: null
+  17760544: null
+  17760508:
+    script: Mog_Dinghy
+    display_name: Mog Dinghy
+    at: [-196.752, -0.3, 69.81]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 2784}
+      name_vis: 96
+      moving: 32769
+    status: normal
+    content: soa
+  17760509:
+    script: Skipper_Moogle
+    display_name: Skipper Moogle
+    at: [-194.05, -2.0, 67.008, 209]
+    render:
+      name_vis: null
+      look: {model: 2361}
+      entity_flags: 259
+      moving: 14
+  17760510:
+    at: null
+    status: null
+    widescan: null
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      entity_flags: null
+      moving: null
+      look: {model: 50}
+  17760512:
+    script: Survival_Guide
+    display_name: Survival Guide
+    at: [-220.0, -8.284, 179.0, 64]
+    render:
+      look: {model: 2433}
+      animation_sub: 1
+      name_vis: 32
+      moving: 21
+    status: normal
+    widescan: true
+    content: survival_guide
+  17760513:
+    at: null
+    status: null
+    widescan: null
+    script: Unity_Master
+    display_name: Unity Master
+    render:
+      animation_sub: null
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+      name_vis: 96
+    content: soa
+  17760514:
+    display_name: null
+    content: null
+    script: blank
+    render: {name_vis: null}
+  17760516:
+    at: null
+    script: Lion
+    display_name: Lion
+    render:
+      look: {model: 60}
+  17760517:
+    script: Zeid
+    display_name: Zeid
+    render:
+      look: {model: 830}
+  17760518:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      look: {model: 2450}
+  17760522:
+    script: Balamor
+    display_name: Balamor
+    render:
+      look: {model: 2742}
+  17760523:
+    widescan: null
+    script: qm3
+    display_name: ???
+    render:
+      look: {model: 1542}
+  17760524:
+    display_name: null
+    status: null
+    script: blank
+    render:
+      name_prefix: null
+      look: {model: 52}
+      entity_flags: 2051
+  17760526:
+    script: Disjoined_One
+    display_name: Disjoined One
+    render:
+      look: {model: null, type: equipped, race: 8, face: 6, head: 4484, body: 8422, hands: 12518, legs: 16614, feet: 20710, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17760534:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 52}
+  17760536:
+    script: Curio_Vendor_Moogle
+    display_name: Curio Vendor Moogle
+    at: [214.0, -12.0, 217.0, 192]
+    render:
+      look: {model: 82}
+      moving: 21
+    status: normal
+    widescan: true
+    content: soa
+  17760541:
+    widescan: null
+    script: AMAN_Liaison
+    display_name: A.M.A.N. Liaison
+    at: [187.5, -12.0, 217.18, 206]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: null, type: equipped, race: 7, face: 10, head: 4215, body: 8295, hands: 12392, legs: 16486, feet: 20584, main: 24576, sub: 28672}
+      name_vis: 1
+      moving: 14
+    status: normal
+    content: soa
+  17760542:
+    display_name: null
+    content: null
+    script: blank
+    at: [-211.22, -8.169, 194.804, 185]
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2478}
+      entity_flags: 2051
+      name_vis: 112
+      name_prefix: 130
+      moving: 1

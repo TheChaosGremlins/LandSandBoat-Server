@@ -1,0 +1,49 @@
+npcs:
+  17735963:
+    _jan2025_candidates: [17735963]
+    at: [-2.708, 0.0, -80.78]
+    render:
+      look: {type: ship}
+      door_id: 391
+      entity_flags: 2051
+      animation: animation_55
+      name_prefix: 2
+    status: cutscene_only
+  17736064:
+    _jan2025_candidates: [17736064, 17736063]
+    script: Enigmatic_Footprints_#2
+    display_name: 'Enigmatic Footprints #2'
+    at: [-30.48, -1.0, -115.45]
+    render:
+      look: {type: standard, model: 2326}
+      name_vis: 112
+      name_prefix: 2
+      moving: 32769
+    status: normal
+    widescan: true
+    content: tvr
+  17736068:
+    _jan2025_candidates: [17736067]
+    script: Oggbi
+    display_name: Oggbi
+    render:
+      look: {type: equipped, race: 8, face: 3, head: 4113, body: 8209, hands: 12305, legs: 16401, feet: 20497, main: 24576, sub: 28672}
+      entity_flags: 2075
+      animation_sub: 1
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17736073:
+    _jan2025_candidates: [17736072]
+    script: Tales_Beginning
+    display_name: Tales' Beginning
+    at: [21.308, 0.0, -96.862, 114]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+    widescan: true
+    content: tvr

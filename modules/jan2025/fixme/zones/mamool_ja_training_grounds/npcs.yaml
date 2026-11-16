@@ -1,0 +1,24 @@
+npcs:
+  17047843:
+    _jan2025_candidates: [17047843, 17047844]
+    script: NPC[123]
+    render:
+      look: {type: standard, model: 50}
+  17047848:
+    _jan2025_candidates: [17047849, 17047848]
+    script: NPC[128]
+    render:
+      look: {type: standard, model: 50}
+  17047921:
+    _jan2025_candidates: [17047921, 17047920]
+    script: _jup
+    display_name: Pot Hatch
+    at: [-97.025, -2.884, 307.664]
+    render:
+      look: {type: door}
+      door_id: 1886743135
+      entity_flags: 6147
+      animation: close_door
+      moving: 1
+    status: normal
+    content: toau

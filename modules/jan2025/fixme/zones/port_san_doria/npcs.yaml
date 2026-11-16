@@ -1,0 +1,125 @@
+npcs:
+  17727625:
+    _jan2025_candidates: [17727625]
+    script: Dealer_Moogle
+    display_name: Dealer Moogle
+    at: [13.026, -4.0, -87.403, 193]
+    render:
+      look: {type: standard, model: 981}
+      moving: 14
+    status: normal
+    widescan: true
+    content: wotg
+  17727637:
+    _jan2025_candidates: [17727638, 17727637]
+    script: blank
+    at: [-33.2, 0.0, -36.0, 128]
+    render:
+      look: {type: standard, model: 733}
+      entity_flags: 2075
+      animation_sub: 2
+      name_vis: 64
+      name_prefix: 34
+      moving: 32782
+  17727659:
+    _jan2025_candidates: [17727660]
+    script: NPC[ab]
+    render:
+      look: {type: standard, model: 50}
+  17727662:
+    _jan2025_candidates: [17727663]
+    script: Iroha
+    display_name: Iroha
+    at: [1000.0, 0.0, 0.0]
+    render:
+      look: {type: standard, model: 2449}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17727666:
+    _jan2025_candidates: [17727667]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1206}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17727667:
+    _jan2025_candidates: [17727668]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17727668:
+    _jan2025_candidates: [17727669]
+    script: Selhteus
+    display_name: Selh'teus
+    render:
+      look: {type: standard, model: 1447}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17727685:
+    _jan2025_candidates: [17727686]
+    script: blank
+    at: [-7.61, -14.0, -106.61, 188]
+    render:
+      look: {type: standard, model: 2478}
+      entity_flags: 2051
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+  17727686:
+    _jan2025_candidates: [17727687]
+    script: Tales_Beginning
+    display_name: Tales' Beginning
+    at: [-7.61, -14.0, -106.61, 188]
+    render:
+      look: {type: standard, model: 2433}
+      animation_sub: 1
+      name_vis: 112
+      name_prefix: 130
+      moving: 1
+    status: normal
+    widescan: true
+    content: tvr
+  17727687:
+    _jan2025_candidates: [17727688]
+    script: Ancestry_Moogle
+    display_name: Ancestry Moogle
+    at: [75.0, -16.0, -122.0, 96]
+    render:
+      look: {type: standard, model: 82}
+      moving: 1
+    status: normal
+    widescan: true
+    content: soa
+  17727688:
+    _jan2025_candidates: [17727689]
+    script: blank
+    at: [150.0, 0.0, -150.0]
+    render:
+      look: {type: equipped, race: 1, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    status: cutscene_only
+  17727689:
+    _jan2025_candidates: [17727690]
+    script: Previous_Race
+    display_name: Previous Race
+    at: [150.0, 0.0, -150.0]
+    render:
+      look: {type: equipped, race: 7, face: 0, head: 4096, body: 8192, hands: 12288, legs: 16384, feet: 20480, main: 24576, sub: 28672}
+      entity_flags: 25
+      name_prefix: 32
+      moving: 1
+    content: soa

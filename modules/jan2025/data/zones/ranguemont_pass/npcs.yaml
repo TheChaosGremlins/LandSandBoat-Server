@@ -1,0 +1,7 @@
+npcs:
+  17457332: null
+  17457337:
+    script: NPC[b4]
+    render:
+      name_vis: null
+      look: {model: 50}

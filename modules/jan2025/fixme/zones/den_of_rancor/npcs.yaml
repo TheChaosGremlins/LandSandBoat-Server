@@ -1,0 +1,46 @@
+npcs:
+  17433015:
+    _jan2025_candidates: [17433018, 17433017]
+    script: qm_shiny_2
+    display_name: ???
+    at: [-71.103, 15.822, 7.508, 117]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17433022:
+    _jan2025_candidates: [17433024, 17433022]
+    script: qm_shiny_9
+    display_name: ???
+    at: [41.58, 36.978, -141.203, 32]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17433023:
+    _jan2025_candidates: [17433025, 17433023]
+    script: qm_shiny_10
+    display_name: ???
+    at: [210.994, 35.957, -280.34, 130]
+    render:
+      look: {type: standard, model: 2326}
+      entity_flags: 27
+      name_vis: 112
+      name_prefix: 32
+      moving: 1
+    status: normal
+    content: asa
+  17433046:
+    _jan2025_candidates: [17433047, 17433046]
+    script: NPC[1d6]
+    render:
+      look: {type: standard, model: 50}
+      name_vis: 4

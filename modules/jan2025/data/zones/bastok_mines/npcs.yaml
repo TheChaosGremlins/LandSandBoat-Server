@@ -1,0 +1,86 @@
+npcs:
+  17736008: null
+  17736067: null
+  17736072: null
+  17736073: null
+  17735963:
+    status: null
+    script: NPC[148]
+    at: [0.0, -0.5, -76.0]
+    render:
+      door_id: null
+      entity_flags: null
+      animation: null
+      name_prefix: null
+      look: {type: standard, model: 50}
+      moving: 1
+  17736064:
+    at: null
+    status: null
+    content: null
+    script: Layer_Reserve
+    display_name: Layer Reserve
+    render:
+      name_prefix: null
+      look: {model: 50}
+      moving: 1
+  17736065:
+    display_name: null
+    widescan: null
+    script: blank
+    render:
+      moving: null
+      look: {model: 52}
+      entity_flags: 2051
+  17736066:
+    script: Raebrimm
+    display_name: Raebrimm
+    render:
+      name_vis: null
+      look: {model: 957}
+      entity_flags: 2075
+      name_prefix: 32
+    status: cutscene_only
+    widescan: true
+  17736068:
+    widescan: null
+    script: AMAN_Liaison
+    display_name: A.M.A.N. Liaison
+    at: [108.0, 1.0, -90.0, 192]
+    render:
+      entity_flags: null
+      animation_sub: null
+      name_prefix: null
+      look: {race: 1, head: 4215, body: 8295, hands: 12392, legs: 16486, feet: 20584}
+      name_vis: 1
+      moving: 14
+    status: normal
+    content: soa
+  17736069:
+    script: Linkshell_Concierge
+    display_name: Linkshell Concierge
+    at: [115.88, 1.0, -90.28, 192]
+    render:
+      name_vis: null
+      look: {head: 4242, body: 8231, hands: 12296, feet: 20576}
+      moving: 7
+    widescan: true
+  17736070:
+    script: Chat_Manual
+    display_name: Chat Manual
+    at: [118.88, 1.0, -90.28, 192]
+    render:
+      look: {race: null, face: null, head: null, body: null, hands: null, legs: null, feet: null, main: null, sub: null, type: standard, model: 2290}
+      name_vis: 96
+      moving: 1
+  17736071:
+    display_name: null
+    widescan: null
+    content: null
+    script: blank
+    at: [21.308, 0.0, -96.862, 114]
+    render:
+      look: {model: 2478}
+      entity_flags: 2051
+      name_vis: 112
+      name_prefix: 130

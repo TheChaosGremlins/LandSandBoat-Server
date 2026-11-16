@@ -1,0 +1,1124 @@
+spawns:
+  16973994:
+    _jan2025_candidates: [16973994, 16973970]
+    template: Bombshells
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16973995:
+    _jan2025_candidates: [16973995, 16973971]
+    template: Bombshells
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16973996:
+    _jan2025_candidates: [16973996, 16973972]
+    template: Bombshells
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16973997:
+    _jan2025_candidates: [16973997, 16973973]
+    template: Aerial_Torpedo
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16973998:
+    _jan2025_candidates: [16973998, 16973974]
+    template: Bombshells
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16973999:
+    _jan2025_candidates: [16973999, 16973975]
+    template: Bombshells
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974000:
+    _jan2025_candidates: [16974000, 16973976]
+    template: Bombshells
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974001:
+    _jan2025_candidates: [16974001, 16973977]
+    template: Bombshells
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974002:
+    _jan2025_candidates: [16974002, 16973978]
+    template: Vyurvarjur_the_Nimble
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974003:
+    _jan2025_candidates: [16974003, 16973979]
+    template: Troll_Forager
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974004:
+    _jan2025_candidates: [16974004, 16973980]
+    template: Troll_Forager
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974005:
+    _jan2025_candidates: [16974005, 16973981]
+    template: Troll_Forager
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974006:
+    _jan2025_candidates: [16974006, 16973982]
+    template: Killing_Claw
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974007:
+    _jan2025_candidates: [16974007, 16973983]
+    template: Slaughterous_Scorpion
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974008:
+    _jan2025_candidates: [16974008, 16973984]
+    template: Slaughterous_Scorpion
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974009:
+    _jan2025_candidates: [16974009, 16973985]
+    template: Slaughterous_Scorpion
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974010:
+    _jan2025_candidates: [16974010, 16973986]
+    template: Gurfurlur_the_Menacing_Besieged
+    script: Gurfurlur_the_Menacing
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974011:
+    _jan2025_candidates: [16974011, 16973987]
+    template: Gere
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974012:
+    _jan2025_candidates: [16974012, 16973988]
+    template: Girzorhor_the_Imprudent
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974013:
+    _jan2025_candidates: [16974013, 16973989]
+    template: Surmerdar_the_Unbridled
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974014:
+    _jan2025_candidates: [16974014, 16973990]
+    template: Dartorgor_the_Austere
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974015:
+    _jan2025_candidates: [16974015, 16973991]
+    template: Vorporlor_the_Barbaric
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974016:
+    _jan2025_candidates: [16974016, 16973992]
+    template: Vorjirzur_the_Valiant
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974017:
+    _jan2025_candidates: [16974017, 16973993]
+    template: Wordorbor_the_Artificer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974018:
+    _jan2025_candidates: [16974018, 16973994]
+    template: Cobalt_Sentinel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974019:
+    _jan2025_candidates: [16974019, 16973995]
+    template: White_Sentinel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974020:
+    _jan2025_candidates: [16974020, 16973996]
+    template: Hazel_Sentinel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974021:
+    _jan2025_candidates: [16974021, 16973997]
+    template: Carmine_Sentinel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974022:
+    _jan2025_candidates: [16974022, 16973998]
+    template: Xarhorkur_the_Claviger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974023:
+    _jan2025_candidates: [16974023, 16973999]
+    template: Zurmurwur_the_Ruthless
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974024:
+    _jan2025_candidates: [16974024, 16974000]
+    template: Restless_Apkallu
+    script: Garma
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974025:
+    _jan2025_candidates: [16974025, 16974001]
+    template: Ravenous_Colibri
+    script: Wicked_Dahak
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974026:
+    _jan2025_candidates: [16974026, 16974002]
+    template: Ravenous_Colibri
+    script: Wicked_Dahak
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974027:
+    _jan2025_candidates: [16974027, 16974003]
+    template: Ravenous_Colibri
+    script: Wicked_Dahak
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974028:
+    _jan2025_candidates: [16974028, 16974004]
+    template: Wicked_Dahak
+    script: Erawan
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974029:
+    _jan2025_candidates: [16974029, 16974005]
+    template: Garma
+    script: Boisterous_Marid
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974030:
+    _jan2025_candidates: [16974030, 16974006]
+    template: Garma
+    script: Boisterous_Marid
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974031:
+    _jan2025_candidates: [16974031, 16974007]
+    template: Garma
+    script: Boisterous_Marid
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974032:
+    _jan2025_candidates: [16974032, 16974008]
+    template: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974033:
+    _jan2025_candidates: [16974033, 16974009]
+    template: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974034:
+    _jan2025_candidates: [16974034, 16974010]
+    template: Troll_Destroyer_Small
+    script: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974035:
+    _jan2025_candidates: [16974035, 16974011]
+    template: Troll_Destroyer_Small
+    script: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974036:
+    _jan2025_candidates: [16974036, 16974012]
+    template: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974037:
+    _jan2025_candidates: [16974037, 16974013]
+    template: Troll_Destroyer_Small
+    script: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974038:
+    _jan2025_candidates: [16974038, 16974014]
+    template: Troll_Destroyer_Small
+    script: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974039:
+    _jan2025_candidates: [16974039, 16974015]
+    template: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974040:
+    _jan2025_candidates: [16974040, 16974016]
+    template: Troll_Destroyer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974041:
+    _jan2025_candidates: [16974041, 16974017]
+    template: Lamia_Immolator
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974042:
+    _jan2025_candidates: [16974042, 16974018]
+    template: Lamia_Jaeger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974043:
+    _jan2025_candidates: [16974043, 16974019]
+    template: Lamia_Commandress
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974044:
+    _jan2025_candidates: [16974044, 16974020]
+    template: Lamias_Elemental
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974045:
+    _jan2025_candidates: [16974045, 16974021]
+    template: Lamias_Avatar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974046:
+    _jan2025_candidates: [16974046, 16974022]
+    template: Lamia_Rover
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974047:
+    _jan2025_candidates: [16974047, 16974023]
+    template: Merrow_Seafarer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974048:
+    _jan2025_candidates: [16974048, 16974024]
+    template: Merrow_Cantatrice
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974049:
+    _jan2025_candidates: [16974049, 16974025]
+    template: Merrow_Shiranuhi
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974050:
+    _jan2025_candidates: [16974050, 16974026]
+    template: Lamia_Immolator
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974051:
+    _jan2025_candidates: [16974051, 16974027]
+    template: Lamia_Jaeger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974052:
+    _jan2025_candidates: [16974052, 16974028]
+    template: Lamia_Commandress_Small
+    script: Lamia_Commandress
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974053:
+    _jan2025_candidates: [16974053, 16974029]
+    template: Lamias_Elemental
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974054:
+    _jan2025_candidates: [16974054, 16974030]
+    template: Lamias_Avatar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974055:
+    _jan2025_candidates: [16974055, 16974031]
+    template: Lamia_Rover_Small
+    script: Lamia_Rover
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974056:
+    _jan2025_candidates: [16974056, 16974032]
+    template: Merrow_Seafarer_Small
+    script: Merrow_Seafarer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974057:
+    _jan2025_candidates: [16974057, 16974033]
+    template: Merrow_Cantatrice_Small
+    script: Merrow_Cantatrice
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974058:
+    _jan2025_candidates: [16974058, 16974034]
+    template: Merrow_Shiranuhi_Small
+    script: Merrow_Shiranuhi
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974059:
+    _jan2025_candidates: [16974059, 16974035]
+    template: Lamia_Immolator
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974060:
+    _jan2025_candidates: [16974060, 16974036]
+    template: Lamia_Jaeger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974061:
+    _jan2025_candidates: [16974061, 16974037]
+    template: Lamia_Commandress_Small
+    script: Lamia_Commandress
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974062:
+    _jan2025_candidates: [16974062, 16974038]
+    template: Lamias_Elemental
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974063:
+    _jan2025_candidates: [16974063, 16974039]
+    template: Lamias_Avatar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974064:
+    _jan2025_candidates: [16974064, 16974040]
+    template: Lamia_Rover_Small
+    script: Lamia_Rover
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974065:
+    _jan2025_candidates: [16974065, 16974041]
+    template: Merrow_Seafarer_Small
+    script: Merrow_Seafarer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974066:
+    _jan2025_candidates: [16974066, 16974042]
+    template: Merrow_Cantatrice_Small
+    script: Merrow_Cantatrice
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974067:
+    _jan2025_candidates: [16974067, 16974043]
+    template: Merrow_Shiranuhi_Small
+    script: Merrow_Shiranuhi
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974068:
+    _jan2025_candidates: [16974068, 16974044]
+    template: Gespenst
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974069:
+    _jan2025_candidates: [16974069, 16974045]
+    template: Gespenst
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974070:
+    _jan2025_candidates: [16974070, 16974046]
+    template: Gespenst_Small
+    script: Gespenst
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974071:
+    _jan2025_candidates: [16974071, 16974047]
+    template: Gespenst_Small
+    script: Gespenst
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974072:
+    _jan2025_candidates: [16974072, 16974048]
+    template: Assault_Draugar_drg
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974073:
+    _jan2025_candidates: [16974073, 16974049]
+    template: Assault_Draugar_drg
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974074:
+    _jan2025_candidates: [16974074, 16974050]
+    template: Assault_Draugar_drg
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974075:
+    _jan2025_candidates: [16974075, 16974051]
+    template: Assault_Draugar_thf
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974076:
+    _jan2025_candidates: [16974076, 16974052]
+    template: Assault_Draugar_thf
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974077:
+    _jan2025_candidates: [16974077, 16974053]
+    template: Assault_Draugar_drk
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974078:
+    _jan2025_candidates: [16974078, 16974054]
+    template: Assault_Draugar_drk
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974079:
+    _jan2025_candidates: [16974079, 16974055]
+    template: Draugars_Wyvern
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974080:
+    _jan2025_candidates: [16974080, 16974056]
+    template: Assault_Draugar_drg
+    script: Assault_Draugar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974081:
+    _jan2025_candidates: [16974081, 16974057]
+    template: Draugars_Wyvern
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974082:
+    _jan2025_candidates: [16974082, 16974058]
+    template: Assault_Bhoot
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974083:
+    _jan2025_candidates: [16974083, 16974059]
+    template: Assault_Bhoot_Small
+    script: Assault_Bhoot
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974084:
+    _jan2025_candidates: [16974084, 16974060]
+    template: Assault_Bhoot_Small
+    script: Assault_Bhoot
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974085:
+    _jan2025_candidates: [16974085, 16974061]
+    template: Assault_Bhoot_Small
+    script: Assault_Bhoot
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974086:
+    _jan2025_candidates: [16974086, 16974062]
+    template: Assault_Bhoot_Small
+    script: Assault_Bhoot
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974087:
+    _jan2025_candidates: [16974087, 16974063]
+    template: Qutrub_Extortionist
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974088:
+    _jan2025_candidates: [16974088, 16974064]
+    template: Qutrub_Extortionist
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974089:
+    _jan2025_candidates: [16974089, 16974065]
+    template: Qutrub_Extortionist
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974090:
+    _jan2025_candidates: [16974090, 16974066]
+    template: Qutrub_Extortionist_Small
+    script: Qutrub_Extortionist
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974091:
+    _jan2025_candidates: [16974091, 16974067]
+    template: Qutrub_Wastrel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974092:
+    _jan2025_candidates: [16974092, 16974068]
+    template: Qutrub_Wastrel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974093:
+    _jan2025_candidates: [16974093, 16974069]
+    template: Qutrub_Wastrel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974094:
+    _jan2025_candidates: [16974094, 16974070]
+    template: Qutrub_Wastrel_Small
+    script: Qutrub_Wastrel
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974095:
+    _jan2025_candidates: [16974095, 16974071]
+    template: Expunger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974096:
+    _jan2025_candidates: [16974096, 16974072]
+    template: Expunger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974097:
+    _jan2025_candidates: [16974097, 16974073]
+    template: Expunger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974098:
+    _jan2025_candidates: [16974098, 16974074]
+    template: Expunger_Small
+    script: Expunger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974099:
+    _jan2025_candidates: [16974099, 16974075]
+    template: Expunger_Small
+    script: Expunger
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974100:
+    _jan2025_candidates: [16974100, 16974076]
+    template: Bhoot_Invader
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974101:
+    _jan2025_candidates: [16974101, 16974077]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974102:
+    _jan2025_candidates: [16974102, 16974078]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974103:
+    _jan2025_candidates: [16974103, 16974079]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974104:
+    _jan2025_candidates: [16974104, 16974080]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974105:
+    _jan2025_candidates: [16974105, 16974081]
+    template: Bhoot_Invader
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974106:
+    _jan2025_candidates: [16974106, 16974082]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974107:
+    _jan2025_candidates: [16974107, 16974083]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974108:
+    _jan2025_candidates: [16974108, 16974084]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974109:
+    _jan2025_candidates: [16974109, 16974085]
+    template: Bhoot_Intruder
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974110:
+    _jan2025_candidates: [16974110, 16974086]
+    template: Lamia_No4
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974111:
+    _jan2025_candidates: [16974111, 16974087]
+    template: Lamia_Freebooter
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974112:
+    _jan2025_candidates: [16974112, 16974088]
+    template: Lamia_Freebooter
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974113:
+    _jan2025_candidates: [16974113, 16974089]
+    template: Lamia_Freebooter
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974114:
+    _jan2025_candidates: [16974114, 16974090]
+    template: Pining_Abazohn
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974115:
+    _jan2025_candidates: [16974115, 16974091]
+    template: Qutrub_Forayer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974116:
+    _jan2025_candidates: [16974116, 16974092]
+    template: Qutrub_Forayer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974117:
+    _jan2025_candidates: [16974117, 16974093]
+    template: Qutrub_Forayer
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974118:
+    _jan2025_candidates: [16974118, 16974094]
+    template: Medusa_Besieged
+    script: Medusa
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974119:
+    _jan2025_candidates: [16974119, 16974095]
+    template: Nemean_Lion
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974120:
+    _jan2025_candidates: [16974120, 16974096]
+    template: Lamia_No34
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974121:
+    _jan2025_candidates: [16974121, 16974097]
+    template: Lamia_No21
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974122:
+    _jan2025_candidates: [16974122, 16974098]
+    template: Lamia_No15
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974123:
+    _jan2025_candidates: [16974123, 16974099]
+    template: Merrow_No11
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974124:
+    _jan2025_candidates: [16974124, 16974100]
+    template: Lamia_No9
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974125:
+    _jan2025_candidates: [16974125, 16974101]
+    template: Lamias_Elemental
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974126:
+    _jan2025_candidates: [16974126, 16974102]
+    template: Lamias_Elemental
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974127:
+    _jan2025_candidates: [16974127, 16974103]
+    template: Lamias_Elemental
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974128:
+    _jan2025_candidates: [16974128, 16974104]
+    template: Lamias_Avatar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974129:
+    _jan2025_candidates: [16974129, 16974105]
+    template: Lamias_Avatar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974130:
+    _jan2025_candidates: [16974130, 16974106]
+    template: Lamias_Avatar
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974131:
+    _jan2025_candidates: [16974131, 16974107]
+    template: Merrow_No12
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974132:
+    _jan2025_candidates: [16974132, 16974108]
+    template: Lamia_No3
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974133:
+    _jan2025_candidates: [16974133, 16974109]
+    template: Lamia_No2
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974134:
+    _jan2025_candidates: [16974134, 16974110]
+    template: Akhty
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974135:
+    _jan2025_candidates: [16974135, 16974111]
+    template: Restless_Apkallu
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974136:
+    _jan2025_candidates: [16974136, 16974112]
+    template: Restless_Apkallu
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974137:
+    _jan2025_candidates: [16974137, 16974113]
+    template: Restless_Apkallu
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974138:
+    _jan2025_candidates: [16974138, 16974114]
+    template: Ikatere
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974139:
+    _jan2025_candidates: [16974139, 16974115]
+    template: Festering_Orobon
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974140:
+    _jan2025_candidates: [16974140, 16974116]
+    template: Festering_Orobon
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974141:
+    _jan2025_candidates: [16974141, 16974117]
+    template: Festering_Orobon
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974142:
+    _jan2025_candidates: [16974142, 16974118]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974143:
+    _jan2025_candidates: [16974143, 16974119]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974144:
+    _jan2025_candidates: [16974144, 16974120]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974145:
+    _jan2025_candidates: [16974145, 16974121]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974146:
+    _jan2025_candidates: [16974146, 16974122]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974147:
+    _jan2025_candidates: [16974147, 16974123]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974148:
+    _jan2025_candidates: [16974148, 16974124]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974149:
+    _jan2025_candidates: [16974149, 16974125]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974150:
+    _jan2025_candidates: [16974150, 16974126]
+    template: Acrolith
+    at: [-1.0, 0.0, 0.0, 1]
+    level: [119, 119]
+  16974164:
+    _jan2025_candidates: [16974140]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 192]
+    level: [119, 119]
+  16974165:
+    _jan2025_candidates: [16974141]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 192]
+    level: [119, 119]
+  16974166:
+    _jan2025_candidates: [16974142]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 104]
+    level: [119, 119]
+  16974167:
+    _jan2025_candidates: [16974143]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 46]
+    level: [119, 119]
+  16974168:
+    _jan2025_candidates: [16974144]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 8]
+    level: [119, 119]
+  16974169:
+    _jan2025_candidates: [16974145]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 53]
+    level: [119, 119]
+  16974170:
+    _jan2025_candidates: [16974146]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974171:
+    _jan2025_candidates: [16974147]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 60]
+    level: [119, 119]
+  16974172:
+    _jan2025_candidates: [16974148]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974173:
+    _jan2025_candidates: [16974149]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 250]
+    level: [119, 119]
+  16974174:
+    _jan2025_candidates: [16974150]
+    template: Immortal_Guard
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974175:
+    _jan2025_candidates: [16974151]
+    template: Immortal_Guard
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974176:
+    _jan2025_candidates: [16974152]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 49]
+    level: [119, 119]
+  16974177:
+    _jan2025_candidates: [16974153]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974178:
+    _jan2025_candidates: [16974154]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974179:
+    _jan2025_candidates: [16974155]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 108]
+    level: [119, 119]
+  16974180:
+    _jan2025_candidates: [16974156]
+    template: Immortal_Guard
+    at: [-1.0, 0.0, 0.0, 104]
+    level: [119, 119]
+  16974181:
+    _jan2025_candidates: [16974157]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974182:
+    _jan2025_candidates: [16974158]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974183:
+    _jan2025_candidates: [16974159]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 253]
+    level: [119, 119]
+  16974184:
+    _jan2025_candidates: [16974160]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 156]
+    level: [119, 119]
+  16974185:
+    _jan2025_candidates: [16974161]
+    template: Immortal_Guard
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974186:
+    _jan2025_candidates: [16974162]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 124]
+    level: [119, 119]
+  16974187:
+    _jan2025_candidates: [16974163]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 192]
+    level: [119, 119]
+  16974188:
+    _jan2025_candidates: [16974164]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 192]
+    level: [119, 119]
+  16974189:
+    _jan2025_candidates: [16974165]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0, 192]
+    level: [119, 119]
+  16974190:
+    _jan2025_candidates: [16974166]
+    template: Immortal_Guard
+    at: [-1.0, 0.0, 0.0, 192]
+    level: [119, 119]
+  16974191:
+    _jan2025_candidates: [16974167]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 42]
+    level: [119, 119]
+  16974192:
+    _jan2025_candidates: [16974168]
+    template: Volunteer
+    at: [-1.0, 0.0, 0.0, 193]
+    level: [119, 119]
+  16974193:
+    _jan2025_candidates: [16974169]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974194:
+    _jan2025_candidates: [16974170]
+    template: Imperial_Trooper
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974195:
+    _jan2025_candidates: [16974171]
+    template: Immortal_Guard
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974196:
+    _jan2025_candidates: [16974172]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974197:
+    _jan2025_candidates: [16974173]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 203]
+    level: [119, 119]
+  16974198:
+    _jan2025_candidates: [16974174]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974199:
+    _jan2025_candidates: [16974175]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 192]
+    level: [119, 119]
+  16974200:
+    _jan2025_candidates: [16974176]
+    template: Qiqirn_Mine_AZ
+    script: Qiqirn_Mine
+    at: [-1.0, 0.0, 0.0, 183]
+    level: [119, 119]
+  16974201:
+    _jan2025_candidates: [16974177]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 232]
+    level: [119, 119]
+  16974202:
+    _jan2025_candidates: [16974178]
+    template: Qiqirn_Mine_AZ
+    script: Qiqirn_Mine
+    at: [-1.0, 0.0, 0.0, 130]
+    level: [119, 119]
+  16974203:
+    _jan2025_candidates: [16974179]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 122]
+    level: [119, 119]
+  16974204:
+    _jan2025_candidates: [16974180]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 21]
+    level: [119, 119]
+  16974205:
+    _jan2025_candidates: [16974181]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 48]
+    level: [119, 119]
+  16974206:
+    _jan2025_candidates: [16974182]
+    template: Qiqirn_Mine_AZ
+    script: Qiqirn_Mine
+    at: [-1.0, 0.0, 0.0, 187]
+    level: [119, 119]
+  16974207:
+    _jan2025_candidates: [16974183]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974208:
+    _jan2025_candidates: [16974184]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974209:
+    _jan2025_candidates: [16974185]
+    template: Qiqirn_Mine_AZ
+    script: Qiqirn_Mine
+    at: [-1.0, 0.0, 0.0, 81]
+    level: [119, 119]
+  16974210:
+    _jan2025_candidates: [16974186]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974211:
+    _jan2025_candidates: [16974187]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 128]
+    level: [119, 119]
+  16974212:
+    _jan2025_candidates: [16974188]
+    template: Qiqirn_Mine_AZ
+    script: Qiqirn_Mine
+    at: [-1.0, 0.0, 0.0, 187]
+    level: [119, 119]
+  16974213:
+    _jan2025_candidates: [16974189]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974214:
+    _jan2025_candidates: [16974190]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 193]
+    level: [119, 119]
+  16974215:
+    _jan2025_candidates: [16974191]
+    template: Qiqirn_Mine_AZ
+    script: Qiqirn_Mine
+    at: [-1.0, 0.0, 0.0, 126]
+    level: [119, 119]
+  16974216:
+    _jan2025_candidates: [16974192]
+    template: Qiqirn_Freelance
+    at: [-1.0, 0.0, 0.0, 129]
+    level: [119, 119]
+  16974217:
+    _jan2025_candidates: [16974193]
+    template: Goblin_Lansquenet
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974218:
+    _jan2025_candidates: [16974194]
+    template: Goblin_Lansquenet
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974219:
+    _jan2025_candidates: [16974195]
+    template: Goblin_Lansquenet
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974220:
+    _jan2025_candidates: [16974196]
+    template: Goblin_Lansquenet
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]
+  16974221:
+    _jan2025_candidates: [16974197]
+    template: Goblin_Lansquenet
+    at: [-1.0, 0.0, 0.0]
+    level: [119, 119]

@@ -1,0 +1,25 @@
+npcs:
+  17171007:
+    _jan2025_candidates: [17171006]
+    script: NPC[23f]
+    render:
+      look: {type: standard, model: 50}
+  17171008:
+    _jan2025_candidates: [17171007]
+    script: Rongo-Nango
+    display_name: Rongo-Nango
+    render:
+      look: {type: equipped, race: 5, face: 1, head: 4147, body: 8375, hands: 12471, legs: 16567, feet: 20663, main: 24882, sub: 28672}
+      entity_flags: 27
+      name_prefix: 32
+    widescan: true
+  17171009:
+    _jan2025_candidates: [17171008]
+    script: qm1
+    display_name: ???
+    at: [-121.582, -80.0, 9.687]
+    render:
+      look: {type: standard, model: 52}
+      moving: 1
+    status: normal
+    content: wotg

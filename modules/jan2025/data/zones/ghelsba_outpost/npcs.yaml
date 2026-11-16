@@ -1,0 +1,12 @@
+npcs:
+  17350954: null
+  17350955: null
+  17350958:
+    status: null
+    speed: null
+    animation_speed: null
+    script: NPC[12b]
+    render:
+      entity_flags: null
+      name_prefix: null
+      look: {model: 50}

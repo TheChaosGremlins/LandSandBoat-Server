@@ -1,0 +1,58 @@
+npcs:
+  17526904: null
+  17526910: null
+  17526911: null
+  17526912: null
+  17526913: null
+  17526914: null
+  17526923: null
+  17526924: null
+  17526925: null
+  17526926: null
+  17526927: null
+  17526928: null
+  17526929: null
+  17526930: null
+  17526902:
+    script: Achieve_Master
+    display_name: Achieve Master
+    render:
+      look: {type: standard, model: 52}
+    widescan: true
+  17526906:
+    script: Legion_Libretto
+    display_name: Legion Libretto
+    at: [0.0, -1.5, 0.0]
+    render:
+      look: {type: standard, model: 2348}
+      entity_flags: 129
+      animation_sub: 16
+      name_vis: 32
+    speed: 40
+    animation_speed: 40
+    widescan: true
+  17526908:
+    script: blank
+    render:
+      look: {type: standard, model: 50}
+      entity_flags: 0
+    status: normal
+  17526915:
+    status: null
+    widescan: null
+    script: Moogle
+    display_name: Moogle
+    render:
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40
+  17526916:
+    status: null
+    script: Moogle
+    display_name: Moogle
+    render:
+      look: {model: 82}
+      entity_flags: 4194307
+    speed: 40
+    animation_speed: 40

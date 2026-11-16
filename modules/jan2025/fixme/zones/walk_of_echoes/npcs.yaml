@@ -1,0 +1,13 @@
+npcs:
+  17523316:
+    _jan2025_candidates: [17523316]
+    script: qm1
+    display_name: ???
+    render:
+      look: {type: standard, model: 52}
+      entity_flags: 2051
+  17523338:
+    _jan2025_candidates: [17523338]
+    script: NPC[28a]
+    render:
+      look: {type: standard, model: 50}
