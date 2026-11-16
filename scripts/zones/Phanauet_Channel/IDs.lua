@@ -7,17 +7,17 @@ zones[xi.zone.PHANAUET_CHANNEL] =
 {
     text =
     {
-        ITEM_CANNOT_BE_OBTAINED       = 6387, -- You cannot obtain the <item>. Come back after sorting your inventory.
-        ITEM_OBTAINED                 = 6395, -- Obtained: <item>.
-        GIL_OBTAINED                  = 6396, -- Obtained <number> gil.
-        KEYITEM_OBTAINED              = 6398, -- Obtained key item: <keyitem>.
-        CARRIED_OVER_POINTS           = 7006, -- You have carried over <number> login point[/s].
-        LOGIN_CAMPAIGN_UNDERWAY       = 7007, -- The [/January/February/March/April/May/June/July/August/September/October/November/December] <number> Login Campaign is currently underway!
-        LOGIN_NUMBER                  = 7008, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
-        MEMBERS_LEVELS_ARE_RESTRICTED = 7028, -- Your party is unable to participate because certain members' levels are restricted.
-        CONQUEST_BASE                 = 7073, -- Tallying conquest results...
-        TONBERRY_MSG                  = 7241, -- ...
-        FISHING_MESSAGE_OFFSET        = 7242, -- You can't fish here.
+        ITEM_CANNOT_BE_OBTAINED       = 6384, -- You cannot obtain the <item>. Come back after sorting your inventory.
+        ITEM_OBTAINED                 = 6390, -- Obtained: <item>.
+        GIL_OBTAINED                  = 6391, -- Obtained <number> gil.
+        KEYITEM_OBTAINED              = 6393, -- Obtained key item: <keyitem>.
+        CARRIED_OVER_POINTS           = 7001, -- You have carried over <number> login point[/s].
+        LOGIN_CAMPAIGN_UNDERWAY       = 7002, -- The [/January/February/March/April/May/June/July/August/September/October/November/December] <number> Login Campaign is currently underway!
+        LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
+        MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
+        CONQUEST_BASE                 = 7065, -- Tallying conquest results...
+        TONBERRY_MSG                  = 7233, -- ...
+        FISHING_MESSAGE_OFFSET        = 7234, -- You can't fish here.
         NEWTPOOL_LIZARDS              = 7360, -- These waters are crawling with nasty lizards. They seem to be attracted to the flies that skim across the surface.
         NEWTPOOL_PASSING_THROUGH      = 7361, -- We are now passing through Newtpool. I've heard rumors that an ugly blue-and-gray beast with a triangle-shaped head and four burning red eyes lurks in this forsaken place...
         NEWTPOOL_EDGE_OF_POOL         = 7362, -- We have almost arrived at the edge of the pool. There'll be less of those pesky lizards nibbling on your bait, but you will still have to be cautious.
@@ -47,7 +47,7 @@ zones[xi.zone.PHANAUET_CHANNEL] =
         NEWTPOOL_GREETING             = 7420, -- It looks like we shall be navigating the Newtpool route today. As you may already know, I am much too old to handle any excitement, so if you spot any monsters, make sure you take care of them for me.
         NEWTPOOL_CONVERGE             = 7421, -- If you look closely, you can see where the main canal, the Emfea Waterway, and Newtpool converge. Breathtaking, is it not?
         NEWTPOOL_ARRIVING_SOUTH       = 7422, -- We will be arriving at South Landing shortly. I must rest a spell before continuing on my journey, though. At my age it is difficult to make these long trips.
-        RICHE_DAVOI_WATERFALL         = 7431, -- <item>...Davoi...waterfall...
+        RICHE_DAVOI_WATERFALL         = 7422, -- <item>...Davoi...waterfall...
     },
     mob =
     {

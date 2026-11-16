@@ -7,21 +7,21 @@ zones[xi.zone.FORT_KARUGO_NARUGO_S] =
 {
     text =
     {
-        ITEM_CANNOT_BE_OBTAINED       = 6387, -- You cannot obtain the <item>. Come back after sorting your inventory.
-        ITEM_OBTAINED                 = 6395, -- Obtained: <item>.
-        GIL_OBTAINED                  = 6396, -- Obtained <number> gil.
-        KEYITEM_OBTAINED              = 6398, -- Obtained key item: <keyitem>.
-        NOTHING_OUT_OF_ORDINARY       = 6409, -- There is nothing out of the ordinary here.
-        CARRIED_OVER_POINTS           = 7006, -- You have carried over <number> login point[/s].
-        LOGIN_CAMPAIGN_UNDERWAY       = 7007, -- The [/January/February/March/April/May/June/July/August/September/October/November/December] <number> Login Campaign is currently underway!
-        LOGIN_NUMBER                  = 7008, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
-        MEMBERS_LEVELS_ARE_RESTRICTED = 7028, -- Your party is unable to participate because certain members' levels are restricted.
+        ITEM_CANNOT_BE_OBTAINED       = 6384, -- You cannot obtain the <item>. Come back after sorting your inventory.
+        ITEM_OBTAINED                 = 6390, -- Obtained: <item>.
+        GIL_OBTAINED                  = 6391, -- Obtained <number> gil.
+        KEYITEM_OBTAINED              = 6393, -- Obtained key item: <keyitem>.
+        NOTHING_OUT_OF_ORDINARY       = 6404, -- There is nothing out of the ordinary here.
+        CARRIED_OVER_POINTS           = 7001, -- You have carried over <number> login point[/s].
+        LOGIN_CAMPAIGN_UNDERWAY       = 7002, -- The [/January/February/March/April/May/June/July/August/September/October/November/December] <number> Login Campaign is currently underway!
+        LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
+        MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
         FOUND_ITEM_WITH_EASE          = 7163, -- It appears your chocobo found this item with ease.
-        SPONDULIX_SHOP_DIALOG         = 7229, -- Spondulix comes all the way from Boodlix's Emporium to help Tarutaru and Mithra. I can help you, too! You have gil, no?
-        CAMPAIGN_RESULTS_TALLIED      = 7611, -- Campaign results tallied.
-        LOGGING_IS_POSSIBLE_HERE      = 7696, -- Logging is possible here if you have <item>.
-        ITEM_DELIVERY_DIALOG          = 8135, -- Deliveries! We're open for business!
-        COMMON_SENSE_SURVIVAL         = 9214, -- It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+        SPONDULIX_SHOP_DIALOG         = 7220, -- Spondulix comes all the way from Boodlix's Emporium to help Tarutaru and Mithra. I can help you, too! You have gil, no?
+        CAMPAIGN_RESULTS_TALLIED      = 7602, -- Campaign results tallied.
+        LOGGING_IS_POSSIBLE_HERE      = 7687, -- Logging is possible here if you have <item>.
+        ITEM_DELIVERY_DIALOG          = 8126, -- Deliveries! We're open for business!
+        COMMON_SENSE_SURVIVAL         = 9205, -- It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
     },
     mob =
     {
