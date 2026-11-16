@@ -7,7 +7,7 @@ zones[xi.zone.PORT_JEUNO] =
 {
     text =
     {
-        ASSIST_CHANNEL                = 6377, -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                = 6377, -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED       = 6384, -- You cannot obtain the <item>. Come back after sorting your inventory.
         MYSTIC_RETRIEVER              = 6387, -- You cannot obtain the <item>. Speak with the mystic retriever after sorting your inventory.
         ITEM_OBTAINED                 = 6390, -- Obtained: <item>.
@@ -31,8 +31,8 @@ zones[xi.zone.PORT_JEUNO] =
         COUNTER_NPC                   = 7082, -- I think the airships are a subtle form of pressure on the other three nations. That way, Jeuno can maintain the current balance of power.
         DEPARTURE_NPC                 = 7091, -- Have a safe flight!
         ARRIVAL_NPC                   = 7092, -- Enjoy your stay in Jeuno!
-        CONFISCATED                   = 7099, -- Your <keyitem> have been confiscated. You are temporarily suspended from boarding airships in Jeuno.
-        CLEARED_CUSTOMS               = 7103, -- You have cleared customs.
+        --FIXME CONFISCATED                   = 7099, -- Your <keyitem> have been confiscated. You are temporarily suspended from boarding airships in Jeuno.
+        --FIXME CLEARED_CUSTOMS               = 7103, -- You have cleared customs.
         DAPOL_DIALOG                  = 7105, -- Welcome to Port Jeuno, the busiest airship hub anywhere! You can't miss the awe-inspiring view of airships in flight!
         SECURITY_DIALOG               = 7108, -- Port Jeuno must remain secure. After all, if anything happened to the archduke, it would change the world!
         MOGHOUSE_EXIT                 = 7189, -- You have learned your way through the back alleys of Jeuno! Now you can exit to any area from your residence.
@@ -50,12 +50,12 @@ zones[xi.zone.PORT_JEUNO] =
         DRYEYES_3                     = 8185, -- Hey, you already got <item>. What you tryin' to pull here? Save some for my other customers, eh?
         DRYEYES_4                     = 8200, -- Huh? You don't got enough beastmen's seals! You tryin' to waste my time? Take a hike!
         DRYEYES_5                     = 8201, -- Huh? You don't got enough gil! You tryin' to waste my time? Take a hike!
-        WOULD_YE_MIND                 = 8405, -- Sorry, [mate/lass], but would ye mind leavin' me in peace?
+        --FIXME WOULD_YE_MIND                 = 8405, -- Sorry, [mate/lass], but would ye mind leavin' me in peace?
         OBTAINED_NUM_KEYITEMS         = 8475, -- Obtained key item: <number> <keyitem>!
         CHEST_IS_EMPTY                = 8673, -- The chest is empty.
         KINDLIX_SHOP_DIALOG           = 8692, -- Our fam'ly peddle sky flowers. You want have nice scenery? Send fireworks sky high! It's great feeling. Bwee hee hee.
         PYROPOX_SHOP_DIALOG           = 8696, -- Bwee hee. I get fireworks from all 'round globe. Kindlix never sell more than me.
-        STRANGE_DEVICE                = 9410, -- There is a strange device here.
+        --FIXME STRANGE_DEVICE                = 9410, -- There is a strange device here.
     },
     mob =
     {

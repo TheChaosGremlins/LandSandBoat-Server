@@ -7,7 +7,7 @@ zones[xi.zone.KAZHAM] =
 {
     text =
     {
-        ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED       = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                 = 6390,  -- Obtained: <item>.
         GIL_OBTAINED                  = 6391,  -- Obtained <number> gil.
@@ -26,19 +26,19 @@ zones[xi.zone.KAZHAM] =
         OBTAIN_SCYLDS                 = 6867,  -- You obtain <number> [scyld/scylds]! Current balance: <number> [scyld/scylds].
         HUNT_CANCELED                 = 6871,  -- Hunt canceled.
         ITEM_DELIVERY_DIALOG          = 9974,  -- We can deliver packages to Mog Houses anywhere in Vana'diel.
-        NOT_ENOUGH_GIL                = 9990,  -- You don't have enough gil.
+        --FIXME NOT_ENOUGH_GIL                = 9990,  -- You don't have enough gil.
         PAHYALOLOHOIV_SHOP_DIALOG     = 10036, -- Nothing in this world is crrreated good or evil. However, evil can arrrise when something exists in a place where it did not originally belong.
         TOJIMUMOSULAH_SHOP_DIALOG     = 10038, -- Things meant to live will live. Things meant to die will die when their time has come. However, this does not mean you should cease your strrruggle for life.
         GHEMISENTERILO_SHOP_DIALOG    = 10060, -- Can you really get everything that you want on the mainland?
         NUHCELODENKI_SHOP_DIALOG      = 10062, -- When you die, you can't take anything with you, but what fun is life if you don't have anything to live it up with?
         KHIFORYUHKOWA_SHOP_DIALOG     = 10063, -- Sometimes a strrrange Hume comes from the south to buy stuff. I wonder what he's doing down there...
         TAHNPOSBEI_SHOP_DIALOG        = 10064, -- You don't want to get whipped by those Tonberries, do you? Well, have I got the equipment forrr you!
-        OPO_OPO                       = 10392, -- Opo-opo!
+        --FIXME OPO_OPO                       = 10392, -- Opo-opo!
         IFRIT_UNLOCKED                = 10536, -- You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
         NOMAD_MOOGLE_DIALOG           = 10607, -- I'm a traveling moogle, kupo. I help adventurers in the Outlands access items they have stored in a Mog House elsewhere, kupo.
         MAMERIE_SHOP_DIALOG           = 10631, -- Is there something you require?
         EVISCERATION_LEARNED          = 10668, -- You have learned the weapon skill Evisceration!
-        SUSPICIOUS_CHARACTERS         = 10687, -- It's my job to look out for suspicious characters coming in on the airships.
+        --FIXME SUSPICIOUS_CHARACTERS         = 10687, -- It's my job to look out for suspicious characters coming in on the airships.
         RETRIEVE_DIALOG_ID            = 11018, -- You retrieve <item> from the porter moogle's care.
         COMMON_SENSE_SURVIVAL         = 11876, -- It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
     },

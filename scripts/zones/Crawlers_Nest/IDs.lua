@@ -8,7 +8,7 @@ zones[xi.zone.CRAWLERS_NEST] =
     text =
     {
         CONQUEST_BASE                 = 0,     -- Tallying conquest results...
-        REGION_POINTS_SANDORIA        = 65,    -- San d'Oria's region points have increased!
+        --FIXME REGION_POINTS_SANDORIA        = 65,    -- San d'Oria's region points have increased!
         DEVICE_NOT_WORKING            = 173,   -- The device is not working.
         SYS_OVERLOAD                  = 182,   -- Warning! Sys...verload! Enterin...fety mode. ID eras...d.
         YOU_LOST_THE                  = 187,   -- You lost the <item>.
@@ -16,7 +16,7 @@ zones[xi.zone.CRAWLERS_NEST] =
         ITEM_OBTAINED                 = 6580,  -- Obtained: <item>.
         GIL_OBTAINED                  = 6581,  -- Obtained <number> gil.
         KEYITEM_OBTAINED              = 6583,  -- Obtained key item: <keyitem>.
-        NOTHING_OUT_OF_ORDINARY       = 6594,  -- There is nothing out of the ordinary here.
+        --FIXME NOTHING_OUT_OF_ORDINARY       = 6594,  -- There is nothing out of the ordinary here.
         SENSE_OF_FOREBODING           = 6595,  -- You are suddenly overcome with a sense of foreboding...
         FELLOW_MESSAGE_OFFSET         = 6609,  -- I'm ready. I suppose.
         CARRIED_OVER_POINTS           = 7191,  -- You have carried over <number> login point[/s].

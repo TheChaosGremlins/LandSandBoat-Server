@@ -16,7 +16,7 @@ zones[xi.zone.THE_SHROUDED_MAW] =
         LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
         TIME_IN_THE_BATTLEFIELD_IS_UP = 7070, -- Your time in the battlefield is up! Now exiting...
-        CLEARED_BUT_MEMBERS_ENGAGED   = 7072, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        --FIXME CLEARED_BUT_MEMBERS_ENGAGED   = 7072, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
         PARTY_MEMBERS_ARE_ENGAGED     = 7085, -- The battlefield where your party members are engaged in combat is locked. Access is denied.
         NO_BATTLEFIELD_ENTRY          = 7095, -- An unfathomable light is rising from this strangely marked platform...
         MEMBERS_OF_YOUR_PARTY         = 7376, -- Currently, # members of your party (including yourself) have clearance to enter the battlefield.
@@ -24,7 +24,7 @@ zones[xi.zone.THE_SHROUDED_MAW] =
         TIME_LIMIT_FOR_THIS_BATTLE_IS = 7379, -- The time limit for this battle is <number> minutes.
         PARTY_MEMBERS_HAVE_FALLEN     = 7415, -- All party members have fallen in battle. Now leaving the battlefield.
         THE_PARTY_WILL_BE_REMOVED     = 7422, -- If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
-        ASTRAL_DISINTEGRATES          = 7430, -- The <item> disintegrates before your eyes!
+        --FIXME ASTRAL_DISINTEGRATES          = 7430, -- The <item> disintegrates before your eyes!
         CONQUEST_BASE                 = 7439, -- Tallying conquest results...
         ENTERING_THE_BATTLEFIELD_FOR  = 7602, -- Entering the battlefield for [Darkness Named/Test Your Mite/Waking Dreams/★Waking Dreams]!
     },

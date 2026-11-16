@@ -7,7 +7,7 @@ zones[xi.zone.HEAVENS_TOWER] =
 {
     text =
     {
-        VESTAL_CHAMBERS_LOCKED        = 310,  -- The door to the Vestal Chambers is locked shut.
+        --FIXME VESTAL_CHAMBERS_LOCKED        = 310,  -- The door to the Vestal Chambers is locked shut.
         STAIRWAY_LOCKED               = 554,  -- The door to the Starway Stairway is locked tight.
         STAIRWAY_ONLY_CITIZENS        = 555,  -- The door to the Starway Stairway is locked tight, and only citizens of Windurst can open it.
         CONQUEST_BASE                 = 582,  -- Tallying conquest results...
@@ -23,10 +23,10 @@ zones[xi.zone.HEAVENS_TOWER] =
         MEMBERS_LEVELS_ARE_RESTRICTED = 7192, -- Your party is unable to participate because certain members' levels are restricted.
         YOU_LEARNED_TRUST             = 7194, -- You learned Trust: <name>!
         CALL_MULTIPLE_ALTER_EGO       = 7195, -- You are now able to call multiple alter egos.
-        YOU_ACCEPT_THE_MISSION        = 7337, -- You have accepted the mission.
-        WORLD_PASS_PARTY_CHANGED      = 7365, -- Your party makeup has changed so you were unable to receive the item. Please try again.
+        --FIXME YOU_ACCEPT_THE_MISSION        = 7332, -- You have accepted the mission.  [alt Jan2025 value: 7329]
+        --FIXME WORLD_PASS_PARTY_CHANGED      = 7360, -- Your party makeup has changed so you were unable to receive the item. Please try again.  [alt Jan2025 value: 7357]
         FISHING_MESSAGE_OFFSET        = 7382, -- You can't fish here.
-        INVALID_ENSIGNIAS             = 7622, -- Your invalid ensignias have been disposed of.
+        --FIXME INVALID_ENSIGNIAS             = 7614, -- Your invalid ensignias have been disposed of.  [alt Jan2025 value: 7613]
         CELEBRATORY_GOODS             = 9115, -- An assortment of celebratory goods is available for purchase.
         OBTAINED_NUM_KEYITEMS         = 9193, -- Obtained key item: <number> <keyitem>!
         NOT_ACQUAINTED                = 9195, -- I'm sorry, but I don't believe we're acquainted. Please leave me be.

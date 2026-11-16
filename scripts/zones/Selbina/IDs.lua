@@ -7,7 +7,7 @@ zones[xi.zone.SELBINA] =
 {
     text =
     {
-        ASSIST_CHANNEL                = 6377, -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                = 6377, -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED       = 6384, -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                 = 6390, -- Obtained: <item>.
         GIL_OBTAINED                  = 6391, -- Obtained <number> gil.

@@ -7,7 +7,7 @@ zones[xi.zone.WESTERN_ADOULIN] =
 {
     text =
     {
-        ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED       = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                 = 6390,  -- Obtained: <item>.
         GIL_OBTAINED                  = 6391,  -- Obtained <number> gil.
@@ -52,8 +52,8 @@ zones[xi.zone.WESTERN_ADOULIN] =
         NOT_ENOUGH_SPARKS             = 11387, -- You do not possess enough sparks of eminence to complete the transaction.
         MAX_SPARKS_LIMIT_REACHED      = 11388, -- You have reached the maximum number of sparks that you can exchange this week (<number>). Your ability to purchase skill books and equipment will be restricted until next week.
         YOU_NOW_HAVE_AMT_CURRENCY     = 11398, -- You now have <number> [sparks of eminence/conquest points/points of imperial standing/Allied Notes/bayld/Fields of Valor points/assault points (Leujaoam)/assault points (Mamool Ja Training Grounds)/assault points (Lebros Cavern)/assault points (Periqia)/assault points (Ilrusi Atoll)/cruor/kinetic units/obsidian fragments/mweya plasm corpuscles/ballista points/Unity accolades/pinches of Escha silt/resistance credits].
-        YOU_HAVE_JOINED_UNITY         = 13029, -- You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
-        HAVE_ALREADY_CHANGED_UNITY    = 13105, -- You have already changed Unities. Please wait until the next tabulation period.
+        --FIXME YOU_HAVE_JOINED_UNITY         = 13011, -- You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
+        --FIXME HAVE_ALREADY_CHANGED_UNITY    = 13087, -- You have already changed Unities. Please wait until the next tabulation period.
     },
     mob =
     {

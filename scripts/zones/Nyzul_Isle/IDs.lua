@@ -127,7 +127,7 @@ zones[xi.zone.NYZUL_ISLE] =
         ACCEPT_THY_DESTRUCTION        = 7553, -- Accept thy destruction... Wish for eternity...yearn for immortality... Sense thy transience...know thy insignificance...
         OMEGA_SPAM                    = 7554, -- ΩΩΩΩΩΩΩ
         SHALL_KNOW_OBLIVION           = 7555, -- I am...Alexander... The fearful...shall be embraced... The bold...shall know oblivion...
-        LIGHTNING_CELL_SPARKS         = 7563, -- The % begins to crackle and emit sparks!
+        --FIXME LIGHTNING_CELL_SPARKS         = 7563, -- The % begins to crackle and emit sparks!
     },
 
     mob =

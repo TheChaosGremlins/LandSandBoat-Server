@@ -18,7 +18,7 @@ zones[xi.zone.VUNKERL_INLET_S] =
         LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
         FISHING_MESSAGE_OFFSET        = 7065, -- You can't fish here.
-        FOUND_ITEM_WITH_EASE          = 7163, -- It appears your chocobo found this item with ease.
+        --FIXME FOUND_ITEM_WITH_EASE          = 7155, -- It appears your chocobo found this item with ease.  [alt Jan2025 value: 7154]
         CAMPAIGN_RESULTS_TALLIED      = 7602, -- Campaign results tallied.
         COMMON_SENSE_SURVIVAL         = 9034, -- It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
     },

@@ -8,7 +8,7 @@ zones[xi.zone.MIDDLE_DELKFUTTS_TOWER] =
     text =
     {
         CONQUEST_BASE                 = 4,    -- Tallying conquest results...
-        REGION_POINTS_SANDORIA        = 69,   -- San d'Oria's region points have increased!
+        --FIXME REGION_POINTS_SANDORIA        = 69,   -- San d'Oria's region points have increased!  [alt Jan2025 value: 66]
         ITEM_CANNOT_BE_OBTAINED       = 6547, -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                 = 6553, -- Obtained: <item>.
         GIL_OBTAINED                  = 6554, -- Obtained <number> gil.
@@ -22,7 +22,7 @@ zones[xi.zone.MIDDLE_DELKFUTTS_TOWER] =
         MEMBERS_LEVELS_ARE_RESTRICTED = 7186, -- Your party is unable to participate because certain members' levels are restricted.
         FISHING_MESSAGE_OFFSET        = 7228, -- You can't fish here.
         CHEST_UNLOCKED                = 7336, -- You unlock the chest!
-        SENSE_A_FOUL_PRESENCE         = 7345, -- You sense a foul presence.
+        --FIXME SENSE_A_FOUL_PRESENCE         = 7345, -- You sense a foul presence.
         PLAYER_OBTAINS_ITEM           = 7384, -- <name> obtains <item>!
         UNABLE_TO_OBTAIN_ITEM         = 7385, -- You were unable to obtain the item.
         PLAYER_OBTAINS_TEMP_ITEM      = 7386, -- <name> obtains the temporary item: <item>!

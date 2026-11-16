@@ -17,16 +17,16 @@ zones[xi.zone.ABYSSEA_EMPYREAL_PARADOX] =
         LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
         CRUOR_OBTAINED                = 7411, -- <name> obtained <number> cruor.
-        TIME_IN_THE_BATTLEFIELD_IS_UP = 7716, -- Your time in the battlefield is up! Now exiting...
-        CLEARED_BUT_MEMBERS_ENGAGED   = 7718, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        PARTY_MEMBERS_ARE_ENGAGED     = 7731, -- The battlefield where your party members are engaged in combat is locked. Access is denied.
-        MEMBERS_OF_YOUR_PARTY         = 8022, -- Currently, # members of your party (including yourself) have clearance to enter the battlefield.
-        MEMBERS_OF_YOUR_ALLIANCE      = 8023, -- Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
-        TIME_LIMIT_FOR_THIS_BATTLE_IS = 8025, -- The time limit for this battle is <number> minutes.
+        --FIXME TIME_IN_THE_BATTLEFIELD_IS_UP = 7716, -- Your time in the battlefield is up! Now exiting...
+        --FIXME CLEARED_BUT_MEMBERS_ENGAGED   = 7718, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        --FIXME PARTY_MEMBERS_ARE_ENGAGED     = 7731, -- The battlefield where your party members are engaged in combat is locked. Access is denied.
+        --FIXME MEMBERS_OF_YOUR_PARTY         = 8022, -- Currently, # members of your party (including yourself) have clearance to enter the battlefield.
+        --FIXME MEMBERS_OF_YOUR_ALLIANCE      = 8023, -- Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
+        --FIXME TIME_LIMIT_FOR_THIS_BATTLE_IS = 8025, -- The time limit for this battle is <number> minutes.
         PARTY_MEMBERS_HAVE_FALLEN     = 8061, -- All party members have fallen in battle. Now leaving the battlefield.
         THE_PARTY_WILL_BE_REMOVED     = 8068, -- If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
-        CRIMSON_STONE_DISAPPEARS      = 8076, -- The <keyitem> disappears!
-        ENTERING_THE_BATTLEFIELD_FOR  = 8088, -- Entering the battlefield for [The Wyrm God/★The Wyrm God/]!
+        --FIXME CRIMSON_STONE_DISAPPEARS      = 8076, -- The <keyitem> disappears!
+        --FIXME ENTERING_THE_BATTLEFIELD_FOR  = 8088, -- Entering the battlefield for [The Wyrm God/★The Wyrm God/]!
     },
     mob =
     {

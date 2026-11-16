@@ -11,12 +11,12 @@ zones[xi.zone.YAHSE_HUNTING_GROUNDS] =
         ITEM_OBTAINED                 = 6390, -- Obtained: <item>.
         GIL_OBTAINED                  = 6391, -- Obtained <number> gil.
         KEYITEM_OBTAINED              = 6393, -- Obtained key item: <keyitem>.
-        NOTHING_OUT_OF_ORDINARY       = 6404, -- There is nothing out of the ordinary here.
+        --FIXME NOTHING_OUT_OF_ORDINARY       = 6404, -- There is nothing out of the ordinary here.
         CARRIED_OVER_POINTS           = 7001, -- You have carried over <number> login point[/s].
         LOGIN_CAMPAIGN_UNDERWAY       = 7002, -- The [/January/February/March/April/May/June/July/August/September/October/November/December] <number> Login Campaign is currently underway!
         LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
-        FOUND_ITEM_WITH_EASE          = 7163, -- It appears your chocobo found this item with ease.
+        --FIXME FOUND_ITEM_WITH_EASE          = 7158, -- It appears your chocobo found this item with ease.  [alt Jan2025 value: 7154]
         WAYPOINT_ATTUNED              = 7616, -- Your <keyitem> has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3]!
         EXPENDED_KINETIC_UNITS        = 7631, -- You have expended <number> kinetic unit[/s] and will be transported to another locale.
         INSUFFICIENT_UNITS            = 7632, -- Your stock of kinetic units is insufficient.
@@ -29,7 +29,7 @@ zones[xi.zone.YAHSE_HUNTING_GROUNDS] =
         UNCANNY_SENSATION             = 7874, -- You are assaulted by an uncanny sensation.
         ENERGIES_COURSE               = 7875, -- The arcane energies begin to course within your veins.
         MYSTICAL_WARMTH               = 7876, -- You feel a mystical warmth welling up inside you!
-        RIVER_UNSUITABLE_FOR_SWIMMING = 7883, -- This river is not suitable for swimming.
+        --FIXME RIVER_UNSUITABLE_FOR_SWIMMING = 7883, -- This river is not suitable for swimming.
     },
     mob =
     {

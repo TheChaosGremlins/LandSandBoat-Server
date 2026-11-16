@@ -16,7 +16,7 @@ zones[xi.zone.SPIRE_OF_VAHZL] =
         LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
         TIME_IN_THE_BATTLEFIELD_IS_UP = 7070, -- Your time in the battlefield is up! Now exiting...
-        CLEARED_BUT_MEMBERS_ENGAGED   = 7072, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        --FIXME CLEARED_BUT_MEMBERS_ENGAGED   = 7072, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
         PARTY_MEMBERS_ARE_ENGAGED     = 7085, -- The battlefield where your party members are engaged in combat is locked. Access is denied.
         NO_BATTLEFIELD_ENTRY          = 7097, -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
         MEMBERS_OF_YOUR_PARTY         = 7376, -- Currently, # members of your party (including yourself) have clearance to enter the battlefield.
@@ -26,7 +26,7 @@ zones[xi.zone.SPIRE_OF_VAHZL] =
         A_CRACK_HAS_FORMED            = 7381, -- A crack has formed on the <item>, and the beast inside has been unleashed!
         PARTY_MEMBERS_HAVE_FALLEN     = 7415, -- All party members have fallen in battle. Now leaving the battlefield.
         THE_PARTY_WILL_BE_REMOVED     = 7422, -- If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
-        FADES_INTO_NOTHINGNESS        = 7430, -- The % fades into nothingness...
+        --FIXME FADES_INTO_NOTHINGNESS        = 7430, -- The % fades into nothingness...
         ENTERING_THE_BATTLEFIELD_FOR  = 7621, -- Entering the battlefield for [Desires of Emptiness/Pulling the Plug/Empty Aspirations]!
     },
     mob =

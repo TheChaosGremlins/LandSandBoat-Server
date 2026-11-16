@@ -17,7 +17,7 @@ zones[xi.zone.FORET_DE_HENNETIEL] =
         BAYLD_OBTAINED                = 7007, -- You have obtained <number> bayld!
         YOU_HAVE_LEARNED              = 7015, -- You have learned <keyitem>!
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
-        FOUND_ITEM_WITH_EASE          = 7163, -- It appears your chocobo found this item with ease.
+        --FIXME FOUND_ITEM_WITH_EASE          = 7158, -- It appears your chocobo found this item with ease.  [alt Jan2025 value: 7154]
         STARTED_TO_LEARN_BOAT         = 7526, -- You have started to learn a bit about how to operate your boat.
         FIGURED_OUT_BOAT              = 7527, -- You have figured out how to properly use the boat! Report your progress to Choubollet.
         WAYPOINT_ATTUNED              = 7685, -- Your <keyitem> has been attuned to a geomagnetic fount[/ at the frontier station/ at Frontier Bivouac #1/ at Frontier Bivouac #2/ at Frontier Bivouac #3/ at Frontier Bivouac #4]!
@@ -30,7 +30,7 @@ zones[xi.zone.FORET_DE_HENNETIEL] =
         SURPLUS_LOST_TO_AETHER        = 7702, -- A surplus of <number> kinetic unit[/s] has been lost to the aether.
         LEARNS_SPELL                  = 7939, -- <name> learns <spell>!
         UNCANNY_SENSATION             = 7941, -- You are assaulted by an uncanny sensation.
-        RIVER_UNSUITABLE_FOR_SWIMMING = 7950, -- This river is not suitable for swimming.
+        --FIXME RIVER_UNSUITABLE_FOR_SWIMMING = 7950, -- This river is not suitable for swimming.
         HOMEPOINT_SET                 = 8013, -- Home point set!
     },
     mob =

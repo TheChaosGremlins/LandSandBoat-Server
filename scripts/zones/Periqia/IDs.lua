@@ -30,7 +30,7 @@ zones[xi.zone.PERIQIA] =
         TIME_REMAINING_SECONDS        = 7525, -- Time remaining: <number> [second/seconds] (Earth time).
         FADES_INTO_NOTHINGNESS        = 7526, -- The <keyitem> fades into nothingness...
         PARTY_FALLEN                  = 7527, -- All party members have fallen in battle. Mission failure in <number> [minute/minutes].
-        EXCALIACE_MESSAGE_OFFSET      = 7536, -- Such a lot of trouble for one little corsair... Shall we be on our way?
+        --FIXME EXCALIACE_MESSAGE_OFFSET      = 7536, -- Such a lot of trouble for one little corsair... Shall we be on our way?
     },
 
     mob =

@@ -7,29 +7,29 @@ zones[xi.zone.BHAFLAU_REMNANTS] =
 {
     text =
     {
-        NOTHING_HAPPENS               = 116,  -- Nothing happens...
+        --FIXME NOTHING_HAPPENS               = 116,  -- Nothing happens...
         ITEM_CANNOT_BE_OBTAINED       = 6384, -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                 = 6390, -- Obtained: <item>.
         GIL_OBTAINED                  = 6391, -- Obtained <number> gil.
         KEYITEM_OBTAINED              = 6393, -- Obtained key item: <keyitem>.
-        KEYITEM_LOST                  = 6394, -- Lost key item: <keyitem>.
-        ITEMS_OBTAINED                = 6399, -- You obtain <number> <item>!
+        --FIXME KEYITEM_LOST                  = 6394, -- Lost key item: <keyitem>.
+        --FIXME ITEMS_OBTAINED                = 6399, -- You obtain <number> <item>!
         CARRIED_OVER_POINTS           = 7001, -- You have carried over <number> login point[/s].
         LOGIN_CAMPAIGN_UNDERWAY       = 7002, -- The [/January/February/March/April/May/June/July/August/September/October/November/December] <number> Login Campaign is currently underway!
         LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
-        TEMP_ITEM                     = 7066, -- Obtained temporary item: <item>.
+        --FIXME TEMP_ITEM                     = 7061, -- Obtained temporary item: <item>.  [alt Jan2025 value: 7058]
         CELL_OFFSET                   = 7224, -- Main Weapon/Sub-Weapon restriction removed.
-        HAVE_TEMP_ITEM                = 7246, -- You already have that temporary item.
-        SALVAGE_START                 = 7247, -- You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
-        TIME_TO_COMPLETE              = 7419, -- You have <number> [minute/minutes] (Earth time) to complete this mission.
-        MISSION_FAILED                = 7420, -- The mission has failed. Leaving area.
-        TIME_REMAINING_MINUTES        = 7424, -- Time remaining: <number> [minute/minutes] (Earth time).
-        TIME_REMAINING_SECONDS        = 7425, -- Time remaining: <number> [second/seconds] (Earth time).
-        PARTY_FALLEN                  = 7427, -- All party members have fallen in battle. Mission failure in <number> [minute/minutes].
-        DOOR_IS_SEALED                = 7438, -- The door is sealed...
-        SOCKET_TRIGGER                = 7442, -- You hear a ragged sighing from beneath the floor...
-        SLOT_TRIGGER                  = 7443, -- You hear a scuttering sound from beneath the floor...
+        --FIXME HAVE_TEMP_ITEM                = 7246, -- You already have that temporary item.
+        --FIXME SALVAGE_START                 = 7247, -- You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
+        --FIXME TIME_TO_COMPLETE              = 7419, -- You have <number> [minute/minutes] (Earth time) to complete this mission.
+        --FIXME MISSION_FAILED                = 7420, -- The mission has failed. Leaving area.
+        --FIXME TIME_REMAINING_MINUTES        = 7424, -- Time remaining: <number> [minute/minutes] (Earth time).
+        --FIXME TIME_REMAINING_SECONDS        = 7425, -- Time remaining: <number> [second/seconds] (Earth time).
+        --FIXME PARTY_FALLEN                  = 7427, -- All party members have fallen in battle. Mission failure in <number> [minute/minutes].
+        --FIXME DOOR_IS_SEALED                = 7438, -- The door is sealed...
+        --FIXME SOCKET_TRIGGER                = 7442, -- You hear a ragged sighing from beneath the floor...
+        --FIXME SLOT_TRIGGER                  = 7443, -- You hear a scuttering sound from beneath the floor...
     },
     mob =
     {

@@ -7,7 +7,7 @@ zones[xi.zone.ATTOHWA_CHASM] =
 {
     text =
     {
-        CANNOT_OBTAIN_ITEM            = 6382, -- You cannot obtain the <item>.
+        --FIXME CANNOT_OBTAIN_ITEM            = 6382, -- You cannot obtain the <item>.
         ITEM_CANNOT_BE_OBTAINED       = 6384, -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                 = 6390, -- Obtained: <item>.
         GIL_OBTAINED                  = 6391, -- Obtained <number> gil.
@@ -21,14 +21,14 @@ zones[xi.zone.ATTOHWA_CHASM] =
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
         CONQUEST_BASE                 = 7065, -- Tallying conquest results...
         MINING_IS_POSSIBLE_HERE       = 7224, -- Mining is possible here if you have <item>.
-        FOUND_ITEM_WITH_EASE          = 7329, -- It appears your chocobo found this item with ease.
-        MIMEO_STONE_PICKUP            = 7340, -- The <keyitem> is shining brilliantly.
+        --FIXME FOUND_ITEM_WITH_EASE          = 7321, -- It appears your chocobo found this item with ease.  [alt Jan2025 value: 7320]
+        --FIXME MIMEO_STONE_PICKUP            = 7332, -- The <keyitem> is shining brilliantly.  [alt Jan2025 value: 7331]
         MIMEO_JEWEL_OFFSET            = 7332, -- The light from the <keyitem> is beginning to fade.
-        MIMEO_STONE_BRIGHTNESS_OFFSET = 7337, -- The <keyitem> is shining brilliantly.
+        --FIXME MIMEO_STONE_BRIGHTNESS_OFFSET = 7337, -- The <keyitem> is shining brilliantly.
         MUST_MOVE_CLOSER              = 7342, -- You must move a little closer to examine the area.
         GASPONIA_POISON               = 7344, -- The poison of the Gasponia has begun to spread through your body.
         OCCASIONAL_LUMPS              = 7359, -- Occasionally lumps arise in the ground here, then settle down again. It seems that there is something beneath the earth.
-        ANTLION_TRAP_SET              = 7360, -- You set the <item>. The acidic smell of antlion wafts through the air. Suddenly, a sharp clang rings through the air! You have caught something!
+        --FIXME ANTLION_TRAP_SET              = 7360, -- You set the <item>. The acidic smell of antlion wafts through the air. Suddenly, a sharp clang rings through the air! You have caught something!
         HOMEPOINT_SET                 = 8246, -- Home point set!
         UNITY_WANTED_BATTLE_INTERACT  = 8304, -- Those who have accepted % must pay # Unity accolades to participate. The content for this Wanted battle is #. [Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]
     },

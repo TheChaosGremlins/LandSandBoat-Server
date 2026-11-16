@@ -7,7 +7,7 @@ zones[xi.zone.TAVNAZIAN_SAFEHOLD] =
 {
     text =
     {
-        ASSIST_CHANNEL                 = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                 = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED        = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                  = 6390,  -- Obtained: <item>.
         GIL_OBTAINED                   = 6391,  -- Obtained <number> gil.
@@ -34,11 +34,11 @@ zones[xi.zone.TAVNAZIAN_SAFEHOLD] =
         MELLEUPAUX_SHOP_DIALOG         = 10920, -- Hello! With the arrival of supplies from Jeuno, we are now able to sell some of the items we had stored in these warehouses.
         MISSEULIEU_SHOP_DIALOG         = 10922, -- Greetings, adventurer! I've been given authorization to begin the sale of the old Tavnazian armor we had in storage!
         MIGRAN_SHOP_DIALOG             = 10924, -- Please, [sir/ma'am]. Even with the aid from Jeuno, I still have trouble feeding my six children...
-        COMPLETELY_BARE                = 10925, -- The safehold warehouses used to store a great amount of equipment and supplies. However, now the rooms are almost completely bare...
-        LITTLE_TO_WATCH_OVER           = 10926, -- I have been assigned to watch over the supplies in these storage rooms, though there is little to watch over...
-        CONTACT_WITH_THE_MAINLAND      = 10927, -- If we could only make contact with the mainland... Then, maybe, the day would come when these warehouses are filled with goods from all over Vana'diel.
-        KEEP_INVENTORY                 = 10928, -- My job is to keep inventory of these items. However, I have to count really, really slow or I finish in ten minutes!
-        LOTS_OF_STORAGE                = 10930, -- Little food... Little supplies... The one thing Tavnazia does have a lot of, though, is storage space! <Sigh>
+        --FIXME COMPLETELY_BARE                = 10925, -- The safehold warehouses used to store a great amount of equipment and supplies. However, now the rooms are almost completely bare...
+        --FIXME LITTLE_TO_WATCH_OVER           = 10926, -- I have been assigned to watch over the supplies in these storage rooms, though there is little to watch over...
+        --FIXME CONTACT_WITH_THE_MAINLAND      = 10927, -- If we could only make contact with the mainland... Then, maybe, the day would come when these warehouses are filled with goods from all over Vana'diel.
+        --FIXME KEEP_INVENTORY                 = 10928, -- My job is to keep inventory of these items. However, I have to count really, really slow or I finish in ten minutes!
+        --FIXME LOTS_OF_STORAGE                = 10930, -- Little food... Little supplies... The one thing Tavnazia does have a lot of, though, is storage space! <Sigh>
         ITEM_DELIVERY_DIALOG           = 10931, -- I can send your items to anywhere in Vana'diel!
         HOMEPOINT_SET                  = 10934, -- Home point set!
         DOOR_IS_LOCKED_TIGHT           = 11031, -- The door is locked tight.

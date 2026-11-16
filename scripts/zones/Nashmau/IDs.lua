@@ -7,7 +7,7 @@ zones[xi.zone.NASHMAU] =
 {
     text =
     {
-        ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED       = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_CANNOT_BE_OBTAINEDX      = 6388,  -- You cannot obtain the <item>. Try trading again after sorting your inventory.
         ITEM_OBTAINED                 = 6390,  -- Obtained: <item>.
@@ -29,13 +29,13 @@ zones[xi.zone.NASHMAU] =
         HUNT_CANCELED                 = 7393,  -- Hunt canceled.
         JAJAROON_SHOP_DIALOG          = 10491, -- Hellooo. Yooo have caaard? Can do gaaame? Jajaroon have diiice.
         TSUTSUROON_SHOP_DIALOG        = 10501, -- What yooo want? Have katana, katana, and nin-nin...yooo want?
-        MIMIROON_DIALOG               = 10503, -- Oooh, byoootiful. Byoootiful magic. Tired of sprinkling sand. Still no loook like magic! Want use reeeal magic!
+        --FIXME MIMIROON_DIALOG               = 10503, -- Oooh, byoootiful. Byoootiful magic. Tired of sprinkling sand. Still no loook like magic! Want use reeeal magic!
         MAMAROON_SHOP_DIALOG          = 10504, -- Welcome to maaagic shop. Lots of magics for yooo.
         POPOROON_SHOP_DIALOG          = 10506, -- Come, come. Buy aaarmor, looots of armor!
         WATAKHAMAZOM_SHOP_DIALOG      = 10507, -- Looking for some bows and bolts to strrrike fear into the hearts of your enemies? You can find 'em here!
         CHICHIROON_SHOP_DIALOG        = 10509, -- Howdy-hooo! I gots soooper rare dice for yooo.
-        RARAROON_SHOP_CLOSED          = 10606, -- Rararoon want do visit to Alzadaal! Must have many triiinkets!
-        RARAROON_SHOP_DIALOG          = 10607, -- Rararoon do visit to Alzadaal! Will trade many trinkets for jingly!
+        --FIXME RARAROON_SHOP_CLOSED          = 10606, -- Rararoon want do visit to Alzadaal! Must have many triiinkets!
+        --FIXME RARAROON_SHOP_DIALOG          = 10607, -- Rararoon do visit to Alzadaal! Will trade many trinkets for jingly!
         SANCTION                      = 10785, -- You have received the Empire's Sanction.
         NENE_DELIVERY_DIALOG          = 10853, -- Yooo want to send gooods? Yooo want to send clink clink?
         NANA_DELIVERY_DIALOG          = 10854, -- Yooo send gooods. Yooo send clink clink.

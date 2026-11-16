@@ -7,7 +7,7 @@ zones[xi.zone.BASTOK_MINES] =
 {
     text =
     {
-        ASSIST_CHANNEL                 = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                 = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED        = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
         FULL_INVENTORY_AFTER_TRADE     = 6388,  -- You cannot obtain the <item>. Try trading again after sorting your inventory.
         ITEM_OBTAINED                  = 6390,  -- Obtained: <item>.
@@ -23,7 +23,7 @@ zones[xi.zone.BASTOK_MINES] =
         HOMEPOINT_SET                  = 6495,  -- Home point set!
         YOU_ACCEPT_THE_MISSION         = 6524,  -- You have accepted the mission.
         ORIGINAL_MISSION_OFFSET        = 6529,  -- You can consult the Mission section of the main menu to review your objectives. Speed and efficiency are your priorities. Dismissed.
-        MOG_HOUSE_NOT_OPEN             = 6596,  -- That Mog House is not currently open for visits.
+        --FIXME MOG_HOUSE_NOT_OPEN             = 6596,  -- That Mog House is not currently open for visits.
         CONQUEST_BASE                  = 6597,  -- Tallying conquest results...
         MARIADOK_DIALOG                = 6756,  -- Your fate rides on the changing winds of Vana'diel. I can give you insight on the local weather.
         MOG_LOCKER_OFFSET              = 6869,  -- Your Mog Locker lease is valid until <timestamp>, kupo.
@@ -83,17 +83,17 @@ zones[xi.zone.BASTOK_MINES] =
         EMALIVEULAUX_COP_NOT_COMPLETED = 12276, -- I'd like to start my own business someday, but I just haven't found anything that truly interests me.
         EMALIVEULAUX_OPEN_DIALOG       = 12277, -- Rare Tavnazian imports! Get them before they're gone!
         EMALIVEULAUX_CLOSED_DIALOG     = 12278, -- I'd love to sell you goods imported from the island of Tavnazia, but with the area under foreign control, I can't secure my trade routes...
-        CHOCOBO_FEEDING_SLEEP          = 13416, -- Your chocobo is sleeping soundly. Please wait until it awakens before feeding it.
-        CHOCOBO_FEEDING_RUN_AWAY       = 13417, -- Your chocobo has run away. Please wait until it returns and then feed it.
-        CHOCOBO_FEEDING_STILL_EGG      = 13418, -- Your chocobo has not hatched, so you cannot feed it yet.
+        --FIXME CHOCOBO_FEEDING_SLEEP          = 12855, -- Your chocobo is sleeping soundly. Please wait until it awakens before feeding it.
+        --FIXME CHOCOBO_FEEDING_RUN_AWAY       = 12856, -- Your chocobo has run away. Please wait until it returns and then feed it.
+        --FIXME CHOCOBO_FEEDING_STILL_EGG      = 12857, -- Your chocobo has not hatched, so you cannot feed it yet.
         CHOCOBO_FEEDING_ITEM           = 13940, -- #: %
         COMMON_SENSE_SURVIVAL          = 16045, -- It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
         TEAR_IN_FABRIC_OF_SPACE        = 16644, -- There appears to be a tear in the fabric of space...
-        LINK_CONCIERGE_GOODBYE         = 16939, -- It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
-        LINK_CONCIERGE_ONE_PER_DAY     = 16943, -- In the interest of fairness, I am unable to distribute multiple linkpearls to someone on the same day. Please come back tomorrow.
-        LINK_CONCIERGE_REGISTERED      = 17000, -- Your registration is officially complete.
-        LINK_CONCIERGE_REGISTERED_2    = 17001, -- May your journeys lead you to many as-yet-unmet friends, and may the bonds you forge last a lifetime.
-        LINK_CONCIERGE_LS_TAKEN        = 17002, -- Another member of that linkshell currently has an active registration. Please wait until that registration expires and try again.
+        --FIXME LINK_CONCIERGE_GOODBYE         = 16939, -- It was my pleasure to meet with you this fine day. May you encounter many friendly faces throughout your travels.
+        --FIXME LINK_CONCIERGE_ONE_PER_DAY     = 16943, -- In the interest of fairness, I am unable to distribute multiple linkpearls to someone on the same day. Please come back tomorrow.
+        --FIXME LINK_CONCIERGE_REGISTERED      = 17000, -- Your registration is officially complete.
+        --FIXME LINK_CONCIERGE_REGISTERED_2    = 17001, -- May your journeys lead you to many as-yet-unmet friends, and may the bonds you forge last a lifetime.
+        --FIXME LINK_CONCIERGE_LS_TAKEN        = 17002, -- Another member of that linkshell currently has an active registration. Please wait until that registration expires and try again.
     },
     mob =
     {

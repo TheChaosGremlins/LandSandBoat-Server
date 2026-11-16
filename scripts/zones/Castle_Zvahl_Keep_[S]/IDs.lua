@@ -15,8 +15,8 @@ zones[xi.zone.CASTLE_ZVAHL_KEEP_S] =
         LOGIN_CAMPAIGN_UNDERWAY       = 7002, -- The [/January/February/March/April/May/June/July/August/September/October/November/December] <number> Login Campaign is currently underway!
         LOGIN_NUMBER                  = 7003, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
-        NOTHING_OUT_OF_ORDINARY       = 7342, -- You find nothing out of the ordinary.
-        A_SHIVER_RUNS_DOWN            = 7343, -- A shiver runs down your spine...
+        --FIXME NOTHING_OUT_OF_ORDINARY       = 7337, -- You find nothing out of the ordinary.  [alt Jan2025 value: 7334]
+        --FIXME A_SHIVER_RUNS_DOWN            = 7338, -- A shiver runs down your spine...  [alt Jan2025 value: 7335]
         HOMEPOINT_SET                 = 7878, -- Home point set!
     },
     mob =

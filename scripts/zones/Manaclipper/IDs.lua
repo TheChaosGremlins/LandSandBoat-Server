@@ -17,10 +17,10 @@ zones[xi.zone.MANACLIPPER] =
         MEMBERS_LEVELS_ARE_RESTRICTED = 7023, -- Your party is unable to participate because certain members' levels are restricted.
         CONQUEST_BASE                 = 7065, -- Tallying conquest results...
         FISHING_MESSAGE_OFFSET        = 7235, -- You can't fish here.
-        TOUR_DHALMEL_ROCK_OFFSET      = 7391, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around Dhalmel Rock!
-        TOUR_MALIYAKALEYA_REEF_OFFSET = 7397, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around the Maliyakaleya Reef!
-        TOUR_PURGONORGO_ISLE_OFFSET   = 7403, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip to the trrropical paradise of Purgonorgo Isle!
-        TOUR_SUNSET_DOCKS_OFFSET      = 7409, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip back to Sunset Docks!
+        --FIXME TOUR_DHALMEL_ROCK_OFFSET      = 7383, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around Dhalmel Rock!  [alt Jan2025 value: 7382]
+        --FIXME TOUR_MALIYAKALEYA_REEF_OFFSET = 7389, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip around the Maliyakaleya Reef!  [alt Jan2025 value: 7388]
+        --FIXME TOUR_PURGONORGO_ISLE_OFFSET   = 7395, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip to the trrropical paradise of Purgonorgo Isle!  [alt Jan2025 value: 7394]
+        --FIXME TOUR_SUNSET_DOCKS_OFFSET      = 7401, -- Hi! My name's Khots Chalahko, and I'll be your guide to today's trip back to Sunset Docks!  [alt Jan2025 value: 7400]
         KHOTS_CHALAHKO_OFFSET         = 7408, -- Ahhh... Isn't it grrreat out here on the open sea!?
     },
     mob =

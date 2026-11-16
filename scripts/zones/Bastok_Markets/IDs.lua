@@ -7,7 +7,7 @@ zones[xi.zone.BASTOK_MARKETS] =
 {
     text =
     {
-        ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
+        --FIXME ASSIST_CHANNEL                = 6377,  -- You will be able to use the Assist Channel until #/#/# at #:# (JST).
         ITEM_CANNOT_BE_OBTAINED       = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
         CANNOT_OBTAIN_THE_ITEM        = 6386,  -- You cannot obtain the item. Come back after sorting your inventory.
         FULL_INVENTORY_AFTER_TRADE    = 6388,  -- You cannot obtain the <item>. Try trading again after sorting your inventory.
@@ -26,7 +26,7 @@ zones[xi.zone.BASTOK_MARKETS] =
         HOMEPOINT_SET                 = 6495,  -- Home point set!
         YOU_ACCEPT_THE_MISSION        = 6524,  -- You have accepted the mission.
         ORIGINAL_MISSION_OFFSET       = 6529,  -- You can consult the Mission section of the main menu to review your objectives. Speed and efficiency are your priorities. Dismissed.
-        MOG_HOUSE_NOT_OPEN            = 6596,  -- That Mog House is not currently open for visits.
+        --FIXME MOG_HOUSE_NOT_OPEN            = 6596,  -- That Mog House is not currently open for visits.
         CONQUEST_BASE                 = 6597,  -- Tallying conquest results...
         MOG_LOCKER_OFFSET             = 6891,  -- Your Mog Locker lease is valid until <timestamp>, kupo.
         MAP_MARKER_TUTORIAL           = 7103,  -- Selecting Map from the main menu opens the map of the area in which you currently reside. Select Markers and press the right arrow key to see all the markers placed on your map.
@@ -75,8 +75,8 @@ zones[xi.zone.BASTOK_MARKETS] =
         NOT_ENOUGH_SPARKS             = 14264, -- You do not possess enough sparks of eminence to complete the transaction.
         MAX_SPARKS_LIMIT_REACHED      = 14265, -- You have reached the maximum number of sparks that you can exchange this week (<number>). Your ability to purchase skill books and equipment will be restricted until next week.
         YOU_NOW_HAVE_AMT_CURRENCY     = 14275, -- You now have <number> [sparks of eminence/conquest points/points of imperial standing/Allied Notes/bayld/Fields of Valor points/assault points (Leujaoam)/assault points (Mamool Ja Training Grounds)/assault points (Lebros Cavern)/assault points (Periqia)/assault points (Ilrusi Atoll)/cruor/kinetic units/obsidian fragments/mweya plasm corpuscles/ballista points/Unity accolades/pinches of Escha silt/resistance credits].
-        YOU_HAVE_JOINED_UNITY         = 14687, -- You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
-        HAVE_ALREADY_CHANGED_UNITY    = 14763, -- You have already changed Unities. Please wait until the next tabulation period.
+        --FIXME YOU_HAVE_JOINED_UNITY         = 14578, -- You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
+        --FIXME HAVE_ALREADY_CHANGED_UNITY    = 14654, -- You have already changed Unities. Please wait until the next tabulation period.
     },
     mob =
     {

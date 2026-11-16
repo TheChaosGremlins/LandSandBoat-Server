@@ -8,7 +8,7 @@ zones[xi.zone.CASTLE_ZVAHL_BAILEYS] =
     text =
     {
         CONQUEST_BASE                 = 0,    -- Tallying conquest results...
-        REGION_POINTS_SANDORIA        = 65,   -- San d'Oria's region points have increased!
+        --FIXME REGION_POINTS_SANDORIA        = 65,   -- San d'Oria's region points have increased!  [alt Jan2025 value: 62]
         ITEM_CANNOT_BE_OBTAINED       = 6543, -- You cannot obtain the <item>. Come back after sorting your inventory.
         ITEM_OBTAINED                 = 6549, -- Obtained: <item>.
         GIL_OBTAINED                  = 6550, -- Obtained <number> gil.
@@ -21,10 +21,10 @@ zones[xi.zone.CASTLE_ZVAHL_BAILEYS] =
         LOGIN_NUMBER                  = 7162, -- In celebration of your most recent login (login no. <number>), we have provided you with <number> points! You currently have a total of <number> points.
         MEMBERS_LEVELS_ARE_RESTRICTED = 7182, -- Your party is unable to participate because certain members' levels are restricted.
         CHEST_UNLOCKED                = 7239, -- You unlock the chest!
-        MOBLIN_EARPLUG_ON_THE_GROUND  = 7565, -- You see a Moblin earplug lying on the ground. Could Zeelozok have met his end here...?
-        MARQUIS_ATTACKS               = 7566, -- Marquis Andrealphus and his minions attack!
-        YOU_FIND_NOTHING              = 7567, -- You find nothing.
-        BEGONE_FROM_THESE_HALLS       = 7568, -- Insolent adventurer! Begone from these halls!
+        --FIXME MOBLIN_EARPLUG_ON_THE_GROUND  = 7565, -- You see a Moblin earplug lying on the ground. Could Zeelozok have met his end here...?
+        --FIXME MARQUIS_ATTACKS               = 7566, -- Marquis Andrealphus and his minions attack!
+        --FIXME YOU_FIND_NOTHING              = 7567, -- You find nothing.
+        --FIXME BEGONE_FROM_THESE_HALLS       = 7568, -- Insolent adventurer! Begone from these halls!
         COMMON_SENSE_SURVIVAL         = 7614, -- It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
     },
     mob =

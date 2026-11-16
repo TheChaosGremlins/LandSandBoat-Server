@@ -8,7 +8,7 @@ zones[xi.zone.VELUGANNON_PALACE] =
     text =
     {
         ITEM_CANNOT_BE_OBTAINED       = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
-        ITEM_CANNOT_BE_OBTAINED_TRADE = 6391,  -- You cannot obtain the <item>. Try trading again after sorting your inventory.
+        --FIXME ITEM_CANNOT_BE_OBTAINED_TRADE = 6388,  -- You cannot obtain the <item>. Try trading again after sorting your inventory.  [alt Jan2025 value: 6386]
         ITEM_OBTAINED                 = 6390,  -- Obtained: <item>.
         GIL_OBTAINED                  = 6391,  -- Obtained <number> gil.
         KEYITEM_OBTAINED              = 6393,  -- Obtained key item: <keyitem>.

@@ -18,7 +18,7 @@ zones[xi.zone.CLOISTER_OF_FROST] =
         CONQUEST_BASE                    = 7065, -- Tallying conquest results...
         YOU_CANNOT_ENTER_THE_BATTLEFIELD = 7226, -- You cannot enter the battlefield at present. Please wait a little longer.
         TIME_IN_THE_BATTLEFIELD_IS_UP    = 7229, -- Your time in the battlefield is up! Now exiting...
-        CLEARED_BUT_MEMBERS_ENGAGED      = 7231, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        --FIXME CLEARED_BUT_MEMBERS_ENGAGED      = 7231, -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
         PARTY_MEMBERS_ARE_ENGAGED        = 7244, -- The battlefield where your party members are engaged in combat is locked. Access is denied.
         PROTOCRYSTAL                     = 7250, -- It is a giant crystal.
         MEMBERS_OF_YOUR_PARTY            = 7535, -- Currently, # members of your party (including yourself) have clearance to enter the battlefield.
@@ -33,7 +33,7 @@ zones[xi.zone.CLOISTER_OF_FROST] =
         ALREADY_HAVE_ALL_FRAGS           = 7682, -- You have obtained all of the fragments. You must hurry to the ruins of the ancient shrine!
         FOUND_ALL_FRAGS                  = 7683, -- You have obtained <keyitem>! You now have all 8 fragments of light!
         ZILART_MONUMENT                  = 7684, -- It is an ancient Zilart monument.
-        MUST_MOVE_CLOSER                 = 7698, -- You will have to move closer to remove the <keyitem>.
+        --FIXME MUST_MOVE_CLOSER                 = 7698, -- You will have to move closer to remove the <keyitem>.
         ATTACH_SEAL                      = 7783, -- <player> attaches <item> to the protocrystal.
         POWER_STYMIES                    = 7784, -- An unseen power stymies your efforts to attach <item> to the protocrystal.
     },
